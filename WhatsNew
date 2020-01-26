@@ -1,6 +1,11 @@
+What's New
+
+Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
+
+
 2018-12-05: European Exposure Model v0.1 released
 
-v0.1 of the European Exposure Model was released through three interactive viewers at the following website: https://maps.eu-risk.eucentre.it/ 
+v0.1 of the European Exposure Model was released through three interactive viewers (with associated web services) at the following website: https://maps.eu-risk.eucentre.it/ 
 Gridded exposure: https://maps.eu-risk.eucentre.it/map/european-exposure-gridded-data
 Country exposure: https://maps.eu-risk.eucentre.it/map/european-exposure-level-0
 Admin level 1 exposure: https://maps.eu-risk.eucentre.it/map/european-exposure-level-1
