@@ -1,0 +1,2 @@
+The exposure model for Denmark is taken from GED4GEM (see https://platform.openquake.org/exposure/) and uses the NERA mapping scheme (that has been made available in this repository, i.e. https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.2). 
+ 

@@ -1,0 +1,34 @@
+The exposure model for Portugal was provided by Vitor Silva (Vitor.silva@globalquakemodel.org) and Catarina Costa (catarina.costa@globalquakemodel.org). The following mapping of the variables in the original census to the GEM building taxonomy was applied:
+
+Epoca				GEM Taxonomy
+1		Até 1919	CDN
+2	      1919 - 1945	CDN
+3	      1946 - 1960	CDN
+4	      1961 - 1970	CDL
+5	      1971 - 1980	CDL
+6	      1981 - 1990	CDM
+7	      1991 - 1995	CDM
+8	      1996 - 2000	CDM
+9	      2001 - 2005	CDM
+10	      2006 - 2011	CDH
+
+
+ESCNPAV	GEM Taxonomy
+1	H:1
+2	H:2
+3	H:3
+4	H:4
+5	H:5
+6	H:6
+7	H:7
+8	H:8
+9	H:9
+10	H:10
+
+Estrutura						GEM Taxonomy
+1	Betão armado					CR+CIP/LFINF/FC
+2	Paredes de alvenaria, com placa			MUR/LWAL/FC
+3	Paredes de alvenaria, sem placa			MUR/LWAL/FW
+4	Paredes de adobe ou alvenaria de pedra solta	MUR
+5	Outra (madeira, metálica, ...)			UNK
+

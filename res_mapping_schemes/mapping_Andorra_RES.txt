@@ -1,0 +1,1 @@
+The exposure model for Andorra is taken from GED4GEM (see https://platform.openquake.org/exposure/) and uses the PAGER mapping scheme (https://pubs.usgs.gov/of/2008/1160/downloads/PAGER_database/PAGER_Inventory_database_v2.0.xls). 
