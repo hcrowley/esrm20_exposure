@@ -1,4 +1,4 @@
-The exposure model for Portugal was provided by Vitor Silva (Vitor.silva@globalquakemodel.org) and Catarina Costa (catarina.costa@globalquakemodel.org). The following mapping of the variables in the original census to the GEM building taxonomy was applied:
+The processed census data for Portugal was provided by Vitor Silva (Vitor.silva@globalquakemodel.org) and Catarina Costa (catarina.costa@globalquakemodel.org). The following mapping of the variables in the census to the GEM building taxonomy was applied:
 
 Epoca				GEM Taxonomy
 1		Até 1919	CDN
