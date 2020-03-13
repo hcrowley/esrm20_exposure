@@ -1,6 +1,6 @@
 The exposure model for Belarus is taken from GED4GEM (see https://platform.openquake.org/exposure/) and uses the NERA mapping scheme (that has been made available in this repository, i.e. https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.2). 
 
-The NERA building classes were then mapped to the GEM taxonomy as follows:
+The NERA building classes were then mapped to the ESRM20 taxonomy as follows:
 
 DX+D99/CR+CT99/LWAL+DU99/DY+D99/CR+CT99/LWAL+DU99/H99/Y99/RES+RES99/BP99/PLF99/IR99/EW99/RSH99+RMT99+R99+RWC99/F99+FWC99/FOS99	--> CR/LWAL+DUL/HBET:3-5
 DX+D99/M99+CB99+MO99/LWAL+DU99/DY+D99/M99+CB99+MO99/LWAL+DU99/H99/Y99/RES+RES99/BP99/PLF99/IR99/EWMA/RSH99+RMT99+R99+RWC99/F99+FWC99/FOS99 --> MUR+CB/LWAL+DNO/H:1

@@ -1,6 +1,6 @@
 The exposure model for Finland is taken from GED4GEM (see https://platform.openquake.org/exposure/) and uses the NERA mapping scheme (that has been made available in this repository, i.e. https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.2). 
  
-The NERA building classes were then mapped to the GEM taxonomy as follows:
+The NERA building classes were then mapped to the ESRM20 taxonomy as follows:
 
 DX+D99/CR+CT99/LFINF+DU99/DY+D99/CR+CT99/LFINF+DU99/H99/Y99/RES+RES99/BP99/PLF99/IR99/EW99/RSH99+RMT99+R99+RWC99/FC+FC99+FWC99/FOS99 -->	CR/LFINF+CDL/H:3
 DX+D99/CR+CT99/LWAL+DU99/DY+D99/CR+CT99/LWAL+DU99/HBET:10,4+HF99/Y99/RES+RES99/BP99/PLF99/IR99/EW99/RSH99+RMT99+R99+RWC99/FC+FC99+FWC99/FOS99 -->	CR/LWAL+CDL/HBET:4-10

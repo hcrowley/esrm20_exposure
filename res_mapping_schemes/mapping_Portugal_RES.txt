@@ -1,6 +1,6 @@
-The processed census data for Portugal was provided by Vitor Silva (Vitor.silva@globalquakemodel.org) and Catarina Costa (catarina.costa@globalquakemodel.org). The following mapping of the variables in the census to the GEM building taxonomy was applied:
+The processed census data for Portugal was provided by Vitor Silva (Vitor.silva@globalquakemodel.org) and Catarina Costa (catarina.costa@globalquakemodel.org). The following mapping of the variables in the census to the ESRM20 building taxonomy was applied:
 
-Epoca				GEM Taxonomy
+Epoca				ESRM20 Taxonomy
 1		Até 1919	CDN
 2	      1919 - 1945	CDN
 3	      1946 - 1960	CDN
@@ -13,7 +13,7 @@ Epoca				GEM Taxonomy
 10	      2006 - 2011	CDH
 
 
-ESCNPAV	GEM Taxonomy
+ESCNPAV	ESRM20 Taxonomy
 1	H:1
 2	H:2
 3	H:3

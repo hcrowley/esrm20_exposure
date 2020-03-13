@@ -1,6 +1,6 @@
-The processed census data for Romania was provided by Dragos Toma-Danila (toma_drag@yahoo.com) - see 'data_Romania_RES_census-buildings.xlsx'. The taxonomy provided in the latter file have been adapted to follow the latest GEM Taxonomy and some additional modifications have been made as summarised below:
+The processed census data for Romania was provided by Dragos Toma-Danila (toma_drag@yahoo.com) - see 'data_Romania_RES_census-buildings.xlsx'. The taxonomy provided in the latter file have been adapted to follow the ESRM20 Taxonomy and some additional modifications have been made as summarised below:
 
-ORIGINAL TAXONOMY				GEM TAXONOMY
+ORIGINAL TAXONOMY				ESRM20 TAXONOMY
 CR+CIP/LFINF+DNO/HEX:1/YPRE:1945		CR/LFINF+DNO/H:1/YPRE:1945
 CR+CIP/LFINF+DNO/HEX:1/YBET:1946,1960		CR/LFINF+DNO/H:1/YBET:1946,1960
 CR+CIP/LFM+DUC/HEX:1/YBET:1960,1977		CR/LFM+DUC/H:1/YBET:1960,1977

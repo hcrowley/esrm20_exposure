@@ -1,7 +1,7 @@
-The processed census data for Italy was provided by Barbara Borzi (barbara.borzi@eucentre.it) and Marta Faravelli (marta.faravelli@eucentre.it) based on the 2001 ISTAT census data (see data_Italy_RES_census.txt). The variables in the processed census have been mapped to the GEM taxonomy as follows:
+The processed census data for Italy was provided by Barbara Borzi (barbara.borzi@eucentre.it) and Marta Faravelli (marta.faravelli@eucentre.it) based on the 2001 ISTAT census data (see data_Italy_RES_census.txt). The variables in the processed census have been mapped to the ESRM20 taxonomy as follows:
 
 
-Mat		Piani		GEM Taxonomy
+Mat		Piani		ESRM20 Taxonomy
 muratura	1-3		MUR+STRUB/LWAL+CDN/H1 to H3
 muratura 	4-8		MUR+STDRE/LWAL+CDN/H1 to H8
 ca		1-8		CR/LFINF+.../H1 to H8
@@ -9,7 +9,7 @@ pilot		1-8		CR/LFINF+.../SOS/H1 to H8
 altro		1-8		MCF/LWAL+CDL/H1 to H8
 
 
-Epoca		GEM Taxonomy (for CR/LFINF)
+Epoca		ESRM20 Taxonomy (for CR/LFINF)
 pre 1919	CDN
 1919-1945	CDL
 1946-1961	CDL

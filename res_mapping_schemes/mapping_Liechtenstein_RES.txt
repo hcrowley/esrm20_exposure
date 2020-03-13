@@ -1,6 +1,6 @@
 The exposure model for Liechtenstein is taken from GED4GEM (see https://platform.openquake.org/exposure/) and uses the NERA mapping scheme (that has been made available in this repository, i.e. https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.2). 
  
-The NERA building classes have been mapped to the GEM Taxonomy as follows:
+The NERA building classes have been mapped to the ESRM20 Taxonomy as follows:
 
 DX+D99/CR+CIP/LFM+DUC/DY+D99/CR+CIP/LFM+DUC/H99/Y99/OC99/BP99/PLF99/IR99/EW99/RSH99+RMT99+R99+RWC99/F99+FWC99/FOS99 -->	CR/LFM+CDL/HBET:3-5
 DX+D99/CR+CIP/LWAL+DU99/DY+D99/CR+CIP/LWAL+DU99/H99/Y99/OC99/BP99/PLF99/IR99/EW99/RSH99+RMT99+R99+RWC99/F99+FWC99/FOS99 -->	CR/LWAL+CDL/HBET:3-5

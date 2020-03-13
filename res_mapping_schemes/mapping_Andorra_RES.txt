@@ -1,6 +1,6 @@
 The exposure model for Andorra is taken from GED4GEM (see https://platform.openquake.org/exposure/) and uses the PAGER mapping scheme (https://pubs.usgs.gov/of/2008/1160/downloads/PAGER_database/PAGER_Inventory_database_v2.0.xls). 
 
-The PAGER building classes were then mapped to the GEM taxonomy as follows:
+The PAGER building classes were then mapped to the ESRM20 taxonomy as follows:
 
 PAGER	GEM TAXONOMY
 C1: 	CR/LFM+DUC/HBET:3-5
