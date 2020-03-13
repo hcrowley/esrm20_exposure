@@ -20,15 +20,15 @@ ESCNPAV	GEM Taxonomy
 4	H:4
 5	H:5
 6	H:6
-7	H:7
-8	H:8
-9	H:9
-10	H:10
+7	HBET:7-20
+8	HBET:7-20
+9	HBET:7-20
+10	HBET:7-20
 
 Estrutura						GEM Taxonomy
-1	Betão armado					CR+CIP/LFINF/FC
-2	Paredes de alvenaria, com placa			MUR/LWAL/FC
-3	Paredes de alvenaria, sem placa			MUR/LWAL/FW
-4	Paredes de adobe ou alvenaria de pedra solta	MUR
+1	Betão armado					CR/LFINF+.../FC
+2	Paredes de alvenaria, com placa			MUR/LWAL+CDN/FC
+3	Paredes de alvenaria, sem placa			MUR/LWAL+CDN/FW
+4	Paredes de adobe ou alvenaria de pedra solta	MUR/LWAL+CDN
 5	Outra (madeira, metálica, ...)			UNK
 
