@@ -3,9 +3,9 @@ The exposure model for Andorra is taken from GED4GEM (see https://platform.openq
 The PAGER building classes were then mapped to the ESRM20 taxonomy as follows:
 
 PAGER	GEM TAXONOMY
-C1: 	CR/LFM+DUC/HBET:3-5
-RM1:	MR/LWAL+DUL/H:2
-RM2: 	MR/LWAL+DUL/H:2
-S3:	S/LFM+DUL/H:1
-S4: 	S/LWAL+DUL/H:1
-W: 	W/LFM+DUL/H:1
+C1: 	CR/LFM+CDL/HBET:3-5
+RM1:	MR/LWAL+CDL/H:2
+RM2: 	MR/LWAL+CDL/H:2
+S3:	S/LFM+CDL/H:1
+S4: 	S/LWAL+CDL/H:1
+W: 	W/LFM+CDL/H:1
