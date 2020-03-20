@@ -1,1 +1,0 @@
-The exposure model for Greece was provided by Evi Riga (eviriga@civil.auth.gr), Anna Karatzetzou (akaratze@civil.auth.gr), Stavroula Fotopoulou (sfotopou@civil.auth.gr) and the mapping schemes are not currently available with this release. 
