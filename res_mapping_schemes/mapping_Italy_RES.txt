@@ -11,11 +11,11 @@ altro		1-8		MCF/LWAL+CDL/H1 to H8
 
 Epoca		ESRM20 Taxonomy (for CR/LFINF)
 pre 1919	CDN
-1919-1945	CDL
-1946-1961	CDL
-1962-1971	CDL
-1972-1981	CDL
-1982-1991	CDL
-dopo 1991	CDL
+1919-1945	CDN or CDL (if seismic zone)
+1946-1961	CDN or CDL (if seismic zone)
+1962-1971	CDN or CDL (if seismic zone)
+1972-1981	CDN or CDL (if seismic zone)
+1982-1991	CDN or CDL (if seismic zone)
+dopo 1991	CDN or CDL (if seismic zone)
 
 
