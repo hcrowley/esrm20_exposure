@@ -2,11 +2,29 @@ What's New
 
 Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
 
+
+2020-04-14: European Exposure Model v0.3 released
+
+Folders with the mapping schemes providing the distribution of commercial and industrial buildings for the
+European exposure model for 45 European countries are made available.  Updates to the residential mapping schemes 
+provided in v0.2 have also been made:
+ - Added the mapping of building classes to the ESRM20 taxonomy for the GED4GEM mapping schemes
+ - Separated the Turkey mapping scheme into urban, rural and Istanbul
+ - Removed Ukraine from the list of countries (as it will not be covered by the European seismic hazard model)
+ - Corrected various typos 
+
+
 2020-01-31: European Exposure Model v0.2 released
 
 A list of sources and a folder with the mapping schemes used in the European exposure model for 46 European countries
 are made available (together with the mapping schemes from the NERA Project - EC Grant agreement ID 262330 - which have
 been used for some of the European countries). 
+
+Please cite this body of work as:
+
+H. Crowley, V. Despotaki, D. Rodrigues, V. Silva and Exposure Contributors (2020) 
+European Exposure Model - Mapping Schemes (v0.2). Available from URL: 
+https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.2
 
 
 2018-12-05: European Exposure Model v0.1 released (https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.1)
