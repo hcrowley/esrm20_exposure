@@ -1,0 +1,1 @@
+The number of dwellings and buildings is provided in the census for each building classes and so has been used directly (see data_Italy_RES_census.xlsx). 
