@@ -1,0 +1,1 @@
+The processed census data for the exposure model for Italy (data_Italy_RES_census.xlsx) was provided by Barbara Borzi (barbara.borzi@eucentre.it) and Marta Faravelli (marta.faravelli@eucentre.it). Please see the mapping scheme 'mapping_Italy_RES.txt' for a definition of the parameters in the file and mapping to the GEM Taxonomy.

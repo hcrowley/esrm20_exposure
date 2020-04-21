@@ -1,0 +1,1 @@
+The processed census data for the exposure model for Portugal ('data_Portugal_RES_census-buildings.txt') was provided by Vitor Silva (Vitor.silva@globalquakemodel.org) and Catarina Costa (catarina.costa@globalquakemodel.org). Please see the mapping scheme 'mapping_Portugal_RES.txt' for a definition of the parameters in the file and mapping to the GEM Taxonomy.

@@ -1,0 +1,389 @@
+POPULATION,REGION,ID
+25390,Aa en Hunze,1
+13153,Aalburg,195
+31499,Aalsmeer,263
+26962,Aalten,62
+27935,Achtkarspelen,19
+20014,Alblasserdam,404
+25218,Albrandswaard,405
+108470,Alkmaar,264
+72629,Almelo,328
+203990,Almere,13
+109682,Alphen aan den Rijn,407
+10083,Alphen-Chaam,196
+3654,Ameland,20
+155226,Amersfoort,356
+89870,Amstelveen,265
+854047,Amsterdam,266
+161156,Apeldoorn,52
+11801,Appingedam,121
+157223,Arnhem,53
+67708,Assen,2
+16719,Asten,197
+6799,Baarle-Nassau,198
+24630,Baarn,357
+48477,Barendrecht,408
+57339,Barneveld,54
+10475,Bedum,122
+15895,Beek (L.),149
+9550,Beemster,269
+13444,Beesel,150
+8816,Bellingwedde,123
+34748,Berg en Dal,76
+18398,Bergeijk,199
+13106,Bergen (L.),151
+29941,Bergen (NH.),271
+66354,Bergen op Zoom,200
+44032,Berkelland,90
+30550,Bernheze,201
+29497,Best,202
+25798,Beuningen,56
+41077,Beverwijk,272
+10560,het Bildt,30
+42846,De Bilt,361
+29098,Binnenmaas,413
+20144,Bladel,203
+10795,Blaricum,273
+23208,Bloemendaal,270
+33948,Bodegraven-Reeuwijk,462
+10502,Boekel,204
+7292,Ten Boer,140
+25351,Borger-Odoorn,3
+23124,Borne,330
+22716,Borsele,387
+28853,Boxmeer,205
+30672,Boxtel,206
+183448,Breda,207
+17040,Brielle,417
+36352,Bronckhorst,104
+20771,Brummen,58
+28241,Brunssum,152
+15214,Bunnik,359
+21266,Bunschoten,360
+26365,Buren,59
+66854,Capelle aan den IJssel,418
+35608,Castricum,276
+35299,Coevorden,4
+20336,Cranendonck,208
+12826,Cromstrijen,419
+24911,Cuijk,209
+28195,Culemborg,60
+28242,Dalfsen,331
+18904,Dantumadiel,23
+102253,Delft,421
+24863,Delfzijl,125
+32137,Deurne,210
+99653,Deventer,329
+28121,Diemen,278
+26291,Dinkelland,333
+11328,Doesburg,63
+57382,Doetinchem,111
+25777,Dongen,211
+23789,Dongeradeel,24
+118426,Dordrecht,423
+19440,Drechterland,279
+27063,Drimmelen,212
+40735,Dronten,14
+18701,Druten,65
+25438,Duiven,66
+31751,Echt-Susteren,153
+35953,Edam-Volendam,280
+114682,Ede,67
+9112,Eemnes,365
+15553,Eemsmond,126
+18778,Eersel,213
+25566,Eijsden-Margraten,170
+229126,Eindhoven,214
+23107,Elburg,69
+107192,Emmen,6
+18476,Enkhuizen,281
+158261,Enschede,334
+32863,Epe,70
+26793,Ermelo,71
+43532,Etten-Leur,215
+8671,Ferwerderadiel,25
+20213,Franekeradeel,26
+51742,De Fryske Marren,41
+21517,Geertruidenberg,216
+26818,Geldermalsen,72
+39252,Geldrop-Mierlo,233
+30340,Gemert-Bakel,218
+17052,Gennep,155
+14551,Giessenlanden,424
+26313,Gilze en Rijen,219
+49129,Goeree-Overflakkee,446
+37636,Goes,388
+23554,Goirle,220
+57337,Gooise Meren,275
+36284,Gorinchem,426
+72700,Gouda,427
+12419,Grave,221
+532561,'s-Gravenhage,402
+202810,Groningen,127
+12143,Grootegast,128
+14196,Gulpen-Wittem,156
+24291,Haaksbergen,335
+14103,Haaren,222
+159709,Haarlem,283
+5867,Haarlemmerliede en Spaarnwoude,284
+147282,Haarlemmermeer,285
+29888,Halderberge,223
+60539,Hardenberg,336
+46832,Harderwijk,77
+17958,Hardinxveld-Giessendam,429
+19860,Haren,129
+15783,Harlingen,28
+12154,Hattem,78
+39146,Heemskerk,287
+27080,Heemstede,288
+18603,Heerde,79
+50192,Heerenveen,29
+55850,Heerhugowaard,289
+86762,Heerlen,159
+15886,Heeze-Leende,224
+23099,Heiloo,290
+55760,Den Helder,277
+35796,Hellendoorn,337
+38784,Hellevoetsluis,430
+90903,Helmond,225
+30677,Hendrik-Ido-Ambacht,431
+80593,Hengelo,338
+153434,'s-Hertogenbosch,194
+16462,Heumen,81
+43723,Heusden,226
+21812,Hillegom,432
+15366,Hilvarenbeek,227
+89521,Hilversum,291
+34930,Hof van Twente,339
+47681,Hollands Kroon,300
+55677,Hoogeveen,7
+34158,Hoogezand-Sappemeer,130
+72806,Hoorn,292
+42271,Horst aan de Maas,162
+49579,Houten,366
+41369,Huizen,293
+27472,Hulst,389
+34302,IJsselstein,367
+26625,Kaag en Braassem,433
+53259,Kampen,340
+12720,Kapelle,390
+64956,Katwijk,477
+45823,Kerkrade,164
+22659,Koggenland,318
+12827,Kollumerland en Nieuwkruisland,31
+11097,Korendijk,435
+29306,Krimpen aan den IJssel,436
+55644,Krimpenerwaard,409
+22158,Laarbeek,228
+15332,Landerd,229
+37612,Landgraaf,166
+11435,Landsmeer,294
+27836,Langedijk,295
+61155,Lansingerland,411
+11146,Laren,296
+19669,Leek,131
+21030,Leerdam,437
+108942,Leeuwarden,32
+10079,Leeuwarderadeel,33
+124306,Leiden,438
+27197,Leiderdorp,439
+74947,Leidschendam-Voorburg,440
+77389,Lelystad,15
+35857,Leudal,157
+29755,Leusden,369
+11134,Lingewaal,85
+46372,Lingewaard,86
+22746,Lisse,443
+10683,Littenseradiel,35
+33574,Lochem,74
+23120,Loon op Zand,231
+14395,Lopik,371
+9732,Loppersum,132
+22547,Losser,341
+24350,Maasdriel,88
+23697,Maasgouw,158
+32518,Maassluis,445
+122723,Maastricht,169
+10058,De Marne,124
+10488,Marum,133
+44480,Medemblik,297
+19039,Meerssen,172
+80148,Meierijstad,254
+13450,Menameradiel,36
+12013,Menterwolde,134
+33410,Meppel,8
+48303,Middelburg,391
+19338,Midden-Delfland,471
+33172,Midden-Drenthe,9
+10831,Mill en Sint Hubert,234
+36967,Moerdijk,235
+29295,Molenwaard,428
+35627,Montferland,55
+13879,Montfoort,374
+7768,Mook en Middelaar,174
+23615,Neder-Betuwe,83
+17038,Nederweert,175
+12397,Neerijnen,91
+62426,Nieuwegein,375
+28269,Nieuwkoop,453
+42307,Nijkerk,92
+175948,Nijmegen,93
+85801,Nissewaard,474
+7314,Noord-Beveland,392
+32370,Noordenveld,10
+46625,Noordoostpolder,16
+26056,Noordwijk,455
+16605,Noordwijkerhout,454
+23019,"Nuenen, Gerwen en Nederwetten",236
+27114,Nunspeet,94
+15201,Nuth,176
+23887,Oegstgeest,456
+18558,Oirschot,237
+26132,Oisterwijk,238
+38075,Oldambt,143
+23504,Oldebroek,95
+31915,Oldenzaal,342
+18023,Olst-Wijhe,343
+17630,Ommen,344
+7857,Onderbanken,177
+29672,Oost Gelre,75
+55147,Oosterhout,239
+25459,Ooststellingwerf,38
+9735,Oostzaan,303
+11526,Opmeer,304
+29753,Opsterland,39
+90951,Oss,240
+24301,Oud-Beijerland,458
+39520,Oude IJsselstreek,73
+13496,Ouder-Amstel,305
+10180,Oudewater,376
+47481,Overbetuwe,96
+32264,Papendrecht,460
+43312,Peel en Maas,173
+12245,Pekela,135
+53634,Pijnacker-Nootdorp,461
+79983,Purmerend,306
+24313,Putten,97
+37158,Raalte,345
+22555,Reimerswaal,393
+31338,Renkum,98
+5175,Renswoude,377
+13040,Reusel-De Mierden,241
+43527,Rheden,99
+19816,Rhenen,378
+45789,Ridderkerk,463
+10810,Rijnwaarden,100
+38097,Rijssen-Holten,346
+52208,Rijswijk,466
+20728,Roerdalen,178
+57761,Roermond,179
+43620,De Ronde Venen,362
+77000,Roosendaal,242
+638712,Rotterdam,467
+1575,Rozendaal,101
+22401,Rucphen,243
+46379,Schagen,307
+9751,Scherpenzeel,103
+77907,Schiedam,470
+932,Schiermonnikoog,40
+12911,Schinnen,181
+33687,Schouwen-Duiveland,394
+10561,Simpelveld,183
+11577,Sint Anthonis,247
+28673,Sint-Michielsgestel,245
+92956,Sittard-Geleen,184
+25020,Sliedrecht,473
+14782,Slochteren,138
+23526,Sluis,395
+55889,Smallingerland,42
+46089,Soest,379
+19120,Someren,248
+16753,Son en Breugel,249
+32258,Stadskanaal,139
+16797,Staphorst,347
+21670,Stede Broec,309
+24781,Steenbergen,250
+43768,Steenwijkerland,348
+24987,Stein (L.),185
+64513,Stichtse Vecht,370
+8793,Strijen,475
+84183,Súdwest-Fryslân,37
+54440,Terneuzen,396
+4906,Terschelling,44
+13584,Texel,310
+36584,Teylingen,469
+25583,Tholen,397
+41465,Tiel,105
+215588,Tilburg,251
+21213,Tubbergen,349
+33903,Twenterand,350
+33462,Tynaarlo,11
+31870,Tytsjerksteradiel,45
+41725,Uden,252
+13520,Uitgeest,311
+29445,Uithoorn,312
+20524,Urk,17
+347483,Utrecht (gemeente),380
+49314,Utrechtse Heuvelrug,363
+9874,Vaals,188
+16431,Valkenburg aan de Geul,189
+30654,Valkenswaard,253
+27508,Veendam,141
+64918,Veenendaal,381
+21867,Veere,398
+44925,Veldhoven,255
+67831,Velsen,313
+101192,Venlo,190
+43341,Venray,171
+19967,Vianen,382
+72050,Vlaardingen,478
+15868,Vlagtwedde,142
+1132,Vlieland,46
+44485,Vlissingen,399
+12390,Voerendaal,192
+25453,Voorschoten,481
+24310,Voorst,107
+26418,Vught,256
+17075,Waalre,257
+47725,Waalwijk,258
+27578,Waddinxveen,482
+38412,Wageningen,109
+26084,Wassenaar,484
+17259,Waterland,315
+49855,Weert,193
+19147,Weesp,316
+26979,Werkendam,259
+18891,West Maas en Waal,112
+19152,Westerveld,12
+15015,Westervoort,113
+107492,Westland,447
+25720,Weststellingwerf,48
+14508,Westvoorne,486
+24258,Wierden,351
+40847,Wijchen,114
+23659,Wijdemeren,321
+23678,Wijk bij Duurstede,383
+13560,Winsum,144
+28987,Winterswijk,115
+21800,Woensdrecht,260
+51758,Woerden,384
+23917,De Wolden,5
+15995,Wormerland,323
+13021,Woudenberg,385
+14634,Woudrichem,261
+154865,Zaanstad,324
+28014,Zaltbommel,117
+16970,Zandvoort,325
+14004,Zederik,487
+22407,Zeewolde,18
+63322,Zeist,386
+32592,Zevenaar,51
+124695,Zoetermeer,489
+8430,Zoeterwoude,490
+18917,Zuidhorn,145
+41882,Zuidplas,448
+21525,Zundert,262
+47537,Zutphen,120
+22468,Zwartewaterland,352
+44586,Zwijndrecht,491
+126116,Zwolle,353

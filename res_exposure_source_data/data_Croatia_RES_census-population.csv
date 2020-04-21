@@ -1,0 +1,557 @@
+REGION,POPULATION,ID
+Dugo Selo,17466,539
+Ivani?-Grad,14548,542
+Jastrebarsko,15866,544
+Samobor,37633,556
+Sveta Nedelja,18059,557
+Sveti Ivan Zelina,15959,558
+Velika Gorica,63517,98
+Vrbovec,14797,559
+Zapreši?,25223,560
+Bedenica,1432,534
+Bistra,6632,93
+Brckovljani,6837,535
+Brdovec,11134,536
+Dubrava,5245,537
+Dubravica,1437,538
+Farkaševac,1937,540
+Gradec,3681,541
+Jakovlje,3930,543
+Klin?a Sela,5231,545
+Kloštar Ivani?,6091,546
+Kraši?,2640,547
+Kravarsko,1987,94
+Križ,6963,548
+Luka,1351,549
+Marija Gorica,2233,550
+Orle,1975,95
+Pisarovina,3689,551
+Pokupsko,2224,96
+Preseka,1448,552
+Puš?a,2700,553
+Rakovec,1252,554
+Rugvica,7871,555
+Stupnik,3735,97
+Žumberak,883,533
+Donja Stubica,5680,190
+Klanjec,2915,195
+Krapina,12480,198
+Oroslavje,6138,206
+Pregrada,6594,208
+Zabok,8994,214
+Zlatar,6096,217
+Bedekov?ina,8041,187
+Budinš?ina,2503,188
+Desini?,2933,189
+?urmanec,4235,186
+Gornja Stubica,5284,191
+Hraš?ina,1617,192
+Hum na Sutli,5060,193
+Jesenje,1560,194
+Konjš?ina,3790,196
+Kraljevec na Sutli,1727,197
+Krapinske Toplice,5367,199
+Kumrovec,1588,200
+Lobor,3188,201
+Ma?e,2534,202
+Marija Bistrica,5976,203
+Mihovljan,1938,204
+Novi Golubovec,996,205
+Petrovsko,2656,207
+Radoboj,3387,209
+Stubi?ke Toplice,2805,210
+Sveti Križ Za?retje,6165,211
+Tuhelj,2104,212
+Veliko Trgoviš?e,4945,213
+Zagorska Sela,996,215
+Zlatar-Bistrica,2600,216
+Glina,9283,354
+Hrvatska Kostajnica,2756,357
+Kutina,22760,359
+Novska,13518,364
+Petrinja,24671,365
+Sisak,47768,367
+Donji Kukuruzari,1634,352
+Dvor,5570,353
+Gvozd,2970,355
+Hrvatska Dubica,2089,356
+Jasenovac,1997,358
+Lekenik,6032,360
+Lipovljani,3455,361
+Majur,1185,362
+Martinska Ves,3488,363
+Popova?a,11905,366
+Sunja,5748,368
+Topusko,2985,369
+Velika Ludina,2625,370
+Duga Resa,11180,145
+Karlovac,55705,148
+Ogulin,13915,152
+Ozalj,6817,153
+Slunj,5076,158
+Barilovi?,2990,141
+Bosiljevo,1284,142
+Cetingrad,2027,143
+Dragani?,2741,144
+Generalski Stol,2642,146
+Josipdol,3773,147
+Kamanje,891,567
+Krnjak,1985,149
+Lasinja,1624,150
+Netreti?,2862,151
+Plaški,2090,154
+Rakovica,2387,155
+Ribnik,475,156
+Saborsko,632,157
+Tounj,1150,159
+Vojni?,4764,160
+Žakanje,1889,140
+Ivanec,13758,435
+Lepoglava,8283,438
+Ludbreg,8478,440
+Novi Marof,13246,443
+Varaždin,46946,449
+Varaždinske Toplice,6364,450
+Bednja,3992,427
+Beretinec,2176,428
+Breznica,2200,430
+Brezni?ki Hum,1356,429
+Cestica,5806,431
+Donja Vo?a,2443,432
+Gornji Kneginec,5349,434
+Jalžabet,3615,436
+Klenovnik,2022,437
+Ljubeš?ica,1858,439
+Mali Bukovec,2212,441
+Martijanec,3843,433
+Maruševec,6381,442
+Petrijanec,4812,444
+Sra?inec,4842,445
+Sveti ?ur?,3804,446
+Sveti Ilija,3511,447
+Trnovec Bartolove?ki,6884,448
+Veliki Bukovec,1438,451
+Vidovec,5425,452
+Vinica,3389,453
+Visoko,1518,454
+?ur?evac,8264,162
+Koprivnica,30854,173
+Križevci,21122,174
+Drnje,1863,163
+?elekovec,1533,161
+Ferdinandovac,1750,164
+Gola,2431,165
+Gornja Rijeka,1779,166
+Hlebine,1304,167
+Kalinovac,1597,168
+Kalnik,1351,169
+Kloštar Podravski,3306,170
+Koprivni?ki Bregi,2381,171
+Koprivni?ki Ivanec,2121,172
+Legrad,2241,175
+Molve,2189,176
+Novigrad Podravski,2872,177
+Novo Virje,1216,178
+Peteranec,2704,179
+Podravske Sesvete,1630,180
+Rasinja,3267,181
+Sokolovac,3417,182
+Sveti Ivan Žabno,5222,183
+Sveti Petar Orehovec,4583,184
+Virje,4587,185
+Bjelovar,40276,25
+?azma,8077,23
+Daruvar,11633,26
+Garešnica,10472,28
+Grubišno Polje,6478,29
+Berek,1443,24
+Dežanovac,2715,27
+?ulovac,3245,22
+Hercegovac,2383,30
+Ivanska,2911,31
+Kapela,2984,32
+Kon?anica,2360,33
+Nova Ra?a,3433,34
+Roviš?e,4822,35
+Severin,877,36
+Sira?,2218,37
+Šandrovac,1776,20
+Štefanje,2030,21
+Velika Pisanica,1781,38
+Velika Trnovitica,1370,39
+Veliki Gr?evac,2849,40
+Veliko Trojstvo,2741,41
+Zrinski Topolovac,890,42
+Bakar,8279,313
+Cres,2879,315
+Crikvenica,11122,316
+?abar,3770,310
+Delnice,5952,317
+Kastav,10440,322
+Kraljevica,4618,325
+Krk,6281,326
+Mali Lošinj,8116,332
+Novi Vinodolski,5113,338
+Opatija,11659,340
+Rab,8065,328
+Rijeka,128624,343
+Vrbovsko,5076,351
+Baška,1674,312
+Brod Moravice,866,314
+?avle,7220,311
+Dobrinj,2078,318
+Fužine,1592,319
+Jelenje,5344,321
+Klana,1975,323
+Kostrena,4180,324
+Lokve,1049,327
+Lopar,1263,329
+Lovran,4101,330
+Malinska-Dubašnica,3134,333
+Matulji,11246,334
+Moš?eni?ka Draga,1535,335
+Mrkopalj,1214,336
+Omišalj,2983,339
+Punat,1973,341
+Ravna Gora,2430,342
+Skrad,1062,344
+Vinodolska op?ina,3577,349
+Viškovo,14445,348
+Vrbnik,1260,350
+Gospi?,12745,220
+Novalja,3663,223
+Oto?ac,9778,224
+Senj,7182,227
+Brinje,3256,218
+Donji Lapac,2113,219
+Karlobag,917,221
+Lovinac,1007,222
+Peruši?,2638,225
+Plitvi?ka Jezera,4373,226
+Udbina,1874,228
+Vrhovine,1381,229
+Orahovica,5304,463
+Slatina,13686,465
+Virovitica,21291,468
+Crnac,1456,458
+?a?inci,2802,457
+?a?avica,2009,456
+Gradina,3850,459
+Luka?,3634,460
+Mikleuš,1464,461
+Nova Bukovica,1771,462
+Pitoma?a,10059,464
+Sopje,2320,466
+Suhopolje,6683,467
+Špiši? Bukovica,4221,455
+Vo?in,2382,469
+Zdenci,1904,470
+Kutjevo,6247,304
+Lipik,6170,305
+Pakrac,8460,306
+Pleternica,11323,307
+Požega,26248,308
+Brestovac,3726,301
+?aglin,2723,300
+Jakši?,4058,302
+Kaptol,3472,303
+Velika,5607,309
+Nova Gradiška,14229,54
+Slavonski Brod,59141,64
+Bebrina,3252,43
+Brodski Stupnik,3036,44
+Bukovlje,3108,45
+Cernik,3640,46
+Davor,3015,47
+Donji Andrijevci,3709,48
+Dragali?,1361,49
+Gar?in,4806,50
+Gornja Vrba,2512,51
+Gornji Bogi?evci,1975,52
+Gundinci,2027,53
+Klakar,2319,67
+Nova Kapela,4227,55
+Oku?ani,3447,56
+Oprisavci,2508,57
+Oriovac,5824,58
+Podcrkavlje,2553,59
+Rešetari,4753,60
+Sibinj,6895,61
+Sikirevci,2476,62
+Slavonski Šamac,2169,63
+Stara Gradiška,1363,65
+Staro Petrovo Selo,5186,66
+Velika Kopanica,3308,68
+Vrbje,2215,69
+Vrpolje,3521,70
+Benkovac,11026,502
+Biograd na Moru,5569,504
+Nin,2744,511
+Obrovac,4323,513
+Pag,3846,515
+Zadar,75062,531
+Bibinje,3985,503
+Galovac,1234,505
+Gra?ac,4690,506
+Jasenice,1398,507
+Kali,1638,508
+Kolan,791,564
+Kukljica,714,509
+Lišane Ostrovi?ke,698,510
+Novigrad,2375,512
+Pakoštane,4123,516
+Pašman,2082,514
+Pola?a,1468,517
+Poli?nik,4469,518
+Posedarje,3607,519
+Povljana,759,520
+Preko,3805,521
+Privlaka,2253,522
+Ražanac,2940,523
+Sali,1698,524
+Stankovci,2003,525
+Starigrad,1876,526
+Sukošan,4583,527
+Sveti Filip i Jakov,4606,528
+Škabrnja,1776,501
+Tkon,763,529
+Vir,3000,530
+Vrsi,2053,561
+Zemunik Donji,2060,532
+Beli Manastir,10068,260
+Beliš?e,10825,261
+Donji Miholjac,9491,266
+?akovo,27745,255
+Našice,16224,279
+Osijek,108048,280
+Valpovo,11563,295
+Antunovac,3703,257
+Bilje,5642,262
+Bizovac,4507,263
+?eminac,2909,258
+?epin,11599,259
+Darda,6908,264
+Donja Moti?ina,1652,265
+Draž,2767,267
+Drenje,2700,268
+?ur?enovac,6750,256
+Erdut,7308,269
+Ernestinovo,2189,270
+Feri?anci,2134,271
+Gorjani,1591,272
+Jagodnjak,2023,273
+Kneževi Vinogradi,4614,274
+Koška,3980,275
+Levanjska Varoš,1194,276
+Magadenovac,1936,277
+Marijanci,2405,278
+Petlovac,2405,282
+Petrijevci,2870,283
+Podgora?,2877,284
+Podravska Moslavina,1202,285
+Popovac,2084,286
+Punitovci,1803,287
+Satnica ?akova?ka,2123,288
+Semeljci,4362,289
+Strizivojna,2525,290
+Šodolovci,1653,293
+Trnava,1600,291
+Viljevo,2065,297
+Viškovci,1906,296
+Vladislavci,1882,298
+Vuka,1200,299
+Drniš,7498,5
+Knin,15407,9
+Skradin,3825,16
+Šibenik,46332,1
+Vodice,8875,19
+Bilice,2307,2
+Biskupija,1699,3
+Civljane,239,4
+Ervenik,1105,6
+Kijevo,417,7
+Kistanje,3481,8
+Murter-Kornati,2044,10
+Pirovac,1930,11
+Primošten,2828,12
+Promina,1136,13
+Rogoznica,2345,14
+Ruži?,1591,15
+Tisno,3094,17
+Tribunj,1536,566
+Uneši?,1686,18
+Ilok,6767,481
+Otok,6343,489
+Vinkovci,35312,497
+Vukovar,27683,500
+Županja,12090,471
+Andrijaševci,4075,472
+Babina Greda,3572,473
+Bogdanovci,1960,475
+Borovo,5056,476
+Bošnjaci,3901,474
+Cerna,4595,477
+Drenovci,5174,478
+Gradište,2773,479
+Gunja,3732,480
+Ivankovo,8006,482
+Jarmina,2458,483
+Lovas,1214,484
+Markušica,2555,485
+Negoslavci,1463,486
+Nijemci,4705,487
+Nuštar,5793,488
+Privlaka,2954,490
+Stari Jankovci,4405,491
+Stari Mikanovci,2956,492
+Štitar,2129,562
+Tompojevci,1565,493
+Tordinci,2032,494
+Tovarnik,2775,495
+Trpinja,5572,496
+Vo?inci,1966,498
+Vrbanja,3940,499
+Hvar,4251,383
+Imotski,10764,384
+Kaštela,38667,386
+Komiža,1526,388
+Makarska,13834,392
+Omiš,14936,398
+Sinj,24826,411
+Solin,23926,412
+Split,178102,413
+Stari Grad,2781,414
+Supetar,4074,416
+Trilj,9109,418
+Trogir,13192,419
+Vis,1934,421
+Vrgorac,6572,422
+Vrlika,2177,423
+Baška Voda,2775,373
+Bol,1630,375
+Brela,1703,376
+Cista Provo,2335,377
+Dicmo,2802,378
+Dugi Rat,7092,379
+Dugopolje,3469,380
+Gradac,3261,381
+Hrvace,3617,382
+Jelsa,3582,385
+Klis,4801,387
+Le?evica,583,389
+Lokvi?i?i,807,390
+Lovre?,1699,391
+Marina,4595,393
+Milna,1034,394
+Mu?,3882,395
+Nerežiš?a,862,396
+Okrug,3349,397
+Otok,5474,399
+Podbablje,4680,400
+Podgora,2518,401
+Podstrana,9129,402
+Postira,1559,403
+Prgomet,673,404
+Primorski Dolac,770,405
+Proložac,3802,406
+Pu?iš?a,2171,407
+Runovi?i,2416,408
+Seget,4854,409
+Selca,1804,410
+Su?uraj,463,415
+Sutivan,822,417
+Šestanovac,1958,371
+Šolta,1700,372
+Tu?epi,1931,420
+Zadvarje,289,424
+Zagvozd,1188,425
+Zmijavci,2048,426
+Buje - Buie,5182,104
+Buzet,6133,105
+Labin,11642,114
+Novigrad - Cittanova,4345,121
+Pazin,8638,123
+Pore? - Parenzo,16696,125
+Pula - Pola,57460,127
+Rovinj - Rovigno,14294,129
+Umag - Umago,13467,135
+Vodnjan - Dignano,6119,138
+Bale - Valle,1127,101
+Barban,2721,102
+Brtonigla - Verteneglio,1626,103
+Cerovlje,1677,106
+Fažana - Fasana,3635,107
+Funtana - Fontane,907,563
+Gra?iš?e,1419,108
+Grožnjan - Grisignana,736,109
+Kanfanar,1543,111
+Karojba,1438,112
+Kaštelir - Labinci - Castelliere-S. Domenica,1463,110
+Kršan,2951,113
+Laniš?e,329,115
+Ližnjan - Lisignano,3965,116
+Lupoglav,924,117
+Mar?ana,4253,118
+Medulin,6481,119
+Motovun - Montona,1004,120
+Oprtalj - Portole,850,122
+Pi?an,1827,124
+Raša,3183,128
+Sveta Nedelja,2987,130
+Sveti Lovre?,1015,131
+Sveti Petar u Šumi,1065,132
+Svetvin?enat,2202,133
+Tar-Vabriga - Torre-Abrega,1990,565
+Tinjan,1684,134
+Višnjan - Visignano,2274,136
+Vižinada - Visinada,1158,137
+Vrsar - Orsera,2162,139
+Žminj,3483,100
+Dubrovnik,42615,74
+Kor?ula,5663,77
+Metkovi?,16788,81
+Opuzen,3254,83
+Plo?e,10135,85
+Blato,3593,72
+Dubrova?ko primorje,2170,73
+Janjina,551,75
+Konavle,8577,76
+Kula Norinska,1748,78
+Lastovo,792,79
+Lumbarda,1213,80
+Mljet,1088,82
+Orebi?,4122,84
+Pojezerje,991,86
+Slivno,1999,87
+Smokvica,916,88
+Ston,2407,89
+Trpanj,721,90
+Vela Luka,4137,91
+Zažablje,757,92
+Župa dubrova?ka,8331,71
+?akovec,27104,232
+Mursko Središ?e,6307,243
+Prelog,7815,247
+Belica,3176,233
+Dekanovec,774,234
+Domašinec,2251,235
+Donja Dubrava,1920,236
+Donji Kraljevec,4659,237
+Donji Vidovec,1399,238
+Gori?an,2823,239
+Gornji Mihaljevec,1917,240
+Kotoriba,3224,241
+Mala Subotica,5452,242
+Nedeliš?e,11975,244
+Orehovica,2685,245
+Podturen,3873,246
+Pribislavec,3136,248
+Selnica,2991,249
+Strahoninec,2682,250
+Sveta Marija,2317,251
+Sveti Juraj na Bregu,5090,252
+Sveti Martin na Muri,2605,253
+Šenkovec,2879,230
+Štrigova,2766,231
+Vratišinec,1984,254
+City of Zagreb,790017,99

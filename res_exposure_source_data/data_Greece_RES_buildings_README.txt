@@ -1,0 +1,1 @@
+The processed census data for Greece ('data_Greece_RES_census-buildings.xlsx') was provided by Evi Riga (eviriga@civil.auth.gr), Anna Karatzetzou (akaratze@civil.auth.gr), Stavroula Fotopoulou (sfotopou@civil.auth.gr). 

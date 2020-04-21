@@ -1,0 +1,266 @@
+REGION,POPULATION,ID
+Bansko,13125,1
+Belitsa,9927,2
+Blagoevgrad,77441,3
+Gotse Delchev,31236,4
+Garmen,14981,5
+Kresna,5441,6
+Petrich,54006,7
+Razlog,20598,8
+Sandanski,40470,9
+Satovcha,15444,10
+Simitli,14283,11
+Strumyani,5778,12
+Hadzhidimovo,10091,13
+Yakoruda,10731,14
+Aitos,28687,15
+Burgas,212902,16
+Kameno,10393,17
+Karnobat,25477,18
+Malko Tarnovo,3793,19
+Nesebar,22348,20
+Pomorie,27658,21
+Primorsko,6064,22
+Ruen,29101,23
+Sozopol,12610,24
+Sredets,14934,25
+Sungurlare,12559,26
+Tsarevo,9291,27
+Avren,8574,28
+Aksakovo,20426,29
+Beloslav,11023,30
+Byala,3242,31
+Varna,343704,32
+Vetrino,5415,33
+Valchi Dol,10052,34
+Devnya,8730,35
+Dolni Chiflik,19360,36
+Dalgopol,14389,37
+Provadiya,22934,38
+Suvorovo,7225,39
+Veliko Tarnovo,88670,40
+Gorna Orhyahovitsa,46685,41
+Elena,9434,42
+Zlataritsa,3991,43
+Lyaskovets,13397,44
+Pavlikeni,23869,45
+Polski Trambesh,14451,46
+Svishtov,42734,47
+Strazhitsa,12721,48
+Suhindol,2542,49
+Belogradchik,6602,50
+Boinitsa,1341,51
+Bregovo,5514,52
+Vidin,63257,53
+Gramada,2007,54
+Dimovo,6514,55
+Kula,4717,56
+Makresh,1630,57
+Novo Selo,2979,58
+Ruzh,4374,59
+Chuprene,2083,60
+Borovan,5714,61
+Byala Slatina,24606,62
+Vratsa,73894,63
+Kozloduy,21180,64
+Krivodol,9390,65
+Mezdra,21748,66
+Miziya,7570,67
+Oryahovo,11522,68
+Roman,6223,69
+Hairedin,5001,70
+Gabrovo,65268,71
+Dryanovo,9685,72
+Sevlievo,35995,73
+Tryavna,11754,74
+Balchik,20317,75
+General Toshevo,15097,76
+Dobrich,91030,77
+Dobrich-selska,22081,78
+Kavarna,15358,79
+Krushari,4547,80
+Tervel,16178,81
+Shabla,5069,82
+Ardino,11572,83
+Dzhebel,8167,84
+Balchik,21916,85
+Krumovgrad,17823,86
+Kardzhali,67460,87
+Momchilgrad,16263,88
+Chernoochene,9607,89
+BobovDol,9067,90
+Boboshevo,2870,91
+Dupnitsa,44988,92
+Kocherinovo,5214,93
+Kyustendil,60681,94
+Nevestino,2821,95
+Rila,2888,96
+Sapareva Banya,7528,97
+Treklyano,629,98
+Apriltsi,3338,99
+Letnitsa,3776,100
+Lovech,49738,101
+Loukovit,18125,102
+Teteven,21307,103
+Troyan,32399,104
+Ugarchin,6505,105
+Yablanitsa,6234,106
+Berkovitsa,18803,107
+Boichinovtsi,9272,108
+Brusartsi,5078,109
+Valchedram,9900,110
+Varshets,8203,111
+Georgy Damyanovo,2771,112
+Lom,28139,113
+Medkovets,4029,114
+Montana,53856,115
+Chiprovtsi,3715,116
+Yakimovo,4332,117
+Batak,6144,118
+Belovo,8891,119
+Bratsigovo,9648,120
+Velingrad,37100,121
+Lesichevo,5408,122
+Pazardzhik,114817,123
+Panagyurishte,25263,124
+Peshtera,18899,125
+Rakitovo,15064,126
+Septemvri,25794,127
+Strelcha,4913,128
+Surnitsa,3607,129
+Breznik,6945,130
+Zemen,2762,131
+Kovachevtsi,1600,132
+Pernik,97181,133
+Radomir,20896,134
+Tran,4146,135
+Belene,10318,136
+Gulyantsi,12336,137
+Dolna Mitropoliya,20064,138
+Dolni Dabnik,11670,139
+Iskar,6884,140
+Knezha,13803,141
+Levski,19938,142
+Nikopol,9305,143
+Pleven,131152,144
+Pordim,6426,145
+Cherven Bryag,27856,146
+Asenovgrad,64034,147
+Brezovo,7298,148
+Kaloyanovo,11879,149
+Karlovo,52307,150
+Krichim,8409,151
+Kuklen,6431,152
+Laki,2902,153
+Maritsa,32438,154
+Perushtitsa,5058,155
+Plovdiv,338153,156
+Parvomay,25883,157
+Rakovski,26381,158
+Rodopi,32602,159
+Sadovo,15604,160
+Sopot,9827,161
+Stamboliyski,20771,162
+Saedinenie,10450,163
+Hisar,12600,164
+Zavet,10586,165
+Isperih,22692,166
+Kubrat,18355,167
+Loznitsa,9265,168
+Razgrad,51095,169
+Samuil,7005,170
+Tsar Kaloyan,6192,171
+Borovo,6101,172
+Byala,13467,173
+Vetovo,12450,174
+Dve Mogili,9442,175
+Ivanovo,9429,176
+Rousse,167585,177
+Slivo Pole,10855,178
+Tsenovo,5923,179
+Alfatar,3036,180
+Glavinitsa,10930,181
+Dulovo,28282,182
+Kainardzha,5070,183
+Silistra,51386,184
+Sitovo,5396,185
+Tutrakan,15374,186
+Kotel,19391,187
+Nova Zagora,39010,188
+Sliven,125268,189
+Tvarditsa,13804,190
+Banite,4923,191
+Borino,3641,192
+Devin,13013,193
+Dospat,9116,194
+Zlatograd,12321,195
+Madan,12276,196
+Nedelino,7221,197
+Rudozem,10069,198
+Smolyan,41452,199
+Chepelare,7720,200
+Anton,1599,201
+Bozhurishte,8473,202
+Botevgrad,33175,203
+Godech,5375,204
+Gorna Malina,6209,205
+Dolna Banya,4522,206
+Dragoman,5362,207
+Elin Pelin,22841,208
+Etropole,12047,209
+Zlatitsa,5837,210
+Ihtiman,17720,211
+Koprivshtitsa,2410,212
+Kostenets,12793,213
+Kostinbrod,17846,214
+Mirkovo,2540,215
+Pirdop,8293,216
+Pravets,7569,217
+Samokov,38089,218
+Svoge,22363,219
+Slivnitsa,9681,220
+Chavdar,1272,221
+Chelopech,1473,222
+Stolichna,1291591,223
+Bratya Daskalovi,8677,224
+Gurkovo,5127,225
+Galabovo,13394,226
+Kazanlak,72581,227
+Maglizh,10180,228
+Nikolaevo,4346,229
+Opan,2950,230
+Pavel Banya,14186,231
+Radnevo,20079,232
+Stara Zagora,160108,233
+Chirpan,21637,234
+Antonovo,6262,235
+Omurtag,21853,236
+Opaka,6664,237
+Popovo,28775,238
+Targovishte,57264,239
+Dimitrovgrad,53557,242
+Ivaylovgrad,6426,245
+Lyubimets,10214,248
+Madzharovo,1665,240
+Mineralni Bani,5899,243
+Svilengrad,23004,246
+Simeonovgrad,8755,249
+Stambolovo,5934,241
+Topolovgrad,11681,244
+Harmanli,24947,247
+Haskovo,94156,250
+Preslav,13382,251
+Venets,7137,252
+Varbitsa,10391,253
+Kaolinovo,12093,254
+Kaspichan,7976,255
+Nikola Kozlevo,6100,256
+Novi Pazar,16879,257
+Smyadovo,6698,258
+Gara Hitrino,6223,259
+Shumen,93649,260
+Bolyarovo,4160,261
+Elhovo,16219,262
+Straldzha,12781,263
+Tundzha,24155,264
+Yambol,74132,265
