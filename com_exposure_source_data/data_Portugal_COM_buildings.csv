@@ -1,0 +1,4050 @@
+﻿ID_3,NAME_3,Offices,Trade,Hotels
+1,Evora (Sao Mamede),6.42,15.39,5.45
+2,Evora (Santo Antao),5,11.99,4.25
+3,Bacelo,45.73,109.67,38.84
+4,Canaviais,15.98,38.31,13.57
+5,Horta Das Figueiras,47.49,113.89,40.34
+6,Malagueira,53.68,128.73,45.59
+7,Nossa Senhora Da Boa Fe,1.31,3.14,1.11
+8,Nossa Senhora Da Graca Do Divor,2.22,5.33,1.89
+9,Nossa Senhora Da Tourega,3.05,7.31,2.59
+10,Nossa Senhora De Guadalupe,2.19,5.26,1.86
+11,Nossa Senhora De Machede,4.7,11.27,3.99
+12,Sao Bento Do Mato,4.57,10.95,3.88
+13,Sao Mancos,3.94,9.46,3.35
+14,Sao Miguel De Machede,3.21,7.7,2.73
+15,Sao Sebastiao Da Giesteira,3.22,7.72,2.73
+16,Sao Vicente Do Pigeiro,1.24,2.97,1.05
+17,Se E Sao Pedro,6.49,15.56,5.51
+18,Senhora Da Saude,35.41,84.92,30.08
+19,Torre De Coelheiros,3.06,7.33,2.6
+20,Alandroal (Nossa Senhora Da Conceicao),7.73,18.53,6.56
+21,Capelins (Santo Antonio),1.44,3.45,1.22
+22,Juromenha (Nossa Senhora Do Loreto),0.41,0.99,0.35
+23,Sao Bras Dos Matos (Mina Do Bugalho),1.43,3.43,1.21
+24,Santiago Maior,7.38,17.71,6.27
+25,Terena (Sao Pedro),2.31,5.55,1.97
+26,Arraiolos,15.76,37.8,13.39
+27,Gafanhoeira (Sao Pedro),2.09,5.02,1.78
+28,Igrejinha,4.41,10.57,3.74
+29,Sao Gregorio,1.34,3.21,1.14
+30,Sabugueiro,1.58,3.79,1.34
+31,Santa Justa,0.92,2.2,0.78
+32,Vimieiro,5.99,14.35,5.08
+33,Borba (Matriz),14.85,35.61,12.61
+34,Borba (Sao Bartolomeu),2.41,5.79,2.05
+35,Orada,3.23,7.74,2.74
+36,Rio De Moinhos,2.58,6.18,2.19
+37,Evora Monte (Santa Maria),2.11,5.07,1.79
+38,Arcos,25.7,61.64,21.83
+39,Estremoz (Santa Maria),27.01,64.77,22.94
+40,Estremoz (Santo Andre),8.35,20.02,7.09
+41,Gloria,39.97,95.85,33.95
+42,Sao Bento De Ana Loura,0.15,0.36,0.13
+43,Sao Bento Do Ameixial,1.24,2.97,1.05
+44,Sao Bento Do Cortico,2.58,6.18,2.19
+45,Sao Domingos De Ana Loura,1.23,2.94,1.04
+46,Sao Lourenco De Mamporcao,2.13,5.11,1.81
+47,Santa Vitoria Do Ameixial,1.47,3.52,1.25
+48,Santo Estevao,0.25,0.6,0.21
+49,Veiros,10.05,24.1,8.54
+50,Cabrela,2.38,5.72,2.03
+51,Ciborro,2.94,7.04,2.5
+52,Corticadas De Lavre,3.13,7.5,2.66
+53,Foros De Vale De Figueira,4.28,10.25,3.63
+54,Lavre,3.13,7.5,2.66
+55,Nossa Senhora Da Vila,27.02,64.8,22.95
+56,Nossa Senhora Do Bispo,23.5,56.36,19.96
+57,Sao Cristovao,1.99,4.78,1.69
+58,Santiago Do Escoural,5.07,12.16,4.31
+59,Silveiras,2.43,5.84,2.07
+60,Brotas,1.65,3.96,1.4
+61,Cabecao,3.19,7.65,2.71
+62,Mora,9.8,23.5,8.32
+63,Pavia,3.58,8.59,3.04
+64,Granja,1.65,3.96,1.4
+65,Luz,1.2,2.87,1.02
+66,Mourao,0.14,0.34,0.12
+67,Alqueva,0.85,2.03,0.72
+68,Amieira,0.16,0.39,0.14
+69,Monte Do Trigo,4.92,11.8,4.18
+70,Oriola,1.67,4,1.42
+71,Portel,10.17,24.39,8.64
+72,Sao Bartolomeu Do Outeiro,1.62,3.88,1.38
+73,Santana,3.88,9.31,3.3
+74,Vera Cruz,47.21,113.22,40.1
+75,Montoito,4.04,9.7,3.43
+76,Redondo,24.16,57.95,20.52
+77,Campinho,2,4.8,1.7
+78,Campo,4.13,9.92,3.51
+79,Corval,4.68,11.22,3.97
+80,Monsaraz,2.45,5.89,2.08
+81,Reguengos De Monsaraz,29.51,70.76,25.06
+82,Landeira,2.89,6.92,2.45
+83,Vendas Novas,45.13,108.22,38.33
+84,Aguiar,2.15,5.16,1.83
+85,Alcacovas,8.37,20.07,7.11
+86,Viana Do Alentejo,11.06,26.51,9.39
+87,Bencatel,6.47,15.51,5.49
+88,Ciladas,4.05,9.72,3.44
+89,Pardais,2.12,5.09,1.8
+90,Vila Vicosa (Conceicao),17.72,42.48,15.05
+91,Vila Vicosa (Sao Bartolomeu),3,7.19,2.55
+92,Ois Da Ribeira,2.91,6.97,2.47
+93,Agueda,50.98,122.26,43.3
+94,Agadao,1.32,3.16,1.12
+95,Aguada De Baixo,6.19,14.84,5.26
+96,Aguada De Cima,19.18,46.01,16.29
+97,Barro,8.13,19.49,6.9
+98,Belazaima Do Chao,2.75,6.59,2.33
+99,Borralha,10.64,25.52,9.04
+100,Castanheira Do Vouga,2.64,6.32,2.24
+101,Espinhel,11.31,27.12,9.6
+102,Fermentelos,13.79,33.07,11.71
+103,Lamas Do Vouga,3.16,7.58,2.68
+104,Macieira De Alcoba,0.17,0.41,0.15
+105,Macinhata Do Vouga,13.55,32.5,11.51
+106,Prestimo,3.21,7.7,2.73
+107,Recardaes,15.93,38.19,13.53
+108,Segadaes,5.42,13,4.61
+109,Travasso,7.37,17.68,6.26
+110,Trofa,12.06,28.93,10.25
+111,Valongo Do Vouga,20.54,49.26,17.45
+112,Ilhavo (Sao Salvador),71.26,170.87,60.52
+113,Gafanha Da Encarnacao,23.38,56.07,19.86
+114,Gafanha Da Nazare,66.54,159.56,56.52
+115,Gafanha Do Carmo,6.94,16.65,5.9
+116,Albergaria-A-Velha,39.51,94.74,33.56
+117,Alquerubim,9.65,23.14,8.19
+118,Angeja,8.38,20.1,7.12
+119,Branca,24.63,59.06,20.92
+120,Frossos,4.06,9.75,3.45
+121,Ribeira De Fraguas,6.79,16.28,5.77
+122,Sao Joao De Loure,7.93,19.01,6.73
+123,Valmaior,8.11,19.44,6.89
+124,Ois Do Bairro,2.24,5.38,1.91
+125,Aguim,5.12,12.28,4.35
+126,Amoreira Da Gandara,3.71,8.9,3.15
+127,Ancas,2.39,5.74,2.03
+128,Arcos,25.7,61.64,21.83
+129,Avelas De Caminho,5.28,12.67,4.49
+130,Avelas De Cima,8.72,20.92,7.41
+131,Mogofores,3.48,8.35,2.96
+132,Moita,10.41,24.97,8.84
+133,Paredes Do Bairro,4.18,10.04,3.55
+134,Sao Lourenco Do Bairro,9.91,23.76,8.42
+135,Sangalhos,16.94,40.63,14.39
+136,Tamengos,6.93,16.62,5.89
+137,Vila Nova De Monsarros,7.08,16.98,6.02
+138,Vilarinho Do Bairro,10.55,25.31,8.96
+139,Albergaria Da Serra,0.3,0.72,0.26
+140,Alvarenga,3.84,9.22,3.26
+141,Arouca,13.68,32.81,11.62
+142,Burgo,8.47,20.31,7.19
+143,Cabreiros,0.38,0.92,0.32
+144,Canelas,3.03,7.26,2.57
+145,Chave,5.63,13.51,4.79
+146,Covelo De Paivo,0.27,0.65,0.23
+147,Escariz,9.74,23.35,8.27
+148,Espiunca,1.2,2.87,1.02
+149,Fermedo,5.64,13.53,4.79
+150,Janarde,0.43,1.04,0.37
+151,Mansores,5.21,12.5,4.43
+152,Moldes,4.74,11.36,4.02
+153,Rossas,6.53,15.66,5.55
+154,Sao Miguel Do Mato,2.22,5.33,1.89
+155,Santa Eulalia,9.69,23.23,8.23
+156,Tropeco,4.51,10.81,3.83
+157,Urro,3.98,9.55,3.38
+158,Varzea,2.5,6.01,2.13
+159,Aradas,44.01,105.55,37.38
+160,Cacia,31.75,76.14,26.97
+161,Eirol,3.17,7.6,2.69
+162,Eixo,25.95,62.24,22.05
+163,Esgueira,64.65,155.02,54.91
+164,Gloria,39.97,95.85,33.95
+165,Nariz,6.23,14.93,5.29
+166,Nossa Senhora De Fatima,8.39,20.12,7.13
+167,Oliveirinha,20.44,49.02,17.36
+168,Requeixo,5.13,12.3,4.36
+169,Sao Bernardo,24.15,57.92,20.52
+170,Sao Jacinto,3.64,8.73,3.09
+171,Santa Joana,35.36,84.8,30.03
+172,Vera Cruz,47.21,113.22,40.1
+173,Bairros,7.81,18.72,6.63
+174,Fornos,4.64,11.12,3.94
+175,Paraiso,3.23,7.74,2.74
+176,Pedorido,5.04,12.09,4.28
+177,Raiva,8.32,19.95,7.07
+178,Real,4.6,11.02,3.9
+179,Sao Martinho De Sardoura,7.39,17.73,6.28
+180,Santa Maria De Sardoura,9.47,22.7,8.04
+181,Sobrado,11.38,27.28,9.66
+182,Anta,39.92,95.73,33.91
+183,Espinho,37.73,90.47,32.04
+184,Guetim,5,11.99,4.25
+185,Paramos,13.48,32.33,11.45
+186,Silvalde,23.84,57.18,20.25
+187,Avanca,27.21,65.26,23.11
+188,Beduido,31.94,76.6,27.13
+189,Canelas,3.03,7.26,2.57
+190,Fermela,5.35,12.83,4.55
+191,Pardilho,16.06,38.5,13.64
+192,Salreu,14.5,34.76,12.31
+193,Veiros,10.05,24.1,8.54
+194,Antes,3.75,9,3.19
+195,Barcouco,9.47,22.7,8.04
+196,Casal Comba,13.77,33.03,11.7
+197,Luso,10.83,25.98,9.2
+198,Mealhada,21.8,52.28,18.52
+199,Pampilhosa,18.41,44.15,15.64
+200,Vacarica,8.46,20.29,7.19
+201,Ventosa Do Bairro,3.76,9.02,3.2
+202,Bunheiro,10.84,26.01,9.21
+203,Monte,5.51,13.22,4.68
+204,Murtosa,12.11,29.05,10.29
+205,Torreira,11.73,28.13,9.96
+206,Carregosa,16.32,39.13,13.86
+207,Cesar,15.37,36.86,13.06
+208,Fajoes,13.76,33,11.69
+209,Loureiro,15.63,37.49,13.28
+210,Macinhata Da Seixa,6.5,15.58,5.52
+211,Madail,4.15,9.96,3.53
+212,Nacieira De Sarnes,8.35,20.02,7.09
+213,Nogueira Do Cravo,13.56,32.52,11.52
+214,Oliveira De Azemeis,58.04,139.17,49.29
+215,Ossela,9.38,22.48,7.96
+216,Palmaz,8.62,20.67,7.32
+217,Pindelo,11.92,28.59,10.13
+218,Pinheiro Da Bemposta,14.64,35.1,12.43
+219,Sao Martinho Da Gandara,9.07,21.76,7.71
+220,Sao Roque,25.88,62.07,21.99
+221,Santiago De Riba-Ul,18.45,44.24,15.67
+222,Travanca,9.09,21.81,7.72
+223,Ul,10.5,25.19,8.92
+224,Vila De Cucujaes,48.56,116.45,41.25
+225,Bustos,11.16,26.75,9.48
+226,Mamarrosa,4.99,11.97,4.24
+227,Oia,34.3,82.26,29.14
+228,Oliveira Do Bairro,29.18,69.99,24.79
+229,Palhaca,11.07,26.54,9.4
+230,Troviscal,9.28,22.24,7.88
+231,Arada,13.33,31.97,11.32
+232,Cortegaca,16.47,39.49,13.99
+233,Esmoriz,50.22,120.43,42.66
+234,Maceda,14.6,35,12.4
+235,Ovar,78.18,187.47,66.4
+236,Sao Joao,25.67,61.57,21.81
+237,Sao Vicente De Pereira Jusa,10.28,24.66,8.73
+238,Valega,29.13,69.86,24.75
+239,Sao Joao Da Madeira,100,239.8,84.93
+240,Argoncilhe,33.98,81.49,28.86
+241,Arrifana,29.59,70.95,25.13
+242,Caldas De Sao Jorge,11.95,28.66,10.15
+243,Canedo,23.98,57.51,20.37
+244,Escapaes,15.52,37.22,13.18
+245,Espargo,6.68,16.02,5.67
+246,Feira,59.52,142.72,50.55
+247,Fiaes,31.83,76.33,27.04
+248,Fornos,4.64,11.12,3.94
+249,Giao,7.6,18.21,6.45
+250,Guisande,5.09,12.21,4.32
+251,Lobao,21.9,52.52,18.6
+252,Louredo,5.57,13.37,4.73
+253,Lourosa,35.55,85.26,30.2
+254,Milheiros De Poiares,18.14,43.5,15.41
+255,Mosteiro,9.59,22.99,8.14
+256,Mozelos,33.35,79.97,28.33
+257,Nogueira Da Regedoura,24.1,57.8,20.47
+258,Pacos De Brandao,21.14,50.69,17.95
+259,Pigeiros,5.13,12.3,4.36
+260,Rio Meao,21.28,51.02,18.07
+261,Romariz,12.99,31.14,11.03
+262,Sao Joao De Ver,47.5,113.92,40.35
+263,Sao Paio De Oleiros,17.43,41.81,14.81
+264,Sanfins,8.56,20.53,7.27
+265,Sanguedo,13.46,32.28,11.43
+266,Santa Maria De Lamas,21.54,51.65,18.29
+267,Souto,19.28,46.22,16.37
+268,Travanca,9.09,21.81,7.72
+269,Vale,7.71,18.48,6.55
+270,Vila Maior,5.81,13.94,4.94
+271,Cedrim,3.48,8.35,2.96
+272,Couto De Esteves,2.92,7,2.48
+273,Dornelas,2.84,6.8,2.41
+274,Paradela,3.01,7.21,2.55
+275,Pessegueiro Do Vouga,7.58,18.17,6.43
+276,Rocas Do Vouga,6.89,16.53,5.85
+277,Sever Do Vouga,12.56,30.13,10.67
+278,Silva Escura,6.39,15.32,5.43
+279,Talhadas,4.89,11.72,4.15
+280,Calvao,9.09,21.81,7.72
+281,Covao Do Lobo,4.17,10.01,3.55
+282,Fonte De Angeao,4.99,11.97,4.24
+283,Gafanha Da Boa Hora,10.69,25.64,9.08
+284,Ouca,7.13,17.1,6.06
+285,Ponte De Vagos,7.75,18.58,6.58
+286,Santa Catarina,4.14,9.94,3.52
+287,Santo Andre De Vagos,8.42,20.19,7.15
+288,Santo Antonio De Vagos,8.02,19.23,6.81
+289,Sosa,12.42,29.79,10.55
+290,Vagos,20.64,49.5,17.53
+291,Aroes,3.95,9.48,3.36
+292,Cepelos,4.91,11.77,4.17
+293,Codal,4.57,10.95,3.88
+294,Junqueira,3.7,8.88,3.14
+295,Macieira De Cambra,20.08,48.15,17.06
+296,Roge,7.27,17.44,6.18
+297,Sao Pedro De Casteloes,31.57,75.7,26.81
+298,Vila Cha,18.69,44.82,15.88
+299,Vila Cova De Perrinho,1.83,4.39,1.56
+456,Aljustrel,20.44,49.02,17.36
+457,Ervidel,3.38,8.11,2.87
+458,Messejana,2.98,7.14,2.53
+459,Rio De Moinhos,2.58,6.18,2.19
+460,Sao Joao De Negrilhos,4.92,11.8,4.18
+461,Aldeia Dos Fernandes,1.91,4.58,1.62
+462,Almodovar,16.07,38.53,13.65
+463,Gomes Aires,0.82,1.98,0.7
+464,Rosario,2.12,5.09,1.8
+465,Sao Barnabe,1.03,2.46,0.87
+466,Santa Clara-A-Nova,1.74,4.17,1.48
+467,Santa Cruz,1.91,4.58,1.62
+468,Senhora Da Graca De Padroes,1.24,2.97,1.05
+469,Alvito,4.72,11.31,4.01
+470,Vila Nova Da Baronia,4.88,11.7,4.14
+471,Barrancos,6.59,15.8,5.6
+472,Albernoa,2.67,6.39,2.26
+473,Baleizao,3.79,9.09,3.22
+474,Beja (Sao Joao Baptista),27.76,66.56,23.57
+475,Beja (Salvador),30.02,71.99,25.5
+476,Beja (Santa Maria Da Feira),17.29,41.47,14.69
+477,Beja (Santiago Maior),33.03,79.2,28.05
+478,Beringel,4.85,11.63,4.12
+479,Cabeca Gorda,4.93,11.82,4.19
+480,Mombeja,1.48,3.55,1.26
+481,Nossa Senhora Das Neves,6.91,16.57,5.87
+482,Quintos,0.88,2.1,0.74
+483,Sao Brissos,0.5,1.21,0.43
+484,Sao Matias,2.4,5.77,2.04
+485,Salvada,3.99,9.58,3.39
+486,Santa Clara De Louredo,3.24,7.77,2.75
+487,Santa Vitoria,2.09,5.02,1.78
+488,Trigaches,1.68,4.03,1.43
+489,Trindade,1.08,2.58,0.91
+490,Casevel,1.35,3.23,1.14
+491,Castro Verde,21.72,52.08,18.45
+492,Entradas,2.28,5.48,1.94
+493,Sao Marcos Da Ataboeira,1.19,2.85,1.01
+494,Santa Barbara De Padroes,3.12,7.48,2.65
+495,Cuba,13.35,32.01,11.34
+496,Faro Do Alentejo,2.19,5.26,1.86
+497,Vila Alva,1.37,3.28,1.16
+498,Vila Ruiva,1.37,3.28,1.16
+499,Alfundao,3.31,7.94,2.81
+500,Canhestros,1.44,3.45,1.22
+501,Ferreira Do Alentejo,17.85,42.8,15.16
+502,Figueira Dos Cavaleiros,4.79,11.48,4.07
+503,Odivelas,2.4,5.77,2.04
+504,Peroguarda,1.36,3.26,1.15
+505,Alcaria Ruiva,2.84,6.8,2.41
+506,Corte Do Pinto,1.95,4.68,1.66
+507,Espirito Santo,0.87,2.07,0.73
+508,Mertola,11.22,26.9,9.53
+509,Sao Joao Dos Caldeireiros,1.9,4.56,1.61
+510,Sao Miguel Do Pinheiro,1.89,4.54,1.61
+511,Sao Pedro De Solis,0.59,1.42,0.5
+512,Sao Sebastiao Dos Carros,0.66,1.59,0.56
+513,Santana De Cambas,2.33,5.6,1.98
+514,Amareleja,7.32,17.56,6.22
+515,Moura (Sao Joao Baptista),14.8,35.49,12.57
+516,Moura (Santo Agostinho),16.74,40.14,14.22
+517,Povoa De Sao Miguel,2.46,5.91,2.09
+518,Safara,3.33,7.99,2.83
+519,Santo Aleixo Da Restauracao,2.08,4.99,1.77
+520,Santo Amador,1,2.39,0.85
+521,Sobral Da Adica,2.91,6.97,2.47
+522,Bicos,1.84,4.41,1.56
+523,Boavista Dos Pinheiros,7.21,17.3,6.13
+524,Colos,3.52,8.44,2.99
+525,Longueira/Almograve,5.41,12.98,4.6
+526,Luzianes-Gare,1.14,2.73,0.97
+527,Odemira (Sao Salvador),7.83,18.77,6.65
+528,Odemira (Santa Maria),5.5,13.2,4.67
+529,Pereiras-Gare,0.64,1.54,0.55
+530,Reliquias,3.07,7.36,2.61
+531,Sao Luis,6.96,16.69,5.91
+532,Sao Martinho Das Amoreiras,2.81,6.73,2.38
+533,Sao Teotonio,24.53,58.82,20.83
+534,Saboia,2.67,6.39,2.26
+535,Santa Clara-A-Velha,1.56,3.74,1.32
+536,Vale De Santiago,1.85,4.44,1.57
+537,Vila Nova De Milfontes,19.56,46.9,16.61
+538,Zambujeira Do Mar,3.77,9.05,3.2
+539,Conceicao,0.24,0.58,0.21
+540,Garvao,2.26,5.43,1.92
+541,Ourique,11.83,28.37,10.05
+542,Panoias,1.56,3.74,1.32
+543,Santa Luzia,1.28,3.06,1.09
+544,Santana Da Serra,2.28,5.48,1.94
+545,Aldeia Nova De Sao Bento,9.8,23.5,8.32
+546,Brinches,3.17,7.6,2.69
+547,Pias,8.95,21.47,7.6
+548,Serpa (Salvador),18.03,43.23,15.31
+549,Serpa (Santa Maria),7.16,17.18,6.08
+550,Vale De Vargo,2.29,5.5,1.95
+551,Vila Verde De Ficalho,4.4,10.54,3.73
+552,Pedrogao,3.62,8.68,3.08
+553,Selmes,3.21,7.7,2.73
+554,Vidigueira,11.55,27.7,9.81
+555,Vila De Frades,3.48,8.35,2.96
+556,Amares,6.57,15.75,5.58
+557,Barreiros,2.89,6.92,2.45
+558,Besteiros,2.3,5.52,1.96
+559,Bico,3.47,8.32,2.95
+560,Bouro (Santa Maria),2.42,5.81,2.06
+561,Bouro (Santa Marta),1.49,3.57,1.26
+562,Caires,3.16,7.58,2.68
+563,Caldelas,3.12,7.48,2.65
+564,Carrazedo,3.17,7.6,2.69
+565,Dornelas,2.84,6.8,2.41
+566,Ferreiros,12.93,31,10.98
+567,Figueiredo,4.51,10.81,3.83
+568,Fiscal,2.63,6.3,2.23
+569,Goaes,1.95,4.68,1.66
+570,Lago,7.98,19.13,6.78
+571,Paranhos,0.32,0.77,0.27
+572,Paredes Secas,0.53,1.28,0.45
+573,Portela,0.52,1.25,0.44
+574,Prozelo,3.19,7.65,2.71
+575,Rendufe,4.67,11.19,3.96
+576,Sequeiros,0.55,1.33,0.47
+577,Seramil,0.55,1.33,0.47
+578,Torre,1.71,4.1,1.45
+579,Vilela,0.92,2.2,0.78
+580,Abade De Neiva,9.2,22.07,7.82
+581,Aborim,3.77,9.05,3.2
+582,Adaes,3.6,8.64,3.06
+583,Aguiar,2.15,5.16,1.83
+584,Airo,4.15,9.96,3.53
+585,Aldreu,4.15,9.96,3.53
+586,Alheira,4.39,10.52,3.73
+587,Alvelos,9.48,22.73,8.05
+588,Alvito (Sao Martinho),2.02,4.85,1.72
+589,Alvito (Sao Pedro),2.85,6.83,2.42
+590,Arcozelo,57.55,138.02,48.88
+591,Areias De Vilar,5.05,12.11,4.29
+592,Areias,4.4,10.54,3.73
+593,Balugaes,3.69,8.85,3.14
+594,Barcelinhos,7.98,19.13,6.78
+595,Barcelos,18.95,45.45,16.1
+596,Barqueiros,8.24,19.76,7
+597,Bastuco (Sao Joao),2.81,6.73,2.38
+598,Bastuco (Santo Estevao),1.95,4.68,1.66
+599,Cambeses,5.38,12.91,4.57
+600,Campo,4.13,9.92,3.51
+601,Carapecos,10.18,24.41,8.65
+602,Carreira,6.7,16.07,5.69
+603,Carvalhal,6.04,14.47,5.13
+604,Carvalhos,3,7.19,2.55
+605,Chavao,2.92,7,2.48
+606,Chorente,3.22,7.72,2.73
+607,Cossourado,3.37,8.08,2.86
+608,Courel,2.17,5.21,1.85
+609,Couto,1.52,3.64,1.29
+610,Creixomil,3.83,9.19,3.26
+611,Cristelo,8.53,20.46,7.25
+612,Durraes,3.02,7.24,2.56
+613,Encourados,2.23,5.36,1.9
+614,Faria,2.54,6.08,2.15
+615,Feitos,2.56,6.13,2.17
+616,Fonte Coberta,2.69,6.44,2.28
+617,Fornelos,3.64,8.73,3.09
+618,Fragoso,8.7,20.87,7.39
+619,Goios,2.29,5.5,1.95
+620,Galegos (Sao Martinho),8.45,20.26,7.18
+621,Galegos (Santa Maria),13.42,32.18,11.4
+622,Gamil,3.87,9.29,3.29
+623,Gilmonde,7.06,16.94,6
+624,Grimancelos,3.1,7.43,2.63
+625,Gueral,1.65,3.96,1.4
+626,Igreja Nova,1.41,3.38,1.2
+627,Lama,5.35,12.83,4.55
+628,Lijo,10.24,24.56,8.7
+629,Macieira De Rates,9.12,21.88,7.75
+630,Manhente,8.08,19.37,6.86
+631,Mariz,1.67,4,1.42
+632,Martim,11.05,26.49,9.38
+633,Midoes,1.96,4.7,1.67
+634,Milhazes,4.05,9.72,3.44
+635,Minhotaes,3.45,8.27,2.93
+636,Monte De Fralaes,1.88,4.51,1.6
+637,Moure,4.21,10.08,3.57
+638,Negreiros,6.76,16.21,5.74
+639,Oliveira,4.23,10.13,3.59
+640,Palme,4.63,11.1,3.93
+641,Panque,2.67,6.39,2.26
+642,Paradela,3.01,7.21,2.55
+643,Pedra Furada,1.81,4.34,1.54
+644,Pereira,6.32,15.15,5.37
+645,Perelhal,7.96,19.08,6.76
+646,Pousa,9.62,23.06,8.17
+647,Quintiaes,2.93,7.02,2.49
+648,Remelhe,6.31,15.13,5.36
+649,Rio Covo (Santa Eugenia),6.62,15.87,5.62
+650,Rio Covo (Santa Eulalia),4.44,10.64,3.77
+651,Roriz,9.04,21.69,7.68
+652,Sequeade,3.57,8.56,3.03
+653,Silva,4.25,10.18,3.61
+654,Silveiros,5.26,12.62,4.47
+655,Tamel (Sao Pedro Fins),2.38,5.72,2.03
+656,Tamel (Sao Verissimo),12.56,30.13,10.67
+657,Tamel (Santa Leocadia),3.49,8.37,2.97
+658,Tregosa,2.89,6.92,2.45
+659,Ucha,6.29,15.08,5.34
+660,Varzea,2.5,6.01,2.13
+661,Viatodos,8.47,20.31,7.19
+662,Vila Boa,11.33,27.16,9.62
+663,Vila Cova,8.79,21.08,7.47
+664,Vila Frescainha (Sao Martinho),9.83,23.57,8.35
+665,Vila Frescainha (Sao Pedro),7.1,17.03,6.03
+666,Vila Seca,5.27,12.64,4.48
+667,Vilar De Figos,2.66,6.37,2.26
+668,Vilar Do Monte,3.35,8.03,2.85
+669,Abacao,10.02,24.03,8.51
+670,Adaufe,16.6,39.81,14.1
+671,Airao (Sao Joao Baptista),3.28,7.86,2.79
+672,Airao (Santa Maria),7,16.79,5.95
+673,Aldao,6.36,15.25,5.4
+674,Arcos,25.7,61.64,21.83
+675,Arentim,4.07,9.77,3.46
+676,Arosa,1.52,3.64,1.29
+677,Ataes,8.99,21.57,7.64
+678,Aveleda,9.55,22.89,8.11
+679,Azurem,36.49,87.5,30.99
+680,Balazar,1.91,4.58,1.62
+681,Barco,6.41,15.37,5.44
+682,Braga (Cividade),5.62,13.49,4.78
+683,Braga (Maximinos),41.42,99.32,35.18
+684,Braga (Sao Joao Do Souto),1.77,4.25,1.5
+685,Braga (Sao Jose De Sao Lazaro),55.32,132.66,46.99
+686,Braga (Sao Vitor),135.68,325.37,115.24
+687,Braga (Sao Vicente),59.79,143.37,50.78
+688,Braga (Se),14.4,34.52,12.23
+689,Briteiros (Salvador),4.11,9.87,3.49
+690,Briteiros (Santa Leocadia),3.56,8.54,3.02
+691,Briteiros (Santo Estevao),5.72,13.73,4.86
+692,Brito,22.55,54.09,19.16
+693,Cabreiros,0.38,0.92,0.32
+694,Caldelas,3.12,7.48,2.65
+695,Calvos,5.11,12.26,4.34
+696,Candoso (Sao Martinho),5.38,12.91,4.57
+697,Candoso (Santiago),10.09,24.2,8.57
+698,Casteloes,0.97,2.32,0.82
+699,Celeiros,15.69,37.63,13.33
+700,Conde,6.64,15.92,5.64
+701,Corvite,4.11,9.87,3.49
+702,Costa,25.73,61.71,21.86
+703,Creixomil,3.83,9.19,3.26
+704,Crespos,3.7,8.88,3.14
+705,Cunha,2.92,7,2.48
+706,Donim,3.3,7.91,2.8
+707,Dume,13.52,32.42,11.48
+708,Escudeiros,4.79,11.48,4.07
+709,Espinho,37.73,90.47,32.04
+710,Esporoes,7.68,18.41,6.52
+711,Este (Sao Mamede),7.95,19.06,6.75
+712,Este (Sao Pedro),9.42,22.58,8
+713,Fermentoes,25.53,61.23,21.69
+714,Ferreiros,12.93,31,10.98
+715,Figueiredo 1,2.25,5.4,1.91
+716,Figueiredo 2,2.25,5.4,1.91
+717,Fradelos,3.83,9.19,3.26
+718,Fraiao,25.18,60.38,21.39
+719,Frossos,4.06,9.75,3.45
+720,Gemeos,1.2,2.88,1.02
+721,Gandarela,5.17,12.4,4.39
+722,Gominhaes,2.4,5.77,2.04
+723,Gonca,4.75,11.39,4.03
+724,Gondar,12.14,29.12,10.31
+725,Gondizalves,6.48,15.54,5.5
+726,Gondomar,1.6,3.84,1.36
+727,Gualtar,24.55,58.86,20.85
+728,Guardizela,10.88,26.1,9.25
+729,Guimaraes (Oliveira Do Castelo),12.95,31.05,11
+730,Guimaraes (Sao Paio),10.42,24.99,8.85
+731,Guimaraes (Sao Sebastiao),6.93,16.62,5.89
+732,Guisande,5.09,12.21,4.32
+733,Infantas,8.37,20.07,7.11
+734,Lamacaes,13.33,31.97,11.32
+735,Lamas,3.87,9.29,3.29
+736,Leitoes,2.58,6.18,2.19
+737,Lomar,28.34,67.96,24.07
+738,Longos,6.13,14.69,5.2
+739,Lordelo,17.72,42.48,15.05
+740,Mascotelos,8.01,19.2,6.8
+741,Merelim (Sao Paio),10.66,25.57,9.06
+742,Merelim (Sao Pedro),8.65,20.75,7.35
+743,Mesao Frio,19.83,47.55,16.84
+744,Mire De Tibaes,10.45,25.07,8.88
+745,Moreira De Conegos,20.82,49.94,17.69
+746,Morreira,3.3,7.91,2.8
+747,Navarra,2.3,5.52,1.96
+748,Nespereira,11.96,28.68,10.16
+749,Nogueiro,18.62,44.65,15.82
+750,Nogueira,29.15,69.91,24.76
+751,Oleiros,1.94,4.66,1.65
+752,Oliveira (Sao Pedro),2.13,5.11,1.81
+753,Padim Da Graca,6.33,15.17,5.37
+754,Palmeira,25.3,60.67,21.49
+755,Panoias,7.47,17.92,6.35
+756,Parada De Tibaes,5.54,13.29,4.71
+757,Passos (Sao Juliao),2.8,6.71,2.38
+758,Pedralva,4.95,11.87,4.2
+759,Pencelo,5.18,12.42,4.4
+760,Penso (Sao Vicente),1.37,3.28,1.16
+761,Penso (Santo Estevao),1.95,4.68,1.66
+762,Pinheiro,5.42,13,4.61
+763,Polvoreira,15.44,37.03,13.12
+764,Ponte,31.06,74.47,26.38
+765,Pousada,2.08,4.99,1.77
+766,Prazins (Santa Eufemia),5.79,13.9,4.92
+767,Prazins (Santo Tirso),4.79,11.48,4.07
+768,Priscos,6.19,14.84,5.26
+769,Real,4.6,11.02,3.9
+770,Rendufe,4.67,11.19,3.96
+771,Ronfe,19.9,47.72,16.9
+772,Ruilhe,4.55,10.9,3.86
+773,Sao Faustino,4.66,11.17,3.96
+774,Sao Torcato,15.45,37.06,13.12
+775,Sande (Sao Clemente),7.49,17.97,6.37
+776,Sande (Sao Lourenco),4.72,11.31,4.01
+777,Sande (Sao Martinho),10.59,25.4,9
+778,Sande (Vila Nova),7.53,18.07,6.4
+779,Santa Lucrecia De Algeriz,2.48,5.96,2.11
+780,Selho (Sao Cristovao),10.53,25.26,8.95
+781,Selho (Sao Jorge),25.63,61.47,21.77
+782,Selho (Sao Lourenco),8.02,19.23,6.81
+783,Semelhe,3.34,8.01,2.84
+784,Sequeira,7.33,17.59,6.23
+785,Serzedelo,15.6,37.42,13.25
+786,Serzedo,5.64,13.53,4.79
+787,Silvares,9.84,23.59,8.36
+788,Sobreposta,5.9,14.14,5.01
+789,Souto (Sao Salvador),3.85,9.24,3.27
+790,Souto (Santa Maria),3.44,8.25,2.92
+791,Tabuadelo,6.92,16.6,5.88
+792,Tadim,5.48,13.15,4.66
+793,Tebosa,5.1,12.23,4.33
+794,Tenoes,7.23,17.35,6.14
+795,Trandeiras,3.11,7.45,2.64
+796,Urgezes,22.53,54.04,19.14
+797,Vermil,4.95,11.87,4.2
+798,Vilaca,3.52,8.44,2.99
+799,Vimieiro,5.99,14.35,5.08
+800,Abadim,1.92,4.61,1.63
+801,Alvite,3.85,9.24,3.27
+802,Arco De Baulhe,6.08,14.57,5.16
+803,Basto,3.44,8.25,2.92
+804,Bucos,1.57,3.76,1.33
+805,Cabeceiras De Basto,1.89,4.54,1.61
+806,Cavez,4.02,9.65,3.42
+807,Faia,1.57,3.76,1.33
+808,Gondiaes,0.62,1.5,0.53
+809,Outeiro,4.17,10.01,3.55
+810,Painzela,3.41,8.18,2.9
+811,Passos,0.64,1.54,0.55
+812,Pedraca,2.23,5.36,1.9
+813,Refojos De Basto,17.94,43.01,15.24
+814,Rio Douro,2.76,6.61,2.34
+815,Vila Nune,1,2.39,0.85
+816,Vilar De Cunhas,0.64,1.54,0.55
+817,Agilde,4.06,9.75,3.45
+818,Arnoia,6.16,14.76,5.23
+819,Basto (Sao Clemente),5.53,13.27,4.7
+820,Basto (Santa Tecla),0.54,1.3,0.46
+821,Borba De Montanha,4.25,10.18,3.61
+822,Britelo,10.02,24.03,8.51
+823,Cacarilhe,1.34,3.21,1.14
+824,Canedo De Basto,3.2,7.67,2.72
+825,Carvalho,2.22,5.33,1.89
+826,Codecoso,1.36,3.26,1.15
+827,Corgo,0.87,2.07,0.73
+828,Fervenca,5.25,12.59,4.46
+829,Gemeos,2.4,5.77,2.04
+830,Gagos,2.18,5.24,1.85
+831,Infesta,0.98,2.34,0.83
+832,Molares,2.2,5.28,1.87
+833,Moreira Do Castelo,2.19,5.26,1.86
+834,Ourilhe,1.49,3.57,1.26
+835,Rego,4.65,11.15,3.95
+836,Ribas,3.35,8.03,2.85
+837,Vale De Bouro,2.41,5.79,2.05
+838,Veade,2.66,6.37,2.26
+839,Antas,9.73,23.33,8.26
+840,Apulia,19.07,45.74,16.2
+841,Belinho,8.23,19.73,6.99
+842,Curvos,3.55,8.52,3.02
+843,Esposende,16.85,40.41,14.31
+844,Fao,13.97,33.51,11.87
+845,Fonte Boa,6.08,14.57,5.16
+846,Forjaes,12.41,29.77,10.54
+847,Gandra,6.02,14.43,5.11
+848,Gemeses,4.41,10.57,3.74
+849,Marinhas,27.67,66.34,23.5
+850,Mar,4.94,11.85,4.2
+851,Palmeira De Faro,10.36,24.85,8.8
+852,Rio Tinto,2.75,6.59,2.33
+853,Vila Cha,18.69,44.82,15.88
+854,Aboim,0.97,2.32,0.82
+855,Agrela,0.63,1.52,0.54
+856,Antime,5.98,14.33,5.08
+857,Aroes (Sao Romao),14.65,35.13,12.44
+858,Aroes (Santa Cristina),6.97,16.72,5.92
+859,Ardegao,1.03,2.46,0.87
+860,Armil,2.99,7.16,2.54
+861,Arnozela,0.91,2.17,0.77
+862,Cepaes,5.46,13.1,4.64
+863,Estoraos,5.91,14.16,5.02
+864,Fafe,65.46,156.98,55.6
+865,Fareja,3.9,9.36,3.32
+866,Felgueiras,0.4,0.96,0.34
+867,Fornelos,3.64,8.73,3.09
+868,Freitas,1.79,4.29,1.52
+869,Golaes,8.76,21.01,7.44
+870,Gontim,0.12,0.29,0.1
+871,Medelo,6.64,15.92,5.64
+872,Monte,5.51,13.22,4.68
+873,Moreira Do Rei,5.84,14.02,4.96
+874,Passos,0.64,1.54,0.55
+875,Pedraido,0.83,2,0.71
+876,Queimadela,1.19,2.85,1.01
+877,Quinchaes,9,21.59,7.65
+878,Regadas,6.26,15.01,5.31
+879,Revelhe,3.17,7.6,2.69
+880,Ribeiros,2.57,6.15,2.18
+881,Sao Gens,6.51,15.61,5.53
+882,Seidoes,1.7,4.08,1.44
+883,Serafao,3.2,7.67,2.72
+884,Silvares (Sao Clemente),2.34,5.62,1.99
+885,Silvares (Sao Martinho),5.21,12.5,4.43
+886,Travassos,5.2,12.47,4.42
+887,Varzea Cova,0.83,2,0.71
+888,Vila Cova,8.79,21.08,7.47
+889,Vinhos,2.66,6.37,2.26
+890,Aguas Santas,1.48,3.55,1.26
+891,Ajude,0.53,1.28,0.45
+892,Brunhais,0.72,1.74,0.62
+893,Calvos,5.11,12.26,4.34
+894,Campos,4.25,10.18,3.61
+895,Covelas,1.97,4.73,1.67
+896,Esperanca,0.61,1.47,0.52
+897,Ferreiros,12.93,31,10.98
+898,Fonte Arcada,4.94,11.85,4.2
+899,Frades,0.86,2.05,0.73
+900,Friande,0.7,1.69,0.6
+901,Galegos,1.86,4.46,1.58
+902,Garfe,3.51,8.42,2.98
+903,Geraz Do Minho,2.13,5.11,1.81
+904,Lanhoso,3.06,7.33,2.6
+905,Louredo,5.57,13.37,4.73
+906,Monsul,2.96,7.09,2.51
+907,Moure,4.21,10.08,3.57
+908,Oliveira,4.23,10.13,3.59
+909,Povoa De Lanhoso (Nossa Senhora Do Amparo),20.67,49.58,17.56
+910,Rendufinho,2.63,6.3,2.23
+911,Sao Joao De Rei,1.59,3.81,1.35
+912,Santo Emiliao,3.67,8.81,3.12
+913,Serzedelo,15.6,37.42,13.25
+914,Sobradelo Da Goma,1.75,4.2,1.49
+915,Taide,6.22,14.91,5.28
+916,Travassos,2.42,5.81,2.06
+917,Verim,1.08,2.58,0.91
+918,Vilela,0.92,2.2,0.78
+919,Balanca,1.17,2.8,0.99
+920,Brufe,0.17,0.41,0.15
+921,Campo Do Geres,0.51,1.23,0.44
+922,Carvalheira,1.06,2.53,0.9
+923,Chamoim,0.76,1.83,0.65
+924,Chorense,1.5,3.59,1.27
+925,Ciboes,0.88,2.1,0.74
+926,Covide,1.09,2.61,0.92
+927,Gondoriz,0.72,1.74,0.62
+928,Moimenta,2.75,6.59,2.33
+929,Monte,5.51,13.22,4.68
+930,Ribeira,0.74,1.79,0.63
+931,Rio Caldo,2.63,6.3,2.23
+932,Souto,19.28,46.22,16.37
+933,Valdosende,2.01,4.82,1.71
+934,Vilar Da Veiga,3.72,8.93,3.16
+935,Vilar,0.34,0.82,0.29
+936,Anisso,0.6,1.45,0.51
+937,Anjos,0.69,1.66,0.59
+938,Campos,4.25,10.18,3.61
+939,Canicada,1.5,3.59,1.27
+940,Cantelaes,2.69,6.44,2.28
+941,Cova,0.73,1.76,0.62
+942,Eira Vedra,2.71,6.49,2.3
+943,Guilhofrei,2.81,6.73,2.38
+944,Louredo,5.57,13.37,4.73
+945,Mosteiro,2.43,5.84,2.07
+946,Parada Do Bouro,1.15,2.75,0.97
+947,Pinheiro,5.42,13,4.61
+948,Rossas,6.53,15.66,5.55
+949,Ruivaes,1.85,4.44,1.57
+950,Salamonde,1.32,3.16,1.12
+951,Soengas,0.39,0.94,0.33
+952,Soutelo,0.65,1.57,0.56
+953,Tabuacas,3.33,7.99,2.83
+954,Ventosa,1.1,2.63,0.93
+955,Vieira Do Minho,7.94,19.03,6.74
+956,Vilar Do Chao,0.8,1.93,0.68
+957,Abade De Vermoim,1.72,4.13,1.46
+958,Antas,9.73,23.33,8.26
+959,Arnoso (Santa Eulalia),4.75,11.39,4.03
+960,Arnoso (Santa Maria),9.33,22.36,7.92
+961,Avidos,7.35,17.64,6.25
+962,Bairro,14.48,34.72,12.3
+963,Bente,3.75,9,3.19
+964,Brufe,0.17,0.41,0.15
+965,Cabecudos,6.73,16.14,5.72
+966,Calendario,51.19,122.75,43.48
+967,Carreira,6.7,16.07,5.69
+968,Casteloes,0.97,2.32,0.82
+969,Cavaloes,6.69,16.04,5.68
+970,Cruz,8.29,19.88,7.04
+971,Delaes,15.96,38.26,13.55
+972,Esmeriz,10.24,24.56,8.7
+973,Fradelos,3.83,9.19,3.26
+974,Gaviao,15.9,38.14,13.51
+975,Gondifelos,10.48,25.14,8.9
+976,Jesufrei,2.58,6.18,2.19
+977,Joane,37.56,90.08,31.91
+978,Lagoa,3.86,9.26,3.28
+979,Landim,11.23,26.92,9.54
+980,Lemenhe,5.5,13.2,4.67
+981,Louro,10.45,25.07,8.88
+982,Lousado,18.04,43.26,15.32
+983,Mogege,8.9,21.35,7.56
+984,Mouquim,5.4,12.95,4.59
+985,Nine,13.63,32.69,11.58
+986,Novais,5.17,12.4,4.39
+987,Oliveira (Sao Mateus),9.95,23.86,8.45
+988,Oliveira (Santa Maria),14.25,34.16,12.1
+989,Outiz,3.69,8.85,3.14
+990,Pedome,8.73,20.94,7.42
+991,Portela,0.52,1.25,0.44
+992,Pousada De Saramagos,9.5,22.77,8.07
+993,Requiao,15.33,36.77,13.02
+994,Riba De Ave,13.94,33.44,11.84
+995,Ribeirao,40.06,96.06,34.03
+996,Ruivaes,1.85,4.44,1.57
+997,Seide (Sao Miguel),4.68,11.22,3.97
+998,Seide (Sao Paio),1.64,3.93,1.39
+999,Sezures,1.96,4.7,1.67
+1000,Telhado,7.86,18.84,6.67
+1001,Vale (Sao Cosme),13.31,31.92,11.3
+1002,Vale (Sao Martinho),9.51,22.8,8.07
+1003,Vermoim,12.59,30.18,10.69
+1004,Vila Nova De Famalicao,40.57,97.29,34.46
+1005,Vilarinho Das Cambas,6.49,15.56,5.51
+1006,Aboim Da Nobrega,2.93,7.02,2.49
+1007,Arcozelo,57.55,138.02,48.88
+1008,Ataes,8.99,21.57,7.64
+1009,Atiaes,1.85,4.44,1.57
+1010,Azoes,1.1,2.63,0.93
+1011,Barbudo,10.04,24.08,8.53
+1012,Barros,1.02,2.44,0.86
+1013,Cabanelas,7.91,18.96,6.72
+1014,Carreiras (Sao Miguel),1.73,4.15,1.47
+1015,Carreiras (Santiago),1.11,2.65,0.94
+1016,Cervaes,7.52,18.05,6.39
+1017,Codeceda,0.55,1.33,0.47
+1018,Coucieiro,2.27,5.45,1.93
+1019,Covas,1.06,2.53,0.9
+1020,Dossaos,2.06,4.95,1.75
+1021,Duas Igrejas,3.93,9.43,3.34
+1022,Escariz (Sao Mamede),1.25,2.99,1.06
+1023,Escariz (Sao Martinho),1.52,3.64,1.29
+1024,Esqueiros,1.98,4.75,1.68
+1025,Freiriz,4.24,10.16,3.6
+1026,Geme,2.16,5.19,1.84
+1027,Goaes,1.95,4.68,1.66
+1028,Godinhacos,1.03,2.46,0.87
+1029,Gomide,0.73,1.76,0.62
+1030,Gondiaes,0.62,1.5,0.53
+1031,Gondomar,1.6,3.84,1.36
+1032,Lage,12.67,30.37,10.76
+1033,Lanhas,2.27,5.45,1.93
+1034,Loureira,4.73,11.34,4.02
+1035,Mos,1.16,2.77,0.98
+1036,Marrancos,2.19,5.26,1.86
+1037,Moure,4.21,10.08,3.57
+1038,Nevogilde,1.24,2.97,1.05
+1039,Oleiros,1.94,4.66,1.65
+1040,Oriz (Sao Miguel),0.68,1.64,0.58
+1041,Oriz (Santa Marinha),0.96,2.29,0.81
+1042,Parada De Gatim,3.06,7.33,2.6
+1043,Passo,0.58,1.4,0.5
+1044,Pedregais,1.3,3.11,1.1
+1045,Penascais,0.81,1.95,0.69
+1046,Pico De Regalados,3.65,8.76,3.1
+1047,Pico,2.17,5.21,1.85
+1048,Ponte,31.06,74.47,26.38
+1049,Portela Das Cabras,1,2.39,0.85
+1050,Prado (Sao Miguel),2.64,6.32,2.24
+1051,Rio Mau,2.21,5.31,1.88
+1052,Sabariz,1.9,4.56,1.61
+1053,Sande,2.02,4.85,1.72
+1054,Soutelo,0.65,1.57,0.56
+1055,Travassos,5.2,12.47,4.42
+1056,Turiz,7.61,18.24,6.46
+1057,Valoes,0.44,1.06,0.38
+1058,Valbom (Sao Martinho),0.57,1.38,0.49
+1059,Valbom (Sao Pedro),1.03,2.46,0.87
+1060,Valdreu,1.34,3.21,1.14
+1061,Vila De Prado,18.82,45.14,15.99
+1062,Vila Verde,20.75,49.77,17.63
+1063,Vilarinho,1.54,3.69,1.31
+1064,Caldas De Vizela (Sao Joao),14.09,33.8,11.97
+1065,Caldas De Vizela (Sao Miguel),32.17,77.15,27.33
+1066,Infias,8.17,19.59,6.94
+1067,Santa Eulalia,9.69,23.23,8.23
+1068,Tagilde,8.95,21.47,7.6
+1069,Vizela (Sao Paio),7.74,18.55,6.57
+1070,Vizela (Santo Adriao),10.48,25.14,8.9
+1071,Agrobom,0.26,0.63,0.22
+1072,Alfandega Da Fe,8.5,20.39,7.22
+1073,Cerejais,0.52,1.25,0.44
+1074,Eucisia,0.38,0.92,0.32
+1075,Ferradosa,0.28,0.68,0.24
+1076,Gebelim,0.52,1.25,0.44
+1077,Gouveia,0.33,0.8,0.28
+1078,Parada,0.33,0.8,0.28
+1079,Pombal,0.35,0.84,0.3
+1080,Saldonha,0.21,0.51,0.18
+1081,Sambade,1.19,2.85,1.01
+1082,Sendim Da Ribeira,0.33,0.8,0.28
+1083,Sendim Da Serra,0.37,0.89,0.32
+1084,Soeima,0.3,0.72,0.26
+1085,Vale Pereiro,0.13,0.31,0.11
+1086,Vales,0.2,0.48,0.17
+1087,Valverde,0.16,0.39,0.14
+1088,Vilar Chao,0.89,2.12,0.75
+1089,Vilarelhos,0.98,2.34,0.83
+1090,Vilares De Vilarica,0.54,1.3,0.46
+1091,Alfaiao,0.46,1.11,0.39
+1092,Aveleda,9.55,22.89,8.11
+1093,Bacal,1.73,4.15,1.47
+1094,Babe,0.63,1.52,0.54
+1095,Braganca (Se),82.78,198.52,70.31
+1096,Braganca (Santa Maria),17.89,42.89,15.19
+1097,Calvelhe,0.27,0.65,0.23
+1098,Carragosa,0.55,1.33,0.47
+1099,Carrazedo,3.17,7.6,2.69
+1100,Castrelos,0.29,0.7,0.25
+1101,Castro De Avelas,1.94,4.66,1.65
+1102,Coelhoso,0.7,1.69,0.6
+1103,Deilao,0.29,0.7,0.25
+1104,Donai,1.76,4.22,1.5
+1105,Espinhosela,0.67,1.62,0.57
+1106,Failde,0.25,0.6,0.21
+1107,Franca,0.46,1.11,0.39
+1108,Gimonde,1.42,3.4,1.2
+1109,Gondesende,0.51,1.23,0.44
+1110,Gostei,1.69,4.05,1.44
+1111,Grijo De Parada,0.77,1.86,0.66
+1112,Izeda,1.92,4.61,1.63
+1113,Mos,1.16,2.77,0.98
+1114,Macedo Do Mato,0.33,0.8,0.28
+1115,Meixedo,0.53,1.28,0.45
+1116,Milhao,0.48,1.16,0.41
+1117,Nogueira,29.15,69.91,24.76
+1118,Outeiro,4.17,10.01,3.55
+1119,Paramio,0.52,1.25,0.44
+1120,Parada,0.33,0.8,0.28
+1121,Paradinha Nova,0.16,0.39,0.14
+1122,Pinela,0.49,1.18,0.42
+1123,Pombares,0.08,0.19,0.07
+1124,Quintanilha,0.59,1.42,0.5
+1125,Quintela De Lampacas,0.48,1.16,0.41
+1126,Rabal,0.51,1.23,0.44
+1127,Rebordaos,1.58,3.79,1.34
+1128,Rebordainhos,0.33,0.8,0.28
+1129,Rio De Onor,0.04,0.1,0.03
+1130,Rio Frio,0.58,1.4,0.5
+1131,Sao Juliao De Palacios,0.5,1.21,0.43
+1132,Sao Pedro De Sarracenos,1.41,3.38,1.2
+1133,Salsas,0.91,2.17,0.77
+1134,Samil,5.65,13.56,4.8
+1135,Santa Comba De Rossas,0.97,2.32,0.82
+1136,Sendas,0.4,0.96,0.34
+1137,Serapicos,0.3,0.72,0.26
+1138,Sortes,0.83,2,0.71
+1139,Zoio,0.31,0.75,0.26
+1140,Amedo,0.62,1.5,0.53
+1141,Beira Grande,0.66,1.59,0.56
+1142,Belver,1,2.39,0.85
+1143,Carrazeda De Ansiaes,6.86,16.45,5.83
+1144,Castanheiro,1.02,2.44,0.86
+1145,Fonte Longa,0.91,2.17,0.77
+1146,Lavandeira,0.43,1.04,0.37
+1147,Linhares,0.83,2,0.71
+1148,Marzagao,1.05,2.51,0.89
+1149,Mogo De Malta,0.33,0.8,0.28
+1150,Parambos,0.65,1.57,0.56
+1151,Pereiros,0.42,1.01,0.36
+1152,Pinhal Do Norte,0.91,2.17,0.77
+1153,Pombal,0.35,0.84,0.3
+1154,Ribalonga,0.24,0.58,0.21
+1155,Seixo De Ansiaes,0.65,1.57,0.56
+1156,Selores,0.31,0.75,0.26
+1157,Vilarinho Da Castanheira,0.85,2.03,0.72
+1158,Zedes,0.37,0.89,0.32
+1159,Fornos,4.64,11.12,3.94
+1160,Freixo De Espada √ã Cinta,8.18,19.61,6.95
+1161,Lagoaca,0.95,2.27,0.8
+1162,Ligares,0.85,2.03,0.72
+1163,Mazouco,0.09,0.22,0.08
+1164,Poiares,1.22,2.92,1.03
+1165,Ala,1.18,2.82,1
+1166,Amendoeira,1.57,3.76,1.33
+1167,Arcas,0.66,1.59,0.56
+1168,Bagueixe,0.37,0.89,0.32
+1169,Bornes,1.03,2.46,0.87
+1170,Burga,0.15,0.36,0.13
+1171,Carrapatas,0.63,1.52,0.54
+1172,Castelaos,1.15,2.75,0.97
+1173,Chacim,0.82,1.98,0.7
+1174,Corticos,0.69,1.66,0.59
+1175,Corujas,0.45,1.09,0.38
+1176,Edroso,0.25,0.6,0.21
+1177,Espadanedo,0.27,0.65,0.23
+1178,Ferreira,0.3,0.72,0.26
+1179,Grijo,1.16,2.77,0.98
+1180,Lagoa,3.86,9.26,3.28
+1181,Lamalonga,0.94,2.24,0.79
+1182,Lamas,3.87,9.29,3.29
+1183,Lombo,0.97,2.32,0.82
+1184,Macedo De Cavaleiros,28.1,67.38,23.87
+1185,Morais,1.92,4.61,1.63
+1186,Murcos,0.11,0.27,0.09
+1187,Olmos,0.6,1.45,0.51
+1188,Peredo,0.66,1.59,0.56
+1189,Podence,0.49,1.18,0.42
+1190,Salselas,0.86,2.05,0.73
+1191,Santa Combinha,0.13,0.31,0.11
+1192,Sezulfe,0.73,1.76,0.62
+1193,Soutelo Mourisco,0.08,0.19,0.07
+1194,Talhas,0.69,1.66,0.59
+1195,Talhinhas,0.25,0.6,0.21
+1196,Vale Benfeito,0.46,1.11,0.39
+1197,Vale Da Porca,0.74,1.79,0.63
+1198,Vale De Prados,1.54,3.69,1.31
+1199,Vilar Do Monte,3.35,8.03,2.85
+1200,Vilarinho De Agrochao,0.73,1.76,0.62
+1201,Vilarinho Do Monte,0.08,0.19,0.07
+1202,Vinhas,0.44,1.06,0.38
+1203,Aguas Vivas,0.62,1.5,0.53
+1204,Atenor,0.25,0.6,0.21
+1205,Cicouro,0.23,0.55,0.2
+1206,Constantim,0.17,0.41,0.15
+1207,Duas Igrejas,3.93,9.43,3.34
+1208,Genisio,0.38,0.92,0.32
+1209,Ifanes,0.47,1.13,0.4
+1210,Malhadas,1.05,2.51,0.89
+1211,Miranda Do Douro,9.9,23.74,8.41
+1212,Povoa,0.55,1.33,0.47
+1213,Palacoulo,2.02,4.85,1.72
+1214,Paradela,3.01,7.21,2.55
+1215,Picote,0.9,2.15,0.76
+1216,Sao Martinho De Angueira,0.58,1.4,0.5
+1217,Sendim,5.1,12.23,4.33
+1218,Silva,4.25,10.18,3.61
+1219,Vila Cha De Braciosa,0.88,2.1,0.74
+1220,Abambres,1.17,2.8,0.99
+1221,Abreiro,0.53,1.28,0.45
+1222,Aguieiras,0.63,1.52,0.54
+1223,Alvites,0.62,1.5,0.53
+1224,Avantos,0.21,0.51,0.18
+1225,Avidagos,0.85,2.03,0.72
+1226,Barcel,0.35,0.84,0.3
+1227,Bouca,0.61,1.47,0.52
+1228,Cabanelas,7.91,18.96,6.72
+1229,Caravelas,1.1,2.63,0.93
+1230,Carvalhais,4.77,11.44,4.05
+1231,Cedaes,0.91,2.17,0.77
+1232,Cobro,0.5,1.21,0.43
+1233,Fradizela,0.38,0.92,0.32
+1234,Franco,0.44,1.06,0.38
+1235,Frechas,2.98,7.14,2.53
+1236,Freixeda,0.24,0.58,0.21
+1237,Lamas De Orelhao,1.1,2.63,0.93
+1238,Murias,0.67,1.62,0.57
+1239,Marmelos,0.37,0.89,0.32
+1240,Mascarenhas,1.56,3.74,1.32
+1241,Mirandela,52.12,124.99,44.27
+1242,Navalho,0.31,0.75,0.26
+1243,Passos,0.64,1.54,0.55
+1244,Pereira,6.32,15.15,5.37
+1245,Romeu,0.97,2.32,0.82
+1246,Sao Pedro Velho,0.55,1.33,0.47
+1247,Sao Salvador,0.58,1.4,0.5
+1248,Succaes,1.58,3.79,1.34
+1249,Torre De Dona Chama,3.46,8.3,2.94
+1250,Vale De Asnes,0.33,0.8,0.28
+1251,Vale De Gouvinhas,0.73,1.76,0.62
+1252,Vale De Salgueiro,1.01,2.41,0.85
+1253,Vale De Telhas,0.75,1.81,0.64
+1254,Valverde,0.16,0.39,0.14
+1255,Vila Boa,11.33,27.16,9.62
+1256,Vila Verde,20.75,49.77,17.63
+1257,Azinhoso,0.68,1.64,0.58
+1258,Bemposta,1.89,4.54,1.61
+1259,Bruco,0.39,0.94,0.33
+1260,Brunhoso,0.56,1.35,0.48
+1261,Brunhozinho,0.19,0.46,0.16
+1262,Castanheira,0.3,0.72,0.26
+1263,Castelo Branco,0.71,1.71,0.61
+1264,Castro Vicente,0.89,2.12,0.75
+1265,Meirinhos,0.73,1.76,0.62
+1266,Mogadouro,14.61,35.03,12.41
+1267,Paradela,3.01,7.21,2.55
+1268,Penas Roias,1.13,2.7,0.96
+1269,Peredo Da Bemposta,0.58,1.4,0.5
+1270,Remondes,0.5,1.21,0.43
+1271,Sao Martinho Do Peso,0.8,1.93,0.68
+1272,Saldanha,0.67,1.62,0.57
+1273,Sanhoane,0.39,0.94,0.33
+1274,Soutelo,0.65,1.57,0.56
+1275,To,0.55,1.33,0.47
+1276,Travanca,9.09,21.81,7.72
+1277,Urros,1.08,2.58,0.91
+1278,Vale Da Madre,0.73,1.76,0.62
+1279,Vale De Porco,0.42,1.01,0.36
+1280,Valverde,0.16,0.39,0.14
+1281,Ventozelo,0.41,0.99,0.35
+1282,Vila De Ala,0.55,1.33,0.47
+1283,Vilar De Rei,0.19,0.46,0.16
+1284,Vilarinho Dos Galegos,0.54,1.3,0.46
+1285,Acoreira,1.63,3.91,1.38
+1286,Adeganha,1.17,2.8,0.99
+1287,Cabeca Boa,1.48,3.55,1.26
+1288,Cardanha,0.57,1.38,0.49
+1289,Carvicais,1.89,4.54,1.61
+1290,Castedo,0.63,1.52,0.54
+1291,Felgar,3.15,7.55,2.67
+1292,Felgueiras,0.4,0.96,0.34
+1293,Horta Da Vilarica,0.86,2.05,0.73
+1294,Larinho,1.08,2.58,0.91
+1295,Lousa,0.83,2,0.71
+1296,Mos,1.16,2.77,0.98
+1297,Macores,0.45,1.09,0.38
+1298,Peredo Dos Castelhanos,0.22,0.53,0.19
+1299,Souto Da Velha,0.17,0.41,0.15
+1300,Torre De Moncorvo,12.27,29.43,10.42
+1301,Urros,0.57,1.38,0.49
+1302,Assares,0.51,1.23,0.44
+1303,Benlhevai,1.06,2.53,0.9
+1304,Candoso,0.49,1.18,0.42
+1305,Carvalho De Egas,0.29,0.7,0.25
+1306,Freixiel,1.78,4.27,1.51
+1307,Lodoes,0.25,0.6,0.21
+1308,Mourao,0.14,0.34,0.12
+1309,Nabo,0.38,0.92,0.32
+1310,Roios,0.62,1.5,0.53
+1311,Samoes,1.16,2.77,0.98
+1312,Sampaio,0.55,1.33,0.47
+1313,Santa Comba De Vilarica,1.55,3.72,1.32
+1314,Seixo De Manhoses,1.33,3.18,1.13
+1315,Trindade,1.08,2.58,0.91
+1316,Vale Frechoso,0.5,1.21,0.43
+1317,Valtorno,0.74,1.79,0.63
+1318,Vila Flor,9.25,22.17,7.85
+1319,Vilarinho Das Azenhas,0.23,0.55,0.2
+1320,Vilas Boas,1.49,3.57,1.26
+1321,Algoso,0.56,1.35,0.48
+1322,Angueira,0.2,0.48,0.17
+1323,Argozelo,2.21,5.31,1.88
+1324,Avelanoso,0.42,1.01,0.36
+1325,Cacarelhos,0.64,1.54,0.55
+1326,Campo De Viboras,0.57,1.38,0.49
+1327,Carcao,1.03,2.46,0.87
+1328,Matela,0.34,0.82,0.29
+1329,Pinelo,0.45,1.09,0.38
+1330,Santulhao,0.53,1.28,0.45
+1331,Uva,0.23,0.55,0.2
+1332,Vale De Frades,0.22,0.53,0.19
+1333,Vilar Seco,0.75,1.81,0.64
+1334,Vimioso,5.71,13.7,4.85
+1335,Agrochao,0.67,1.62,0.57
+1336,Alvaredos,0.05,0.12,0.04
+1337,Candedo,0.71,1.71,0.61
+1338,Celas,0.39,0.94,0.33
+1339,Curopos,0.44,1.06,0.38
+1340,Edral,0.4,0.96,0.34
+1341,Edrosa,0.39,0.94,0.33
+1342,Ervedosa,0.8,1.93,0.68
+1343,Fresulfe,0.12,0.29,0.1
+1344,Mofreita,0.11,0.27,0.09
+1345,Moimenta,2.75,6.59,2.33
+1346,Montouto,0.13,0.31,0.11
+1347,Nunes,0.33,0.8,0.28
+1348,Ousilhao,0.31,0.75,0.26
+1349,Paco,0.43,1.04,0.37
+1350,Penhas Juntas,0.3,0.72,0.26
+1351,Pinheiro Novo,0.14,0.34,0.12
+1352,Quiras,0.29,0.7,0.25
+1353,Rebordelo,1.53,3.67,1.3
+1354,Sao Jomil,0.06,0.14,0.05
+1355,Santa Cruz,1.91,4.58,1.62
+1356,Santalha,0.45,1.09,0.38
+1357,Sobreiro De Baixo,0.78,1.88,0.67
+1358,Soeira,0.19,0.46,0.16
+1359,Travanca,9.09,21.81,7.72
+1360,Tuizelo,0.91,2.17,0.77
+1361,Vale Das Fontes,0.67,1.62,0.57
+1362,Vale De Janeiro,0.15,0.36,0.13
+1363,Vila Boa De Ousilhao,0.39,0.94,0.33
+1364,Vila Verde,20.75,49.77,17.63
+1365,Vilar De Lomba,0.55,1.33,0.47
+1366,Vilar De Ossos,0.8,1.93,0.68
+1367,Vilar De Peregrinos,0.44,1.06,0.38
+1368,Vilar Seco De Lomba,0.4,0.96,0.34
+1369,Vinhais,9.12,21.88,7.75
+1370,Belmonte,12.1,29.02,10.28
+1371,Caria,7.19,17.25,6.11
+1372,Colmeal Da Torre,3.11,7.45,2.64
+1373,Inguias,2.12,5.09,1.8
+1374,Macainhas,0.85,2.03,0.72
+1375,Alcains,20.91,50.15,17.76
+1376,Almaceda,1.25,2.99,1.06
+1377,Benquerencas,2.18,5.24,1.85
+1378,Cafede,0.93,2.22,0.79
+1379,Castelo Branco,0.71,1.71,0.61
+1380,Cebolais De Cima,3.13,7.5,2.66
+1381,Escalos De Baixo,2.81,6.73,2.38
+1382,Escalos De Cima,3.7,8.88,3.14
+1383,Freixial Do Campo,1.58,3.79,1.34
+1384,Juncal Do Campo,1.11,2.65,0.94
+1385,Lardosa,3.06,7.33,2.6
+1386,Lourical Do Campo,1.74,4.17,1.48
+1387,Lousa,0.83,2,0.71
+1388,Malpica Do Tejo,1.11,2.65,0.94
+1389,Mata,1.14,2.73,0.97
+1390,Monforte Da Beira,0.42,1.01,0.36
+1391,Ninho Do Acor,1.25,2.99,1.06
+1392,Povoa De Rio De Moinhos,2.72,6.51,2.31
+1393,Retaxo,2.47,5.93,2.1
+1394,Sao Vicente Da Beira,3.46,8.3,2.94
+1395,Salgueiro Do Campo,2.82,6.75,2.39
+1396,Santo Andre Das Tojeiras,1.22,2.92,1.03
+1397,Sarzedas,2.88,6.9,2.44
+1398,Sobral Do Campo,0.96,2.29,0.81
+1399,Tinalhas,2.18,5.24,1.85
+1400,Aldeia De Sao Francisco De Assis,2.25,5.4,1.91
+1401,Aldeia Do Souto,0.78,1.88,0.67
+1402,Barco,6.41,15.37,5.44
+1403,Boidobra,15.03,36.04,12.77
+1404,Canhoso,10.5,25.19,8.92
+1405,Cantar-Galo,8.21,19.69,6.97
+1406,Casegas,1.05,2.51,0.89
+1407,Cortes Do Meio,3.13,7.5,2.66
+1408,Coutada,1.28,3.06,1.09
+1409,Covilha (Conceicao),28.49,68.32,24.2
+1410,Covilha (Sao Martinho),16.08,38.55,13.65
+1411,Covilha (Sao Pedro),8.51,20.41,7.23
+1412,Covilha (Santa Maria),13.48,32.33,11.45
+1413,Dominguizo,4.09,9.82,3.48
+1414,Erada,2.3,5.52,1.96
+1415,Ferro,6.35,15.22,5.39
+1416,Orjais,3.23,7.74,2.74
+1417,Ourondo,0.92,2.2,0.78
+1418,Paul,5.76,13.82,4.9
+1419,Peraboa,3.13,7.5,2.66
+1420,Peso,2.89,6.92,2.45
+1421,Sao Jorge Da Beira,1.59,3.81,1.35
+1422,Sarzedo,0.19,0.46,0.16
+1423,Sobral De Sao Miguel,0.95,2.27,0.8
+1424,Teixoso,17.16,41.16,14.58
+1425,Tortosendo,22.05,52.88,18.73
+1426,Unhais Da Serra,5.73,13.75,4.87
+1427,Vale Formoso,1.7,4.08,1.44
+1428,Vales Do Rio,2.81,6.73,2.38
+1429,Verdelhos,1.6,3.84,1.36
+1430,Vila Do Carvalho,5.87,14.06,4.98
+1431,Alcaide,2.21,5.31,1.88
+1432,Alcaria,4.83,11.58,4.1
+1433,Alcongosta,1.87,4.49,1.59
+1434,Aldeia De Joanes,5.95,14.26,5.05
+1435,Aldeia Nova Do Cabo,2.07,4.97,1.76
+1436,Alpedrinha,3.89,9.34,3.31
+1437,Atalaia Do Campo,1.4,3.35,1.19
+1438,Barroca,1.11,2.65,0.94
+1439,Bogas De Baixo,0.34,0.82,0.29
+1440,Bogas De Cima,1.52,3.64,1.29
+1441,Capinha,1.56,3.74,1.32
+1442,Castelejo,2.14,5.14,1.82
+1443,Castelo Novo,1.41,3.38,1.2
+1444,Donas,3.5,8.4,2.97
+1445,Enxames,1.55,3.72,1.32
+1446,Escarigo,0.46,1.11,0.39
+1447,Fatela,2.11,5.07,1.79
+1448,Fundao,39.33,94.33,33.41
+1449,Janeiro De Cima,0.81,1.95,0.69
+1450,Lavacolhos,0.7,1.69,0.6
+1451,Mata Da Rainha,0.21,0.51,0.18
+1452,Orca,1.41,3.38,1.2
+1453,Povoa De Atalaia,1.58,3.79,1.34
+1454,Pero Viseu,2.58,6.18,2.19
+1455,Salgueiro,1.75,4.2,1.49
+1456,Silvares,9.84,23.59,8.36
+1457,Soalheira,2.83,6.78,2.4
+1458,Souto Da Casa,2.56,6.13,2.17
+1459,Telhado,7.86,18.84,6.67
+1460,Vale De Prazeres,2.65,6.34,2.25
+1461,Valverde,0.16,0.39,0.14
+1462,Alcafozes,0.48,1.16,0.41
+1463,Aldeia De Santa Margarida,0.65,1.57,0.56
+1464,Idanha-A-Nova,9.27,22.22,7.87
+1465,Idanha-A-Velha,0.13,0.31,0.11
+1466,Ladoeiro,4.01,9.63,3.41
+1467,Medelim,0.48,1.16,0.41
+1468,Monfortinho,1.37,3.28,1.16
+1469,Monsanto,1.36,3.26,1.15
+1470,Oledo,1.03,2.46,0.87
+1471,Penha Garcia,1.92,4.61,1.63
+1472,Proenca-A-Velha,0.39,0.94,0.33
+1473,Rosmaninhal,0.76,1.83,0.65
+1474,Sao Miguel De Acha,1.52,3.64,1.29
+1475,Salvaterra Do Extremo,0.3,0.72,0.26
+1476,Segura,0.24,0.58,0.21
+1477,Touloes,0.28,0.68,0.24
+1478,Zebreira,1.78,4.27,1.51
+1479,alvaro,0.48,1.16,0.41
+1480,Amieira,0.16,0.39,0.14
+1481,Cambas,0.69,1.66,0.59
+1482,Estreito,2.64,6.32,2.24
+1483,Isna,0.44,1.06,0.38
+1484,Madeira,0.55,1.33,0.47
+1485,Mosteiro,2.43,5.84,2.07
+1486,Oleiros,1.94,4.66,1.65
+1487,Orvalho,1.68,4.03,1.43
+1488,Sarnadas De Sao Simao,0.54,1.3,0.46
+1489,Sobral,0.3,0.72,0.26
+1490,Vilar Barroco,0.27,0.65,0.23
+1491,Aguas,0.69,1.66,0.59
+1492,Aldeia De Joao Pires,0.38,0.92,0.32
+1493,Aldeia Do Bispo,1.93,4.63,1.64
+1494,Aranhas,0.77,1.86,0.66
+1495,Bemposta,1.89,4.54,1.61
+1496,Benquerenca,1.83,4.39,1.56
+1497,Meimao,0.6,1.45,0.51
+1498,Meimoa,0.85,2.03,0.72
+1499,Pedrogao De Sao Pedro,1.51,3.62,1.28
+1500,Penamacor,5.4,12.95,4.59
+1501,Salvador,0.9,2.15,0.76
+1502,Vale Da Senhora Da Povoa,0.32,0.77,0.27
+1503,Alvito Da Beira,0.76,1.83,0.65
+1504,Montes Da Senhora,1.82,4.37,1.55
+1505,Peral,1.99,4.78,1.69
+1506,Proenca-A-Nova,16.52,39.61,14.03
+1507,Sao Pedro Do Esteval,1.6,3.84,1.36
+1508,Sobreira Formosa,5.04,12.09,4.28
+1509,Cabecudo,3.43,8.23,2.91
+1510,Carvalhal,6.04,14.47,5.13
+1511,Castelo,3.35,8.03,2.85
+1512,Cernache Do Bonjardim,10.81,25.93,9.19
+1513,Cumeada,1.65,3.96,1.4
+1514,Ermida,0.91,2.17,0.77
+1515,Figueiredo,0.49,1.18,0.42
+1516,Marmeleiro,0.42,1.01,0.36
+1517,Nesperal,0.94,2.24,0.79
+1518,Palhais,0.5,1.21,0.43
+1519,Pedrogao Pequeno,2.05,4.92,1.74
+1520,Serta,25.87,62.05,21.98
+1521,Troviscal,9.28,22.24,7.88
+1522,Varzea Dos Cavaleiros,2.16,5.19,1.84
+1523,Fundada,1.66,3.98,1.41
+1524,Sao Joao Do Peso,0.38,0.92,0.32
+1525,Vila De Rei,8.76,21.01,7.44
+1526,Fratel,1.26,3.02,1.07
+1527,Perais,1.2,2.87,1.02
+1528,Sarnadas De Rodao,1.5,3.59,1.27
+1529,Vila Velha De Rodao,6.21,14.88,5.27
+1530,Anceriz,0.33,0.8,0.28
+1531,Arganil,16.69,40.02,14.18
+1532,Barril De Alva,0.88,2.1,0.74
+1533,Benfeita,0.91,2.17,0.77
+1534,Celavisa,0.46,1.11,0.39
+1535,Cepos,0.23,0.55,0.2
+1536,Cerdeira,0.93,2.22,0.79
+1537,Coja,5.55,13.32,4.72
+1538,Folques,1.04,2.48,0.88
+1539,Moura Da Serra,0.2,0.48,0.17
+1540,Piodao,0.42,1.01,0.36
+1541,Pomares,1.18,2.82,1
+1542,Pombeiro Da Beira,3.2,7.67,2.72
+1543,Sao Martinho Da Cortica,5.12,12.28,4.35
+1544,Sarzedo,0.19,0.46,0.16
+1545,Secarias,1.71,4.1,1.45
+1546,Teixeira,0.23,0.55,0.2
+1547,Vila Cova De Alva,1.48,3.55,1.26
+1548,Anca,10.68,25.62,9.07
+1549,Bolho,3.15,7.55,2.67
+1550,Cadima,11.68,28.01,9.92
+1551,Camarneira,2.73,6.54,2.32
+1552,Cantanhede,34.55,82.84,29.34
+1553,Cordinha,4.31,10.33,3.66
+1554,Corticeiro De Cima,3,7.19,2.55
+1555,Covoes,7.14,17.13,6.07
+1556,Febres,13.1,31.41,11.13
+1557,Murtede,5.89,14.11,5
+1558,Ourenta,4.88,11.7,4.14
+1559,Outil,3.44,8.25,2.92
+1560,Pocarica,4.88,11.7,4.14
+1561,Portunhos,4.66,11.17,3.96
+1562,Sao Caetano,2.95,7.07,2.5
+1563,Sanguinheira,7.14,17.13,6.07
+1564,Sepins,4.13,9.92,3.51
+1565,Tocha,16.33,39.15,13.87
+1566,Vilamar,2.87,6.88,2.44
+1567,Almalagues,13.06,31.31,11.09
+1568,Ameal,6.85,16.43,5.82
+1569,Antanhol,11.68,28.01,9.92
+1570,Antuzede,10.02,24.03,8.51
+1571,Arzila,2.74,6.56,2.32
+1572,Assafarge,12.71,30.47,10.79
+1573,Botao,6.55,15.71,5.56
+1574,Brasfemes,9.09,21.81,7.72
+1575,Castelo Viegas,6.68,16.02,5.67
+1576,Ceira,15.69,37.63,13.33
+1577,Cernache,18.11,43.42,15.38
+1578,Coimbra (Almedina),3.29,7.89,2.79
+1579,Coimbra (Sao Bartolomeu),1.92,4.61,1.63
+1580,Coimbra (Se Nova),28.23,67.69,23.98
+1581,Coimbra (Santa Cruz),22.12,53.05,18.79
+1582,Eiras,55.84,133.92,47.43
+1583,Lamarosa,8.2,19.66,6.96
+1584,Ribeira De Frades,8.21,19.69,6.97
+1585,Sao Joao Do Campo,9.27,22.22,7.87
+1586,Sao Martinho De Arvore,4.32,10.35,3.67
+1587,Sao Martinho Do Bispo,64.05,153.6,54.4
+1588,Sao Paulo De Frades,25.95,62.24,22.05
+1589,Sao Silvestre,14.23,34.14,12.09
+1590,Santa Clara,46.64,111.84,39.61
+1591,Santo Antonio Dos Olivais,183,438.85,155.44
+1592,Souselas,12.73,30.52,10.81
+1593,Taveiro,8.54,20.48,7.25
+1594,Torre De Vilela,5.38,12.91,4.57
+1595,Torres Do Mondego,10.02,24.03,8.51
+1596,Trouxemil,11.19,26.83,9.5
+1597,Vil De Matos,3.49,8.37,2.97
+1598,Anobra,5.82,13.97,4.95
+1599,Belide,0.98,2.34,0.83
+1600,Bem Da Fe,0.37,0.89,0.32
+1601,Condeixa-A-Nova,23.66,56.74,20.1
+1602,Condeixa-A-Velha,16.34,39.18,13.88
+1603,Ega,11.31,27.12,9.6
+1604,Furadouro,0.65,1.57,0.56
+1605,Sebal,12.21,29.29,10.37
+1606,Vila Seca,5.27,12.64,4.48
+1607,Zambujal,1.39,3.33,1.18
+1608,Alhadas,15.37,36.86,13.06
+1609,Alqueidao,6.88,16.5,5.84
+1610,Bom Sucesso,7.8,18.7,6.62
+1611,Borda Do Campo,3.32,7.96,2.82
+1612,Brenha,3.7,8.88,3.14
+1613,Buarcos,34.07,81.71,28.94
+1614,Ferreira-A-Nova,5.8,13.92,4.93
+1615,Lavos,14.66,35.15,12.45
+1616,Maiorca,9.84,23.59,8.36
+1617,Marinha Das Ondas,12.86,30.83,10.92
+1618,Moinhos Da Gandara,4.72,11.31,4.01
+1619,Paiao,8.77,21.04,7.45
+1620,Quiaios,11.87,28.47,10.08
+1621,Sao Juliao Da Figueira Da Foz,37.09,88.95,31.5
+1622,Sao Pedro,11.25,26.97,9.55
+1623,Santana,3.88,9.31,3.3
+1624,Tavarede,43.5,104.31,36.95
+1625,Vila Verde,20.75,49.77,17.63
+1626,Alvares,2.02,4.85,1.72
+1627,Cadafaz,0.38,0.92,0.32
+1628,Colmeal,0.31,0.75,0.26
+1629,Gois,8.49,20.36,7.21
+1630,Vila Nova Do Ceira,2.88,6.9,2.44
+1631,Casal De Ermio,1.28,3.06,1.09
+1632,Foz De Arouce,4.17,10.01,3.55
+1633,Gandaras,5.02,12.04,4.26
+1634,Lousa,43.02,103.16,36.54
+1635,Serpins,7.78,18.65,6.61
+1636,Vilarinho,1.54,3.69,1.31
+1637,Carapelhos,3.13,7.5,2.66
+1638,Mira,28.02,67.19,23.8
+1639,Praia De Mira,12.41,29.77,10.54
+1640,Seixo,4.68,11.22,3.97
+1641,Lamas,3.87,9.29,3.29
+1642,Miranda Do Corvo,32.05,76.86,27.22
+1643,Rio Vide,3.25,7.79,2.76
+1644,Semide,12.01,28.8,10.2
+1645,Vila Nova,3.57,8.56,3.03
+1646,Abrunheira,2.39,5.74,2.03
+1647,Arazede,21.89,52.5,18.59
+1648,Carapinheira,11.65,27.94,9.89
+1649,Ereira,2.61,6.25,2.21
+1650,Gatoes,1.93,4.63,1.64
+1651,Liceia,5.06,12.13,4.3
+1652,Meas Do Campo,7.77,18.62,6.6
+1653,Montemor-O-Velho,13.54,32.47,11.5
+1654,Pereira,6.32,15.15,5.37
+1655,Santo Varao,9.08,21.78,7.72
+1656,Seixo De Gatoes,5.88,14.09,4.99
+1657,Tentugal,9.06,21.74,7.7
+1658,Verride,1.99,4.78,1.69
+1659,Vila Nova Da Barca,1.16,2.77,0.98
+1660,Aldeia Das Dez,1.52,3.64,1.29
+1661,Alvoco Das Varzeas,0.92,2.2,0.78
+1662,Avo,1.88,4.51,1.6
+1663,Bobadela,3.23,7.74,2.74
+1664,Ervedal,2.7,6.47,2.29
+1665,Lagares,5.48,13.15,4.66
+1666,Lagos Da Beira,3.08,7.38,2.61
+1667,Lajeosa,2.26,5.43,1.92
+1668,Lourosa,35.55,85.26,30.2
+1669,Meruge,2.2,5.28,1.87
+1670,Nogueira Do Cravo,13.56,32.52,11.52
+1671,Oliveira Do Hospital,21.37,51.24,18.15
+1672,Penalva De Alva,3.03,7.26,2.57
+1673,Sao Giao,1.27,3.04,1.08
+1674,Sao Paio De Gramacos,3.99,9.58,3.39
+1675,Sao Sebastiao Da Feira,0.71,1.71,0.61
+1676,Santa Ovaia,2.4,5.77,2.04
+1677,Seixo Da Beira,5.27,12.64,4.48
+1678,Travanca De Lagos,5.1,12.23,4.33
+1679,Vila Franca Da Beira,1.33,3.18,1.13
+1680,Vila Pouca Da Beira,1.21,2.89,1.03
+1681,Cabril,0.49,1.18,0.42
+1682,Dornelas Do Zezere,2.09,5.02,1.78
+1683,Fajao,0.53,1.28,0.45
+1684,Janeiro De Baixo,1.74,4.17,1.48
+1685,Machio,0.12,0.29,0.1
+1686,Pampilhosa Da Serra,4.87,11.68,4.14
+1687,Pessegueiro,0.33,0.8,0.28
+1688,Portela Do Fojo,0.76,1.83,0.65
+1689,Unhais-O-Velho,1.32,3.16,1.12
+1690,Vidual,0.21,0.51,0.18
+1691,Carvalho,2.22,5.33,1.89
+1692,Figueira De Lorvao,11.82,28.35,10.04
+1693,Friumes,2.32,5.57,1.97
+1694,Lorvao,17.21,41.28,14.62
+1695,Oliveira Do Mondego,2.21,5.31,1.88
+1696,Paradela,3.01,7.21,2.55
+1697,Penacova,13.36,32.04,11.35
+1698,Sao Paio De Mondego,0.76,1.83,0.65
+1699,Sao Pedro De Alva,5.64,13.53,4.79
+1700,Sazes Do Lorvao,3.02,7.24,2.56
+1701,Travanca Do Mondego,1.62,3.88,1.38
+1702,Cumeeira,3.93,9.43,3.34
+1703,Espinhal,2.49,5.98,2.12
+1704,Penela (Sao Miguel),6.08,14.57,5.16
+1705,Penela (Santa Eufemia),6.17,14.79,5.24
+1706,Podentes,1.9,4.56,1.61
+1707,Rabacal,0.83,2,0.71
+1708,Alfarelos,5.52,13.24,4.69
+1709,Brunhos,0.67,1.62,0.57
+1710,Degracias,1.35,3.23,1.14
+1711,Figueiro Do Campo,5.73,13.75,4.87
+1712,Gesteira,3.22,7.72,2.73
+1713,Granja Do Ulmeiro,8.09,19.4,6.87
+1714,Pombalinho,2.29,5.5,1.95
+1715,Samuel,4.41,10.57,3.74
+1716,Soure,29.87,71.63,25.37
+1717,Tapeus,1.13,2.7,0.96
+1718,Vila Nova De Ancos,3.72,8.93,3.16
+1719,Vinha Da Rainha,5.11,12.26,4.34
+1720,Azere,2.16,5.19,1.84
+1721,Candosa,2.35,5.65,2
+1722,Carapinha,1.67,4,1.42
+1723,Covas,1.06,2.53,0.9
+1724,Covelo,0.9,2.15,0.76
+1725,Espariz,2.26,5.43,1.92
+1726,Meda De Mouros,0.74,1.79,0.63
+1727,Midoes,1.96,4.7,1.67
+1728,Mouronho,2.99,7.16,2.54
+1729,Povoa De Midoes,2.19,5.26,1.86
+1730,Pinheiro De Coja,0.88,2.1,0.74
+1731,Sao Joao Da Boa Vista,1.32,3.16,1.12
+1732,Sinde,1.32,3.16,1.12
+1733,Tabua,15.07,36.14,12.8
+1734,Vila Nova De Oliveirinha,1.18,2.82,1
+1735,Arrifana,29.59,70.95,25.13
+1736,Lavegadas,0.55,1.33,0.47
+1737,Poiares (Santo Andre),19.29,46.25,16.38
+1738,Sao Miguel De Poiares,5.26,12.62,4.47
+1739,Albufeira,105.92,254.01,89.97
+1740,Ferreiras,30.81,73.89,26.17
+1741,Guia,20.29,48.66,17.23
+1742,Olhos De Agua,18.17,43.57,15.43
+1743,Paderne,12.9,30.93,10.95
+1744,Alcoutim,3.02,7.24,2.56
+1745,Cabanas De Tavira,4.3,10.3,3.65
+1746,Cachopo,1.62,3.88,1.38
+1747,Conceicao,0.24,0.58,0.21
+1748,Gioes,0.57,1.38,0.49
+1749,Luz,1.2,2.87,1.02
+1750,Martim Longo,3.17,7.6,2.69
+1751,Pereiro,0.57,1.38,0.49
+1752,Santa Catarina Da Fonte Do Bispo,6.2,14.86,5.26
+1753,Santa Luzia,1.28,3.06,1.09
+1754,Santo Estevao,0.25,0.6,0.21
+1755,Tavira (Santa Maria),36.6,87.77,31.09
+1756,Tavira (Santiago),25.86,62.02,21.97
+1757,Vaqueiros,1.36,3.26,1.15
+1758,Aljezur,11.53,27.65,9.79
+1759,Bordeira,1.23,2.94,1.04
+1760,Odeceixe,3.41,8.18,2.9
+1761,Rogil,4.1,9.84,3.49
+1762,Altura,8.87,21.28,7.54
+1763,Azinhal,1.42,3.4,1.2
+1764,Castro Marim,12.37,29.67,10.51
+1765,Odeleite,1.49,3.57,1.26
+1766,Conceicao,0.24,0.58,0.21
+1767,Estoi,14.51,34.79,12.32
+1768,Faro (Sao Pedro),65.33,156.67,55.49
+1769,Faro (Se),133.14,319.29,113.09
+1770,Montenegro,40.59,97.34,34.48
+1771,Santa Barbara De Nexe,14.31,34.31,12.15
+1772,Carvoeiro,10.27,24.63,8.72
+1773,Estombar,20.76,49.79,17.64
+1774,Ferragudo,7.96,19.08,6.76
+1775,Lagoa,3.86,9.26,3.28
+1776,Parchal,18.18,43.59,15.44
+1777,Porches,7.42,17.8,6.31
+1778,Barao De Sao Joao,3.05,7.31,2.59
+1779,Bensafrim,5.36,12.86,4.55
+1780,Lagos (Sao Sebastiao),59.54,142.77,50.57
+1781,Lagos (Santa Maria),34.57,82.89,29.36
+1782,Luz,1.2,2.87,1.02
+1783,Odiaxere,11.5,27.57,9.77
+1784,Almansil,49.44,118.55,41.99
+1785,Alte,6.1,14.62,5.18
+1786,Ameixial,1.23,2.94,1.04
+1787,Benafim,3.54,8.49,3.01
+1788,Boliqueime,19.1,45.81,16.23
+1789,Loule (Sao Clemente),79.07,189.62,67.16
+1790,Loule (Sao Sebastiao),29.94,71.79,25.43
+1791,Quarteira,97.36,233.48,82.7
+1792,Querenca,2.55,6.1,2.16
+1793,Salir,9.82,23.55,8.34
+1794,Tor,2.93,7.02,2.49
+1795,Alferce,1.11,2.65,0.94
+1796,Marmelete,2.19,5.26,1.86
+1797,Monchique,17.65,42.31,14.99
+1798,Moncarapacho,28.24,67.72,23.99
+1799,Olhao,64.44,154.54,54.74
+1800,Pechao,15.87,38.07,13.48
+1801,Quelfes,72.2,173.14,61.33
+1802,Alvor,25.08,60.14,21.3
+1803,Mexilhoeira Grande,15.33,36.77,13.02
+1804,Portimao,190.8,457.55,162.06
+1805,Sao Bras De Alportel,44.55,106.82,37.84
+1806,Alcantarilha,10.14,24.32,8.61
+1807,Algoz,15.87,38.07,13.48
+1808,Armacao De Pera,20.14,48.3,17.11
+1809,Pera,9.76,23.4,8.29
+1810,Sao Bartolomeu De Messines,32.39,77.68,27.51
+1811,Sao Marcos Da Serra,3.7,8.88,3.14
+1812,Silves,44.99,107.89,38.21
+1813,Tunes,11.38,27.28,9.66
+1814,Barao De Sao Miguel,1.49,3.57,1.26
+1815,Budens,5.43,13.03,4.61
+1816,Raposeira,1.87,4.49,1.59
+1817,Sagres,8.67,20.8,7.37
+1818,Vila Do Bispo,4.06,9.75,3.45
+1819,Monte Gordo,11.33,27.16,9.62
+1820,Vila Nova De Cacela,14.48,34.72,12.3
+1821,Vila Real De Santo Antonio,46.31,111.05,39.33
+1822,Aguiar Da Beira,5.72,13.73,4.86
+1823,Carapito,1.23,2.94,1.04
+1824,Corticada,0.87,2.07,0.73
+1825,Coruche,0.4,0.96,0.34
+1826,Dornelas,2.84,6.8,2.41
+1827,Eirado,0.57,1.38,0.49
+1828,Forninhos,0.44,1.06,0.38
+1829,Gradiz,0.67,1.62,0.57
+1830,Pena Verde,2.55,6.1,2.16
+1831,Pinheiro,5.42,13,4.61
+1832,Sequeiros,0.55,1.33,0.47
+1833,Souto De Aguiar Da Beira,0.9,2.15,0.76
+1834,Valverde,0.16,0.39,0.14
+1835,Ade,0.21,0.51,0.18
+1836,Aldeia Nova,0.02,0.05,0.02
+1837,Almeida,5.46,13.1,4.64
+1838,Amoreira,0.53,1.28,0.45
+1839,Azinhal,1.42,3.4,1.2
+1840,Cabreira,0.18,0.43,0.15
+1841,Castelo Bom,0.55,1.33,0.47
+1842,Castelo Mendo,0.2,0.48,0.17
+1843,Freineda,0.56,1.35,0.48
+1844,Freixo,0.58,1.4,0.5
+1845,Junca,0.35,0.84,0.3
+1846,Leomil,0.21,0.51,0.18
+1847,Malhada Sorda,0.89,2.12,0.75
+1848,Malpartida,0.41,0.99,0.35
+1849,Mesquitela,0.07,0.17,0.06
+1850,Mido,0.05,0.12,0.04
+1851,Miuzela,0.91,2.17,0.77
+1852,Monte Perobolco,0.2,0.48,0.17
+1853,Nave De Haver,0.55,1.33,0.47
+1854,Naves,0.22,0.53,0.19
+1855,Parada,0.33,0.8,0.28
+1856,Peva,0.32,0.77,0.27
+1857,Porto De Ovelha,0.03,0.07,0.03
+1858,Sao Pedro De Rio Seco,0.33,0.8,0.28
+1859,Senouras,0.08,0.19,0.07
+1860,Vale Da Mula,0.59,1.42,0.5
+1861,Vale De Coelha,0.15,0.36,0.13
+1862,Vale Verde,0.24,0.58,0.21
+1863,Vilar Formoso,8.92,21.4,7.58
+1864,Acores,1.15,2.75,0.97
+1865,Baracal,0.5,1.21,0.43
+1866,Cadafaz,0.38,0.92,0.32
+1867,Carrapichana,0.71,1.71,0.61
+1868,Casas Do Soeiro,2.19,5.26,1.86
+1869,Celorico (Sao Pedro),5.13,12.3,4.36
+1870,Celorico (Santa Maria),3.72,8.93,3.16
+1871,Cortico Da Serra,0.56,1.35,0.48
+1872,Forno Telheiro,3.08,7.38,2.61
+1873,Lajeosa Do Mondego,2.78,6.66,2.36
+1874,Linhares,0.83,2,0.71
+1875,Macal Do Chao,0.72,1.74,0.62
+1876,Mesquitela,0.07,0.17,0.06
+1877,Minhocal,0.57,1.38,0.49
+1878,Prados,0.42,1.01,0.36
+1879,Rapa,0.56,1.35,0.48
+1880,Ratoeira,1.05,2.51,0.89
+1881,Salgueirais,0.41,0.99,0.35
+1882,Vale De Azares,1.35,3.23,1.14
+1883,Velosa,0.34,0.82,0.29
+1884,Vide Entre Vinhas,0.43,1.04,0.37
+1885,Vila Boa Do Mondego,0.34,0.82,0.29
+1886,Algodres,0.68,1.64,0.58
+1887,Almofala,0.42,1.01,0.36
+1888,Castelo Rodrigo,1.73,4.15,1.47
+1889,Cinco Vilas,0.19,0.46,0.16
+1890,Colmeal,0.31,0.75,0.26
+1891,Escalhao,2.25,5.4,1.91
+1892,Escarigo,0.46,1.11,0.39
+1893,Figueira De Castelo Rodrigo,8.75,20.99,7.43
+1894,Freixeda Do Torrao,0.7,1.69,0.6
+1895,Mata De Lobos,1.02,2.44,0.86
+1896,Penha De Aguia,0.44,1.06,0.38
+1897,Quinta De Pero Martins,0.4,0.96,0.34
+1898,Reigada,1.06,2.53,0.9
+1899,Vale De Afonsinho,0.17,0.41,0.15
+1900,Vermiosa,1.13,2.7,0.96
+1901,Vilar De Amargo,0.52,1.25,0.44
+1902,Vilar Torpim,0.57,1.38,0.49
+1903,Algodres,0.68,1.64,0.58
+1904,Casal Vasco,0.61,1.47,0.52
+1905,Cortico,0.42,1.01,0.36
+1906,Figueiro Da Granja,1.53,3.67,1.3
+1907,Fornos De Algodres,6.44,15.44,5.47
+1908,Fuinhas,0.24,0.58,0.21
+1909,Infias,8.17,19.59,6.94
+1910,Juncais,0.93,2.22,0.79
+1911,Maceira,0.64,1.54,0.55
+1912,Matanca,0.72,1.74,0.62
+1913,Muxagata,0.64,1.54,0.55
+1914,Queiriz,0.66,1.59,0.56
+1915,Sobral Pichorro,0.54,1.3,0.46
+1916,Vila Cha,18.69,44.82,15.88
+1917,Vila Ruiva,1.37,3.28,1.16
+1918,Vila Soeiro Do Chao,0.43,1.04,0.37
+1919,Aldeias,0.97,2.32,0.82
+1920,Arcozelo,57.55,138.02,48.88
+1921,Cativelos,1.81,4.34,1.54
+1922,Figueiro Da Serra,0.82,1.98,0.7
+1923,Folgosinho,1.53,3.67,1.3
+1924,Freixo Da Serra,0.16,0.39,0.14
+1925,Gouveia (Sao Juliao),5.92,14.19,5.02
+1926,Gouveia (Sao Pedro),6.33,15.17,5.37
+1927,Lagarinhos,1.49,3.57,1.26
+1928,Mangualde Da Serra,0.46,1.11,0.39
+1929,Melo,1.45,3.47,1.23
+1930,Moimenta Da Serra,1.68,4.03,1.43
+1931,Nabais,1.4,3.35,1.19
+1932,Nespereira,11.96,28.68,10.16
+1933,Pacos Da Serra,2.02,4.85,1.72
+1934,Ribamondego,0.68,1.64,0.58
+1935,Rio Torto,1.96,4.7,1.67
+1936,Sao Paio,2.31,5.55,1.97
+1937,Vila Cortes Da Serra,0.57,1.38,0.49
+1938,Vila Franca Da Serra,0.85,2.03,0.72
+1939,Vila Nova De Tazem,5.87,14.06,4.98
+1940,Vinho,1.87,4.49,1.59
+1941,Adao,0.83,2,0.71
+1942,Albardo,0.42,1.01,0.36
+1943,Aldeia Do Bispo,1.93,4.63,1.64
+1944,Aldeia Vicosa,1.16,2.77,0.98
+1945,Alvendre,0.7,1.69,0.6
+1946,Arrifana,29.59,70.95,25.13
+1947,Avelas Da Ribeira,0.58,1.4,0.5
+1948,Avelas De Ambom,0.21,0.51,0.18
+1949,Benespera,0.94,2.24,0.79
+1950,Carvalhal Meao,0.07,0.17,0.06
+1951,Casal De Cinza,2.13,5.11,1.81
+1952,Castanheira,0.3,0.72,0.26
+1953,Cavadoude,0.98,2.34,0.83
+1954,Codesseiro,0.64,1.54,0.55
+1955,Corujeira,0.38,0.92,0.32
+1956,Faia,1.57,3.76,1.33
+1957,Famalicao,1.81,4.34,1.54
+1958,Fernao Joanes,0.85,2.03,0.72
+1959,Gagos,2.18,5.24,1.85
+1960,Goncalo Bocas,1,2.39,0.85
+1961,Goncalo,3.59,8.61,3.05
+1962,Guarda (Sao Vicente),53.98,129.45,45.85
+1963,Guarda (Se),31.76,76.16,26.98
+1964,Jarmelo (Sao Miguel),0.6,1.45,0.51
+1965,Jarmelo (Sao Pedro),0.48,1.16,0.41
+1966,Joao Antao,0.49,1.18,0.42
+1967,Macainhas,0.85,2.03,0.72
+1968,Marmeleiro,0.42,1.01,0.36
+1969,Meios,0.67,1.62,0.57
+1970,Mizarela,0.35,0.84,0.3
+1971,Monte Margarida,0.06,0.14,0.05
+1972,Pera Do Moco,3.09,7.41,2.62
+1973,Pero Soares,0.3,0.72,0.26
+1974,Panoias De Cima,2.18,5.24,1.85
+1975,Pega,0.42,1.01,0.36
+1976,Porto Da Carne,1.19,2.85,1.01
+1977,Pousada,2.08,4.99,1.77
+1978,Ramela,0.66,1.59,0.56
+1979,Ribeira Dos Carinhos,0.36,0.87,0.31
+1980,Rocamondo,0.42,1.01,0.36
+1981,Rochoso,0.61,1.47,0.52
+1982,Sao Miguel Da Guarda,36.5,87.52,31
+1983,Santana Da Azinha,1.72,4.13,1.46
+1984,Seixo Amarelo,0.14,0.34,0.12
+1985,Sobral Da Serra,0.76,1.83,0.65
+1986,Trinta,1.33,3.18,1.13
+1987,Vale De Estrela,1.53,3.67,1.3
+1988,Valhelhas,1.62,3.88,1.38
+1989,Vela,1.1,2.63,0.93
+1990,Videmonte,1.56,3.74,1.32
+1991,Vila Cortes Do Mondego,1.21,2.89,1.03
+1992,Vila Fernando,1.61,3.86,1.37
+1993,Vila Franca Do Deao,0.58,1.4,0.5
+1994,Vila Garcia,1.27,3.04,1.08
+1995,Vila Soeiro,0.04,0.1,0.03
+1996,Aveloso,0.7,1.69,0.6
+1997,Barreira,0.26,0.63,0.22
+1998,Carvalhal,6.04,14.47,5.13
+1999,Casteicao,0.17,0.41,0.15
+2000,Coriscada,0.57,1.38,0.49
+2001,Fonte Longa,0.91,2.17,0.77
+2002,Longroiva,0.62,1.5,0.53
+2003,Meda,7.96,19.08,6.76
+2004,Marialva,0.85,2.03,0.72
+2005,Outeiro De Gatos,1.29,3.09,1.09
+2006,Pai Penela,0.14,0.34,0.12
+2007,Poco Do Canto,1.25,2.99,1.06
+2008,Prova,0.51,1.23,0.44
+2009,Rabacal,0.83,2,0.71
+2010,Ranhados,0.74,1.79,0.63
+2011,Vale Flor,0.23,0.55,0.2
+2012,Manteigas (Sao Pedro),4.25,10.18,3.61
+2013,Manteigas (Santa Maria),5.35,12.83,4.55
+2014,Sameiro,1.03,2.46,0.87
+2015,Vale De Amoreira,0.47,1.13,0.4
+2016,Alverca Da Beira,1.35,3.23,1.14
+2017,Atalaia,0.15,0.36,0.13
+2018,Azevo,0.3,0.72,0.26
+2019,Bogalhal,0.04,0.1,0.03
+2020,Bouca Cova,0.23,0.55,0.2
+2021,Cerejo,0.27,0.65,0.23
+2022,Cidadelhe,0.07,0.17,0.06
+2023,Ervas Tenras,0.58,1.4,0.5
+2024,Ervedosa,0.8,1.93,0.68
+2025,Freixedas,2.59,6.2,2.2
+2026,Gouveia,0.33,0.8,0.28
+2027,Lamegal,0.97,2.32,0.82
+2028,Lameiras,0.88,2.1,0.74
+2029,Manigoto,0.76,1.83,0.65
+2030,Povoa D' El-Rei,0.2,0.48,0.17
+2031,Pala,1.61,3.86,1.37
+2032,Pinzio,1.14,2.73,0.97
+2033,Pereiro,0.57,1.38,0.49
+2034,Pinhel,14.45,34.64,12.27
+2035,Pomares,1.18,2.82,1
+2036,Safurdao,0.29,0.7,0.25
+2037,Santa Eufemia,0.34,0.82,0.29
+2038,Sorval,0.17,0.41,0.15
+2039,Souro Pires,2.29,5.5,1.95
+2040,Valbom,0.52,1.25,0.44
+2041,Vale De Madeira,0.23,0.55,0.2
+2042,Vascoveiro,0.49,1.18,0.42
+2043,Aguas Belas,0.5,1.21,0.43
+2044,Aldeia Da Ponte,0.67,1.62,0.57
+2045,Aldeia Da Ribeira,0.22,0.53,0.19
+2046,Aldeia De Santo Antonio,3.31,7.94,2.81
+2047,Aldeia Do Bispo,1.93,4.63,1.64
+2048,Aldeia Velha,1.11,2.65,0.94
+2049,Alfaiates,0.79,1.91,0.68
+2050,Badamalos,0.34,0.82,0.29
+2051,Baracal,0.5,1.21,0.43
+2052,Bendada,1.72,4.13,1.46
+2053,Bismula,0.47,1.13,0.4
+2054,Casteleiro,0.74,1.79,0.63
+2055,Cerdeira,0.93,2.22,0.79
+2056,Foios,0.64,1.54,0.55
+2057,Forcalhos,0.2,0.48,0.17
+2058,Lajeosa,2.26,5.43,1.92
+2059,Lomba,0.11,0.27,0.09
+2060,Malcata,0.73,1.76,0.62
+2061,Moita,10.41,24.97,8.84
+2062,Nave,0.57,1.38,0.49
+2063,Pena Lobo,0.29,0.7,0.25
+2064,Pousafoles Do Bispo,0.63,1.52,0.54
+2065,Quadrazais,0.6,1.45,0.51
+2066,Quintas De Sao Bartolomeu,0.61,1.47,0.52
+2067,Rapoula Do Coa,0.59,1.42,0.5
+2068,Rebolosa,0.59,1.42,0.5
+2069,Rendo,0.94,2.24,0.79
+2070,Ruivos,0.25,0.6,0.21
+2071,Ruvina,0.24,0.58,0.21
+2072,Sabugal,8.38,20.1,7.12
+2073,Santo Estevao,0.25,0.6,0.21
+2074,Seixo Do Coa,0.38,0.92,0.32
+2075,Sortelha,1.49,3.57,1.26
+2076,Souto,19.28,46.22,16.37
+2077,Vale Das ∆íguas,0.04,0.1,0.03
+2078,Vale De Espinho,0.73,1.76,0.62
+2079,Vale Longo,0.12,0.29,0.1
+2080,Vila Boa,11.33,27.16,9.62
+2081,Vila Do Touro,0.36,0.87,0.31
+2082,Vilar Maior,0.21,0.51,0.18
+2083,Alvoco Da Serra,1.1,2.63,0.93
+2084,Cabeca,0.47,1.13,0.4
+2085,Carragozela,1.4,3.35,1.19
+2086,Folhadosa,1.07,2.56,0.91
+2087,Girabolhos,0.59,1.42,0.5
+2088,Lajes,0.71,1.71,0.61
+2089,Lapa Dos Dinheiros,0.85,2.03,0.72
+2090,Loriga,3.37,8.08,2.86
+2091,Paranhos,0.32,0.77,0.27
+2092,Pinhancos,2.75,6.59,2.33
+2093,Sao Martinho,2.23,5.36,1.9
+2094,Sao Romao,10.7,25.67,9.09
+2095,Sabugueiro,1.58,3.79,1.34
+2096,Sameice,1.34,3.21,1.14
+2097,Sandomil,2.94,7.04,2.5
+2098,Santa Comba,3.02,7.24,2.56
+2099,Santa Eulalia,9.69,23.23,8.23
+2100,Santa Marinha,3.03,7.26,2.57
+2101,Santiago,5,11.99,4.25
+2102,Sazes Da Beira,0.55,1.33,0.47
+2103,Seia,26.51,63.57,22.52
+2104,Teixeira,0.23,0.55,0.2
+2105,Torrozelo,1.75,4.2,1.49
+2106,Tourais,4.84,11.6,4.11
+2107,Travancinha,1.82,4.37,1.55
+2108,Varzea De Meruge,0.87,2.07,0.73
+2109,Valezim,0.79,1.91,0.68
+2110,Vide,1.21,2.89,1.03
+2111,Vila Cova √ã Coelheira,1.18,2.82,1
+2112,Aldeia Nova,0.02,0.05,0.02
+2113,Cotimos,0.52,1.25,0.44
+2114,Carnicaes,0.27,0.65,0.23
+2115,Castanheira,0.3,0.72,0.26
+2116,Cogula,0.53,1.28,0.45
+2117,Feital,0.2,0.48,0.17
+2118,Fiaes,31.83,76.33,27.04
+2119,Freches,1.41,3.38,1.2
+2120,Granja,1.65,3.96,1.4
+2121,Guilheiro,0.68,1.64,0.58
+2122,Moimentinha,0.54,1.3,0.46
+2123,Moreira De Rei,1.1,2.63,0.93
+2124,Povoa Do Concelho,0.91,2.17,0.77
+2125,Palhais,0.5,1.21,0.43
+2126,Reboleiro,1.01,2.41,0.85
+2127,Rio De Mel,1.01,2.41,0.85
+2128,Sebadelhe Da Serra,0.27,0.65,0.23
+2129,Souto Maior,0.46,1.11,0.39
+2130,Tamanhos,0.81,1.95,0.69
+2131,Terrenho,0.37,0.89,0.32
+2132,Torre Do Terrenho,0.37,0.89,0.32
+2133,Torres,0.35,0.84,0.3
+2134,Trancoso (Sao Pedro),6.96,16.69,5.91
+2135,Trancoso (Santa Maria),6.86,16.45,5.83
+2136,Valdujo,0.31,0.75,0.26
+2137,Vale Do Seixo,0.7,1.69,0.6
+2138,Vila Franca Das Naves,3.81,9.14,3.24
+2139,Vila Garcia,1.27,3.04,1.08
+2140,Vilares,0.56,1.35,0.48
+2141,Almendra,1.25,2.99,1.06
+2142,Castelo Melhor,0.75,1.81,0.64
+2143,Cedovim,1.13,2.7,0.96
+2144,Chas,0.71,1.71,0.61
+2145,Custoias,0.5,1.21,0.43
+2146,Freixo De Numao,1.58,3.79,1.34
+2147,Horta,0.86,2.05,0.73
+2148,Mos,1.16,2.77,0.98
+2149,Murca,0.2,0.48,0.17
+2150,Muxagata,0.64,1.54,0.55
+2151,Numao,0.78,1.88,0.67
+2152,Santa Comba,3.02,7.24,2.56
+2153,Santo Amaro,0,0,0
+2154,Sebadelhe,0.68,1.64,0.58
+2155,Seixas,0.95,2.27,0.8
+2156,Touca,0.77,1.86,0.66
+2157,Vila Nova De Foz Coa,12.7,30.45,10.78
+2158,A Dos Negros,6,14.38,5.09
+2159,Obidos (Sao Pedro),5.79,13.9,4.92
+2160,Obidos (Santa Maria),8.02,19.23,6.81
+2161,Amoreira,0.53,1.28,0.45
+2162,Gaeiras,10.23,24.53,8.69
+2163,Olho Marinho,4.85,11.63,4.12
+2164,Sobral Da Lagoa,1.63,3.91,1.38
+2165,Usseira,3.89,9.34,3.31
+2166,Vau,3.58,8.59,3.04
+2167,Evora De Alcobaca,18.77,45.02,15.94
+2168,Alcobaca,24.01,57.59,20.4
+2169,Alfeizerao,14.36,34.43,12.19
+2170,Aljubarrota (Prazeres),17.92,42.97,15.22
+2171,Aljubarrota (Sao Vicente),10.08,24.17,8.56
+2172,Alpedriz,2.75,6.59,2.33
+2173,Barrio,6.04,14.47,5.13
+2174,Benedita,39.63,95.03,33.66
+2175,Cela,13.24,31.75,11.24
+2176,Coz,7.96,19.08,6.76
+2177,Maiorga,8.13,19.49,6.9
+2178,Martinganca,4.74,11.36,4.02
+2179,Montes,1.94,4.66,1.65
+2180,Pataias,21.83,52.35,18.54
+2181,Sao Martinho Do Porto,10.36,24.85,8.8
+2182,Turquel,19.6,46.99,16.65
+2183,Vestiaria,5.1,12.23,4.33
+2184,Vimeiro,7.99,19.15,6.78
+2185,Almoster,1.75,4.2,1.49
+2186,Alvaiazere,6.07,14.55,5.15
+2187,Macas De Caminho,1.08,2.58,0.91
+2188,Macas De Dona Maria,5.52,13.24,4.69
+2189,Pelma,2.05,4.92,1.74
+2190,Pussos,4.28,10.25,3.63
+2191,Rego Da Murta,3.1,7.43,2.63
+2192,Alvorge,3.87,9.29,3.29
+2193,Ansiao,11.2,26.85,9.51
+2194,Avelar,8.74,20.96,7.43
+2195,Chao De Couce,7.12,17.08,6.05
+2196,Lagarteira,1.9,4.56,1.61
+2197,Pousaflores,3,7.19,2.55
+2198,Santiago Da Guarda,11.41,27.36,9.69
+2199,Torre De Vale De Todos,1.44,3.45,1.22
+2200,Batalha,40.03,95.99,34
+2201,Golpilheira,6.93,16.62,5.89
+2202,Reguengo Do Fetal,9.14,21.93,7.77
+2203,Sao Mamede,15.83,37.97,13.45
+2204,Bombarral,23.35,55.99,19.83
+2205,Carvalhal,6.04,14.47,5.13
+2206,Po,4.81,11.53,4.08
+2207,Rolica,10.78,25.86,9.16
+2208,Vale Covo,4.36,10.45,3.7
+2209,A Dos Francos,6.27,15.03,5.32
+2210,Alvorninha,11.14,26.71,9.46
+2211,Caldas Da Rainha (Nossa Senhora Do Populo),67.58,162.07,57.4
+2212,Caldas Da Rainha (Santo Onofre),49.35,118.36,41.92
+2213,Carvalhal Benfeito,5.35,12.83,4.55
+2214,Coto,5.68,13.63,4.83
+2215,Foz Do Arelho,5.04,12.09,4.28
+2216,Landal,4.42,10.59,3.75
+2217,Nadadouro,7.69,18.43,6.53
+2218,Sao Gregorio,1.34,3.21,1.14
+2219,Salir De Matos,10.49,25.16,8.91
+2220,Salir Do Porto,2.4,5.77,2.04
+2221,Santa Catarina,4.14,9.94,3.52
+2222,Serra Do Bouro,2.28,5.48,1.94
+2223,Tornada,13.99,33.56,11.89
+2224,Vidais,4.36,10.45,3.7
+2225,Castanheira De Pera,9.81,23.52,8.33
+2226,Coentral,0.25,0.6,0.21
+2227,Aguda,3.71,8.9,3.15
+2228,Arega,2.52,6.03,2.14
+2229,Bairradas,1.31,3.14,1.11
+2230,Campelo,0.64,1.54,0.55
+2231,Figueiro Dos Vinhos,12.44,29.84,10.57
+2232,Amor,20.64,49.5,17.53
+2233,Arrabal,12.21,29.29,10.37
+2234,Azoia,10.4,24.94,8.84
+2235,Bajouca,8.87,21.28,7.54
+2236,Barosa,9.82,23.55,8.34
+2237,Barreira,0.26,0.63,0.22
+2238,Bidoeira De Cima,9.6,23.01,8.15
+2239,Boa Vista,7.96,19.08,6.76
+2240,Caranguejeira,21.23,50.9,18.03
+2241,Carreira,6.7,16.07,5.69
+2242,Carvide,10.99,26.34,9.33
+2243,Chainca,3.46,8.3,2.94
+2244,Coimbrao,6.97,16.72,5.92
+2245,Colmeias,12.63,30.28,10.72
+2246,Cortes,13.52,32.42,11.48
+2247,Leiria,69.88,167.57,59.35
+2248,Maceira,0.64,1.54,0.55
+2249,Marrazes,108.24,259.56,91.93
+2250,Memoria,2.49,5.98,2.12
+2251,Milagres,13.98,33.53,11.88
+2252,Monte Real,13.06,31.31,11.09
+2253,Monte Redondo,19.17,45.98,16.29
+2254,Ortigosa,8.99,21.57,7.64
+2255,Parceiros,23.96,57.46,20.35
+2256,Pousos,48.92,117.32,41.55
+2257,Regueira De Pontes,10.06,24.12,8.54
+2258,Santa Catarina Da Serra,19.25,46.17,16.35
+2259,Santa Eufemia,0.34,0.82,0.29
+2260,Souto De Carpalhosa,16.12,38.65,13.69
+2261,Marinha Grande,136.67,327.73,116.08
+2262,Moita,10.41,24.97,8.84
+2263,Vieira De Leiria,22.28,53.44,18.93
+2264,Famalicao,1.81,4.34,1.54
+2265,Nazare,39.36,94.4,33.44
+2266,Valado Dos Frades,12.88,30.88,10.94
+2267,Graca,1.82,4.37,1.55
+2268,Pedrogao Grande,8.63,20.7,7.33
+2269,Vila Facaia,1.63,3.91,1.38
+2270,Atouguia Da Baleia,36.2,86.8,30.74
+2271,Ferrel,10.3,24.7,8.75
+2272,Peniche (Ajuda),29.85,71.58,25.35
+2273,Peniche (Conceicao),19.76,47.38,16.78
+2274,Peniche (Sao Pedro),8.54,20.48,7.25
+2275,Serra D' El-Rei,5.73,13.75,4.87
+2276,Abiul,8.13,19.49,6.9
+2277,Albergaria Dos Doze,6.21,14.88,5.27
+2278,Almagreira,11.48,27.53,9.75
+2279,Carnide,6.04,14.47,5.13
+2280,Carrico,15.68,37.61,13.32
+2281,Guia,20.29,48.66,17.23
+2282,Ilha,7.27,17.44,6.18
+2283,Lourical,19.19,46.03,16.3
+2284,Mata Mourisca,7.22,17.32,6.14
+2285,Meirinhas,7.99,19.15,6.78
+2286,Pelariga,8.03,19.25,6.82
+2287,Pombal,0.35,0.84,0.3
+2288,Redinha,7.65,18.33,6.49
+2289,Sao Simao De Litem,4.21,10.08,3.57
+2290,Santiago De Litem,6.96,16.69,5.91
+2291,Vermoil,9.69,23.23,8.23
+2292,Vila Ca,5.15,12.35,4.37
+2293,Alcaria,4.83,11.58,4.1
+2294,Alqueidao Da Serra,7.32,17.56,6.22
+2295,Alvados,1.9,4.56,1.61
+2296,Arrimal,2.95,7.07,2.5
+2297,Calvaria De Cima,11.16,26.75,9.48
+2298,Juncal,14.79,35.46,12.56
+2299,Mendiga,4.1,9.84,3.49
+2300,Mira De Aire,15.94,38.21,13.53
+2301,Pedreiras,12.02,28.83,10.21
+2302,Porto De Mos (Sao Joao Baptista),13.73,32.93,11.66
+2303,Porto De Mos (Sao Pedro),12.85,30.81,10.91
+2304,Sao Bento,3.3,7.91,2.8
+2305,Serro Ventoso,4.41,10.57,3.74
+2306,Abrigada,14.07,33.75,11.95
+2307,Aldeia Galega Da Merceana,8.42,20.19,7.15
+2308,Aldeia Gavinha,4.63,11.1,3.93
+2309,Alenquer (Santo Estevao),30.88,74.06,26.23
+2310,Alenquer (Triana),19.3,46.27,16.39
+2311,Cabanas De Torres,3.67,8.81,3.12
+2312,Cadafais,8.06,19.32,6.84
+2313,Carnota,6.72,16.12,5.71
+2314,Carregado,57.45,137.78,48.8
+2315,Meca,7.45,17.88,6.33
+2316,Olhalvo,7.71,18.48,6.55
+2317,Ota,5.96,14.28,5.06
+2318,Pereiro De Palhacana,2.42,5.81,2.06
+2319,Ribafria,3.88,9.31,3.3
+2320,Ventosa,1.1,2.63,0.93
+2321,Vila Verde Dos Francos,4.44,10.64,3.77
+2322,Alfornelos,50.8,121.83,43.15
+2323,Alfragide,47.96,115,40.73
+2324,Brandoa,69.08,165.66,58.68
+2325,Buraca,62.05,148.8,52.7
+2326,Damaia,85.39,204.77,72.53
+2327,Falagueira,55.71,133.6,47.32
+2328,Mina,71.78,172.13,60.97
+2329,Reboleira,61.4,147.23,52.15
+2330,Sao Bras,130.88,313.86,111.17
+2331,Venda Nova,31.18,74.76,26.48
+2332,Venteira,74.88,179.56,63.6
+2333,Arranho,10.35,24.82,8.79
+2334,Arruda Dos Vinhos,41.64,99.85,35.37
+2335,Cardosas,3.53,8.47,3
+2336,Santiago Dos Velhos,6.67,15.99,5.67
+2337,Alcoentre,13.29,31.87,11.29
+2338,Aveiras De Baixo,5.71,13.7,4.85
+2339,Aveiras De Cima,19.55,46.87,16.6
+2340,Azambuja,37.13,89.04,31.54
+2341,Macussa,1.05,2.51,0.89
+2342,Manique Do Intendente,3.95,9.48,3.36
+2343,Vale Do Paraiso,3.48,8.35,2.96
+2344,Vila Nova Da Rainha,4.33,10.37,3.67
+2345,Vila Nova De Sao Pedro,2.31,5.55,1.97
+2346,Alguber,3.55,8.52,3.02
+2347,Cadaval,13.56,32.52,11.52
+2348,Cercal,1.88,4.51,1.6
+2349,Figueiros,2.74,6.56,2.32
+2350,Lamas,3.87,9.29,3.29
+2351,Pero Moniz,2.17,5.21,1.85
+2352,Painho,5.16,12.38,4.38
+2353,Peral,1.99,4.78,1.69
+2354,Vermelha,4.99,11.97,4.24
+2355,Vilar,0.34,0.82,0.29
+2356,Alcabideche,185.04,443.75,157.17
+2357,Carcavelos,106.63,255.7,90.57
+2358,Cascais,148.65,356.46,126.26
+2359,Estoril,107.61,258.06,91.4
+2360,Parede,91.21,218.74,77.48
+2361,Sao Domingos De Rana,265.6,636.91,225.59
+2362,Ajuda,55.45,132.97,47.1
+2363,Alcantara,56.26,134.9,47.78
+2364,Alto Do Pina,45.65,109.48,38.78
+2365,Alvalade,36.12,86.61,30.68
+2366,Ameixoeira,48.98,117.46,41.6
+2367,Anjos,0.69,1.66,0.59
+2368,Beato,47.35,113.55,40.22
+2369,Benfica,143.73,344.67,122.08
+2370,Campo Grande,45.98,110.27,39.06
+2371,Campolide,63.05,151.19,53.55
+2372,Carnide,6.04,14.47,5.13
+2373,Castelo,3.35,8.03,2.85
+2374,Charneca,39.6,94.95,33.63
+2375,Coracao De Jesus,17.51,42,14.88
+2376,Encarnacao,10.18,24.41,8.65
+2377,Graca,1.82,4.37,1.55
+2378,Lapa,33.27,79.78,28.26
+2379,Lumiar,200.38,480.51,170.19
+2380,Martires,2.01,4.82,1.71
+2381,Madalena,1.89,4.54,1.61
+2382,Marvila,149.1,357.55,126.64
+2383,Merces,18.3,43.88,15.54
+2384,Nossa Senhora De Fatima,8.39,20.12,7.13
+2385,Pena,19.55,46.87,16.6
+2386,Penha De Franca,56.1,134.54,47.65
+2387,Prazeres,34.93,83.76,29.67
+2388,Sao Cristovao E Sao Lourenco,5.35,12.83,4.55
+2389,Sao Domingos De Benfica,148.35,355.74,126
+2390,Sao Francisco Xavier,34.43,82.55,29.24
+2391,Sao Joao De Brito,45.17,108.32,38.37
+2392,Sao Joao De Deus,41.53,99.59,35.27
+2393,Sao Joao,25.67,61.57,21.81
+2394,Sao Jorge De Arroios,82.4,197.6,69.99
+2395,Sao Jose,12.6,30.2,10.7
+2396,Sao Mamede,15.83,37.97,13.45
+2397,Sao Miguel,5.74,13.78,4.88
+2398,Sao Nicolau,7.38,17.71,6.27
+2399,Sao Paulo,12.5,29.99,10.62
+2400,Sao Sebastiao Da Pedreira,28.55,68.47,24.25
+2401,Sao Vicente De Fora,14.69,35.22,12.48
+2402,Se,4.21,10.08,3.57
+2403,Sacramento,3.56,8.54,3.02
+2404,Santa Catarina,4.14,9.94,3.52
+2405,Santa Engracia,22.64,54.28,19.23
+2406,Santa Isabel,29.21,70.06,24.81
+2407,Santa Justa,0.92,2.2,0.78
+2408,Santa Maria De Belem,33.92,81.35,28.81
+2409,Santa Maria Dos Olivais,209.16,501.57,177.65
+2410,Santiago,5,11.99,4.25
+2411,Santo Condestavel,61.49,147.45,52.23
+2412,Santo Estevao,0.25,0.6,0.21
+2413,Santos-O-Velho,17.83,42.75,15.14
+2414,Socorro,12.66,30.35,10.75
+2415,Apelacao,19.84,47.57,16.85
+2416,Bobadela,3.23,7.74,2.74
+2417,Bucelas,20.46,49.07,17.38
+2418,Camarate,79.97,191.77,67.92
+2419,Fanhoes,12.75,30.57,10.83
+2420,Frielas,10.21,24.49,8.67
+2421,Loures,129.67,310.97,110.14
+2422,Lousa,0.83,2,0.71
+2423,Moscavide,63.66,152.66,54.07
+2424,Portela,0.52,1.25,0.44
+2425,Prior Velho,32.98,79.08,28.01
+2426,Sao Joao Da Talha,77.4,185.61,65.74
+2427,Sao Juliao Do Tojal,15.49,37.15,13.16
+2428,Sacavem,78.45,188.12,66.63
+2429,Santo Antao Do Tojal,17.56,42.12,14.92
+2430,Santo Antonio Dos Cavaleiros,120.86,289.83,102.66
+2431,Unhos,39.06,93.68,33.18
+2432,Atalaia,0.15,0.36,0.13
+2433,Lourinha,42.42,101.73,36.03
+2434,Marteleira,7.12,17.08,6.05
+2435,Miragaia,7.46,17.9,6.34
+2436,Moita Dos Ferreiros,6.31,15.13,5.36
+2437,Moledo,1.83,4.39,1.56
+2438,Reguengo Grande,6.21,14.88,5.27
+2439,Ribamar,9.09,21.81,7.72
+2440,Sao Bartolomeu Dos Galegos,3.99,9.58,3.39
+2441,Santa Barbara,8.45,20.26,7.18
+2442,Vimeiro,7.99,19.15,6.78
+2443,Azueira,13.93,33.41,11.83
+2444,Carvoeira,9.8,23.5,8.32
+2445,Cheleiros,5.9,14.14,5.01
+2446,Encarnacao,10.18,24.41,8.65
+2447,Enxara Do Bispo,7.6,18.21,6.45
+2448,Ericeira,47.23,113.26,40.12
+2449,Gradil,5.12,12.28,4.35
+2450,Igreja Nova,1.41,3.38,1.2
+2451,Mafra,88.6,212.47,75.25
+2452,Malveira,32.37,77.63,27.5
+2453,Milharado,34.41,82.51,29.22
+2454,Sao Miguel De Alcainca,8.49,20.36,7.21
+2455,Santo Estevao Das Gales,7.61,18.24,6.46
+2456,Santo Isidoro,16.5,39.56,14.01
+2457,Sobral Da Abelheira,5.24,12.57,4.45
+2458,Venda Do Pinheiro,39.64,95.05,33.67
+2459,Vila Franca Do Rosario,3.88,9.31,3.3
+2460,Canecas,55.4,132.85,47.06
+2461,Famoes,52.12,124.99,44.27
+2462,Odivelas,2.4,5.77,2.04
+2463,Olival De Basto,24.61,59.01,20.9
+2464,Povoa De Santo Adriao,56.57,135.65,48.05
+2465,Pontinha,97.1,232.85,82.47
+2466,Ramada,100.55,241.13,85.4
+2467,Alges,97.41,233.6,82.74
+2468,Barcarena,67.57,162.04,57.4
+2469,Carnaxide,120.96,290.07,102.74
+2470,Caxias,40.53,97.2,34.43
+2471,Cruz Quebrada-Dafundo,27.36,65.62,23.24
+2472,Linda-A-Velha,89.63,214.95,76.13
+2473,Oeiras E Sao Juliao Da Barra,145,347.71,123.16
+2474,Paco De Arcos,71.07,170.44,60.37
+2475,Porto Salvo,65.52,157.12,55.65
+2476,Queijas,46.71,112.01,39.67
+2477,Agualva,160.36,384.55,136.2
+2478,Algueirao-Mem Martins,305.36,732.28,259.37
+2479,Almargem Do Bispo,39.4,94.47,33.46
+2480,Belas,120.97,290.1,102.75
+2481,Cacem,95.42,228.82,81.05
+2482,Casal De Cambra,58.29,139.78,49.51
+2483,Colares,33.09,79.35,28.1
+2484,Massama,136.42,327.15,115.88
+2485,Mira-Sintra,15.99,38.33,13.58
+2486,Monte Abraao,93.29,223.71,79.24
+2487,Montelavar,15.36,36.84,13.05
+2488,Pero Pinheiro,17.89,42.89,15.19
+2489,Queluz,106.44,255.24,90.4
+2490,Rio De Mouro,218.87,524.85,185.9
+2491,Sao Joao Das Lampas,50.71,121.61,43.07
+2492,Sao Marcos,91.05,218.35,77.34
+2493,Sintra (Sao Martinho),26.59,63.76,22.58
+2494,Sintra (Sao Pedro De Penaferrim),63.46,152.18,53.9
+2495,Sintra (Santa Maria E Sao Miguel),41.19,98.77,34.98
+2496,Terrugem,22.11,53.03,18.78
+2497,Santo Quintino,16.64,39.9,14.13
+2498,Sapataria,13.91,33.36,11.82
+2499,Sobral De Monte Agraco,15.47,37.1,13.14
+2500,A Dos Cunhados,38.8,93.05,32.96
+2501,Campelos,12.66,30.35,10.75
+2502,Carmoes,3.09,7.41,2.62
+2503,Carvoeira,9.8,23.5,8.32
+2504,Dois Portos,8.47,20.31,7.19
+2505,Freiria,10.57,25.35,8.98
+2506,Maceira,0.64,1.54,0.55
+2507,Matacaes,4,9.6,3.4
+2508,Maxial,10.29,24.68,8.74
+2509,Monte Redondo,19.17,45.98,16.29
+2510,Outeiro Da Cabeca,3.76,9.02,3.2
+2511,Ponte Do Rol,11.12,26.66,9.44
+2512,Ramalhal,15.41,36.96,13.09
+2513,Runa,3.75,9,3.19
+2514,Sao Pedro Da Cadeira,22.32,53.53,18.96
+2515,Silveira,38.33,91.91,32.56
+2516,Torres Vedras (Sao Pedro E Sao Tiago),80.48,193,68.36
+2517,Torres Vedras (Santa Maria Do Castelo E Sao Migue*,31.5,75.53,26.75
+2518,Turcifal,15.04,36.07,12.77
+2519,Ventosa,1.1,2.63,0.93
+2520,Alhandra,23.61,56.62,20.05
+2521,Alverca Do Ribatejo,149.72,359.05,127.17
+2522,Cachoeiras,3.35,8.03,2.85
+2523,Calhandriz,3.42,8.2,2.91
+2524,Castanheira Do Ribatejo,33.73,80.89,28.65
+2525,Forte Da Casa,54.85,131.53,46.59
+2526,Povoa De Santa Iria,156.1,374.34,132.59
+2527,Sao Joao Dos Montes,28.02,67.19,23.8
+2528,Santa Iria De Azoia,81.78,196.11,69.46
+2529,Sobralinho,23.79,57.05,20.21
+2530,Vialonga,103.51,248.22,87.92
+2531,Vila Franca De Xira,79.19,189.91,67.26
+2587,Alter Do Chao,8.7,20.87,7.39
+2588,Chancelaria,1.4,3.35,1.19
+2589,Cunheira,1.12,2.68,0.95
+2590,Seda,1.06,2.53,0.9
+2591,Assuncao,7.28,17.47,6.19
+2592,Esperanca,0.61,1.47,0.52
+2593,Mosteiros,1.71,4.1,1.45
+2594,Alcorrego,1.54,3.69,1.31
+2595,Aldeia Velha,1.11,2.65,0.94
+2596,Avis,6.86,16.45,5.83
+2597,Benavila,2.12,5.09,1.8
+2598,Ervedal,2.7,6.47,2.29
+2599,Figueira E Barros,0.94,2.24,0.79
+2600,Maranhao,0.29,0.7,0.25
+2601,Valongo,0.89,2.12,0.75
+2602,Nossa Senhora Da Expectacao,15.29,36.67,12.99
+2603,Nossa Senhora Da Graca Dos Degolados,2.2,5.28,1.87
+2604,Sao Joao Baptista,15.47,37.1,13.14
+2605,Nossa Senhora Da Graca De Povoa E Meadas,1.72,4.13,1.46
+2606,Sao Joao Baptista,15.47,37.1,13.14
+2607,Santa Maria Da Devesa,5.91,14.16,5.02
+2608,Santiago Maior,7.38,17.71,6.27
+2609,Aldeia Da Mata,0.95,2.27,0.8
+2610,Crato E Martires,6.17,14.79,5.24
+2611,Flor Da Rosa,1.02,2.44,0.86
+2612,Gafete,3.08,7.38,2.61
+2613,Monte Da Pedra,0.71,1.71,0.61
+2614,Vale Do Peso,0.59,1.42,0.5
+2615,"Ajuda, Salvador E Santo Ildefonso",2.63,6.3,2.23
+2616,Alcacova,7.02,16.84,5.96
+2617,Assuncao,7.28,17.47,6.19
+2618,Barbacena,1.96,4.7,1.67
+2619,Caia E Sao Pedro,13.05,31.29,11.08
+2620,Sao Bras E Sao Lourenco,6.64,15.92,5.64
+2621,Sao Vicente E Ventosa,2.81,6.73,2.38
+2622,Santa Eulalia,9.69,23.23,8.23
+2623,Terrugem,22.11,53.03,18.78
+2624,Vila Boim,4.52,10.83,3.84
+2625,Vila Fernando,1.61,3.86,1.37
+2626,Cabeco De Vide,3.63,8.71,3.08
+2627,Fronteira,8.01,19.2,6.8
+2628,Sao Saturnino,1.12,2.68,0.95
+2629,Atalaia,0.15,0.36,0.13
+2630,Belver,1,2.39,0.85
+2631,Comenda,2.46,5.91,2.09
+2632,Gaviao,15.9,38.14,13.51
+2633,Margem,1.95,4.68,1.66
+2634,Beira,1.73,4.15,1.47
+2635,Sao Salvador Da Aramenha,5.21,12.5,4.43
+2636,Santa Maria De Marvao,1.37,3.28,1.16
+2637,Santo Antonio Das Areias,3.95,9.48,3.36
+2638,Assumar,1.79,4.29,1.52
+2639,Monforte,5.15,12.35,4.37
+2640,Santo Aleixo,2.38,5.72,2.03
+2641,Vaiamonte,1.85,4.44,1.57
+2642,Alpalhao,4,9.6,3.4
+2643,Amieira Do Tejo,0.46,1.11,0.39
+2644,Arez,0.66,1.59,0.56
+2645,Espirito Santo,0.87,2.07,0.73
+2646,Montalvao,0.79,1.91,0.68
+2647,Nossa Senhora Da Graca,5.93,14.21,5.03
+2648,Sao Matias,2.4,5.77,2.04
+2649,Sao Simao,0.13,0.31,0.11
+2650,Santana,3.88,9.31,3.3
+2651,Tolosa,3.25,7.79,2.76
+2652,Foros De Arrao,2.93,7.02,2.49
+2653,Galveias,3.5,8.4,2.97
+2654,Longomel,3.51,8.42,2.98
+2655,Montargil,7.73,18.53,6.56
+2656,Ponte De Sor,32.76,78.55,27.82
+2657,Tramaga,5.85,14.04,4.97
+2658,Vale De Acor,2.67,6.39,2.26
+2659,Alagoa,2.45,5.89,2.08
+2660,Alegrete,6.23,14.93,5.29
+2661,Carreiras,2.4,5.77,2.04
+2662,Fortios,8.46,20.29,7.19
+2663,Reguengo,2.4,5.77,2.04
+2664,Ribeira De Nisa,5.54,13.29,4.71
+2665,Sao Juliao,0.79,1.91,0.68
+2666,Sao Lourenco,18.49,44.34,15.71
+2667,Se,4.21,10.08,3.57
+2668,Urra,7.7,18.46,6.54
+2669,Cano,4.38,10.49,3.72
+2670,Casa Branca,4.39,10.52,3.73
+2671,Santo Amaro,0,0,0
+2672,Sousel,7.14,17.13,6.07
+2673,Aboadela,2.32,5.57,1.97
+2674,Aboim,0.97,2.32,0.82
+2675,Amarante (Sao Goncalo),27.04,64.85,22.97
+2676,Ansiaes,1.87,4.49,1.59
+2677,Ataide,3.93,9.43,3.34
+2678,Bustelo,1.8,4.32,1.53
+2679,Canadelo,0.29,0.7,0.25
+2680,Candemil,2.16,5.19,1.84
+2681,Carneiro,0.94,2.24,0.79
+2682,Carvalho De Rei,0.52,1.25,0.44
+2683,Cepelos,4.91,11.77,4.17
+2684,Chapa,1.18,2.82,1
+2685,Figueiro (Santa Cristina),4.92,11.8,4.18
+2686,Figueiro (Santiago),9.39,22.51,7.97
+2687,Fregim,11.1,26.61,9.42
+2688,Freixo De Baixo,5.44,13.05,4.62
+2689,Freixo De Cima,9.29,22.27,7.89
+2690,Fridao,3.38,8.11,2.87
+2691,Gatao,7.07,16.96,6.01
+2692,Gondar,12.14,29.12,10.31
+2693,Gouveia (Sao Simao),1.83,4.39,1.56
+2694,Jazente,2.04,4.9,1.73
+2695,Lomba,0.11,0.27,0.09
+2696,Louredo,5.57,13.37,4.73
+2697,Lufrei,7.17,17.2,6.09
+2698,Madalena,1.89,4.54,1.61
+2699,Mancelos,12.02,28.83,10.21
+2700,Oliveira,4.23,10.13,3.59
+2701,Olo,1.36,3.26,1.15
+2702,Padronelo,3.24,7.77,2.75
+2703,Real,4.6,11.02,3.9
+2704,Rebordelo,1.53,3.67,1.3
+2705,Salvador Do Monte,4.09,9.82,3.48
+2706,Sanche,1.75,4.2,1.49
+2707,Teloes,16.52,39.61,14.03
+2708,Travanca,9.09,21.81,7.72
+2709,Varzea,2.5,6.01,2.13
+2710,Vila Caiz,11.62,27.86,9.87
+2711,Vila Cha Do Marao,3.82,9.17,3.25
+2712,Vila Garcia,1.27,3.04,1.08
+2713,Ancede,8.7,20.87,7.39
+2714,Baiao (Santa Leocadia),1.77,4.25,1.5
+2715,Campelo,0.64,1.54,0.55
+2716,Frende,2.11,5.07,1.79
+2717,Gestaco,3.94,9.46,3.35
+2718,Gove,6.61,15.85,5.61
+2719,Grilo,1.89,4.54,1.61
+2720,Loivos Da Ribeira,1.25,2.99,1.06
+2721,Loivos Do Monte,0.85,2.03,0.72
+2722,Mesquinhata,0.8,1.93,0.68
+2723,Ovil,1.88,4.51,1.6
+2724,Ribadouro,0.97,2.32,0.82
+2725,Sao Tome De Covelas,1.78,4.27,1.51
+2726,Santa Cruz Do Douro,4.65,11.15,3.95
+2727,Santa Marinha Do Zezere,9.37,22.46,7.96
+2728,Teixeiro,0.9,2.15,0.76
+2729,Teixeira,0.23,0.55,0.2
+2730,Tresouras,1.07,2.56,0.91
+2731,Valadares,2.53,6.06,2.14
+2732,Viariz,1.37,3.28,1.16
+2733,Aiao,3.18,7.62,2.7
+2734,Airaes,10.18,24.41,8.65
+2735,Borba De Godim,9.67,23.18,8.21
+2736,Caramos,8.59,20.6,7.3
+2737,Friande,0.7,1.69,0.6
+2738,Idaes,12.66,30.35,10.75
+2739,Jugueiros,5.85,14.04,4.97
+2740,Lagares,5.48,13.15,4.66
+2741,Lordelo,17.72,42.48,15.05
+2742,Macieira Da Lixa,8.23,19.73,6.99
+2743,Margaride (Santa Eulalia),45.47,109.04,38.62
+2744,Moure,4.21,10.08,3.57
+2745,Pedreira,7.55,18.09,6.41
+2746,Penacova,13.36,32.04,11.35
+2747,Pinheiro,5.42,13,4.61
+2748,Pombeiro De Ribavizela,10.86,26.05,9.23
+2749,Rande,4.61,11.05,3.91
+2750,Refontoura,9.29,22.27,7.89
+2751,Regilde,6.21,14.88,5.27
+2752,Revinhade,4.37,10.47,3.71
+2753,Santao,3.02,7.24,2.56
+2754,Sendim,5.1,12.23,4.33
+2755,Sernande,4.63,11.1,3.93
+2756,Sousa,4.98,11.94,4.23
+2757,Torrados,12.23,29.34,10.39
+2758,Unhao,3.42,8.2,2.91
+2759,Varzea,2.5,6.01,2.13
+2760,Varziela,8.25,19.78,7.01
+2761,Vila Cova Da Lixa,16.74,40.14,14.22
+2762,Vila Fria,2.92,7,2.48
+2763,Vila Verde,20.75,49.77,17.63
+2764,Vizela (Sao Jorge),2.72,6.51,2.31
+2765,Baguim Do Monte (Rio Tinto),61.2,146.75,51.98
+2766,Covelo,0.9,2.15,0.76
+2767,Fanzeres,98.98,237.36,84.07
+2768,Foz Do Sousa,25.16,60.34,21.37
+2769,Gondomar (Sao Cosme),118.7,284.65,100.82
+2770,Jovim,29.8,71.46,25.31
+2771,Lomba,0.11,0.27,0.09
+2772,Medas,8.3,19.9,7.05
+2773,Melres,14.29,34.26,12.13
+2774,Rio Tinto,2.75,6.59,2.33
+2775,Sao Pedro Da Cova,59.11,141.76,50.21
+2776,Valbom,0.52,1.25,0.44
+2777,Alvarenga,3.84,9.22,3.26
+2778,Aveleda,9.55,22.89,8.11
+2779,Barrosas (Santo Estevao),5.21,12.5,4.43
+2780,Boim,14.66,35.15,12.45
+2781,Caide De Rei,9.97,23.91,8.47
+2782,Casais,6.59,15.8,5.6
+2783,Cernadelo,4.21,10.08,3.57
+2784,Covas,1.06,2.53,0.9
+2785,Cristelos,13.62,32.66,11.57
+2786,Figueiras,6.33,15.17,5.37
+2787,Lodares,8.93,21.42,7.59
+2788,Lousada (Sao Miguel),3.79,9.09,3.22
+2789,Lousada (Santa Margarida),1.33,3.18,1.13
+2790,Lustosa,21.67,51.96,18.41
+2791,Macieira,5.6,13.44,4.76
+2792,Meinedo,16.74,40.14,14.22
+2793,Nespereira,11.96,28.68,10.16
+2794,Nevogilde,1.24,2.97,1.05
+2795,Nogueira,29.15,69.91,24.76
+2796,Ordem,5.42,13,4.61
+2797,Pias,8.95,21.47,7.6
+2798,Silvares,9.84,23.59,8.36
+2799,Sousela,7.84,18.79,6.66
+2800,Torno,11.01,26.39,9.35
+2801,Vilar Do Torno E Alentem,5.88,14.09,4.99
+2802,Aguas Santas,1.48,3.55,1.26
+2803,Avioso (Sao Pedro),19.18,46.01,16.29
+2804,Avioso (Santa Maria),21.68,51.99,18.41
+2805,Barca,10.28,24.66,8.73
+2806,Folgosa,15.67,37.59,13.31
+2807,Gemunde,23.98,57.51,20.37
+2808,Gondim,9.3,22.29,7.9
+2809,Gueifaes,52.58,126.1,44.66
+2810,Maia,59.66,143.06,50.67
+2811,Milheiros,21.62,51.84,18.36
+2812,Moreira,60.72,145.62,51.58
+2813,Nogueira,29.15,69.91,24.76
+2814,Pedroucos,50.28,120.57,42.71
+2815,Sao Pedro Fins,7.79,18.67,6.61
+2816,Silva Escura,6.39,15.32,5.43
+2817,Vermoim,12.59,30.18,10.69
+2818,Vila Nova Da Telha,26.91,64.53,22.86
+2819,Alpendurada E Matos,22.56,54.11,19.17
+2820,Ariz,6.39,15.32,5.43
+2821,Avessadas,4.49,10.76,3.81
+2822,Banho E Carvalhosa,4.48,10.74,3.8
+2823,Constance,6.48,15.54,5.5
+2824,Favoes,4.42,10.59,3.75
+2825,Folhada,1.68,4.03,1.43
+2826,Fornos,4.64,11.12,3.94
+2827,Freixo,0.58,1.4,0.5
+2828,Magrelos,2.47,5.93,2.1
+2829,Manhuncelos,1.6,3.84,1.36
+2830,Maureles,1.48,3.55,1.26
+2831,Pacos De Gaiolo,2.99,7.16,2.54
+2832,Paredes De Viadores,4.25,10.18,3.61
+2833,Penha Longa,6.6,15.83,5.61
+2834,Rio De Galinhas,8.05,19.3,6.84
+2835,Rosem,0.75,1.81,0.64
+2836,Sao Lourenco Do Douro,3.43,8.23,2.91
+2837,Sao Nicolau,7.38,17.71,6.27
+2838,Sande,2.02,4.85,1.72
+2839,Santo Isidoro,16.5,39.56,14.01
+2840,Soalhaes,12.3,29.5,10.45
+2841,Sobretamega,4.07,9.77,3.46
+2842,Tabuado,5.09,12.21,4.32
+2843,Torrao,2.82,6.75,2.39
+2844,Toutosa,2.34,5.62,1.99
+2845,Tuias,18.71,44.87,15.89
+2846,Varzea Da Ovelha E Aliviada,7.92,18.99,6.72
+2847,Varzea Do Douro,8.26,19.81,7.02
+2848,Vila Boa De Quires,12.03,28.85,10.22
+2849,Vila Boa Do Bispo,10.86,26.05,9.23
+2850,Custoias,0.5,1.21,0.43
+2851,Guifoes,36.16,86.7,30.71
+2852,Lavra,45.02,107.96,38.24
+2853,Leca Da Palmeira,81.13,194.56,68.91
+2854,Leca Do Balio,77.47,185.78,65.8
+2855,Matosinhos,131.9,316.3,112.03
+2856,Perafita,55.61,133.36,47.24
+2857,Sao Mamede De Infesta,98.46,236.11,83.63
+2858,Santa Cruz Do Bispo,20.76,49.79,17.64
+2859,Senhora Da Hora,128.72,308.67,109.33
+2860,A Ver-O-Mar,37.22,89.26,31.62
+2861,Agucadoura,20,47.96,16.99
+2862,Amorim,11.8,28.3,10.02
+2863,Argivai,8.51,20.41,7.23
+2864,Balazar,1.91,4.58,1.62
+2865,Beiriz,15.6,37.42,13.25
+2866,Estela,10.27,24.63,8.72
+2867,Laundos,8.33,19.98,7.08
+2868,Navais,6.28,15.05,5.33
+2869,Povoa De Varzim,116.67,279.77,99.09
+2870,Rates,11.44,27.43,9.72
+2871,Terroso,10.41,24.97,8.84
+2872,Arreigada,7.47,17.92,6.35
+2873,Carvalhosa,21.12,50.64,17.94
+2874,Codessos,4.92,11.8,4.18
+2875,Eiriz,10.76,25.81,9.14
+2876,Ferreira,0.3,0.72,0.26
+2877,Figueiro,11.73,28.13,9.96
+2878,Frazao,18.2,43.64,15.46
+2879,Freamunde,34.47,82.65,29.27
+2880,Lamoso,7.19,17.25,6.11
+2881,Meixomil,16.45,39.44,13.97
+2882,Modelos,6.44,15.44,5.47
+2883,Pacos De Ferreira,33.63,80.65,28.57
+2884,Penamaior,17.21,41.28,14.62
+2885,Raimonda,11.97,28.71,10.17
+2886,Sanfins De Ferreira,13.63,32.69,11.58
+2887,Seroa,16.4,39.32,13.93
+2888,Aguiar De Sousa,6.32,15.15,5.37
+2889,Astromil,4.72,11.31,4.01
+2890,Baltar,21.31,51.1,18.1
+2891,Beire,8.74,20.96,7.43
+2892,Besteiros,2.3,5.52,1.96
+2893,Bitaraes,13.22,31.7,11.23
+2894,Casteloes De Cepeda,41.14,98.65,34.94
+2895,Cete,13.56,32.52,11.52
+2896,Cristelo,8.53,20.46,7.25
+2897,Duas Igrejas,3.93,9.43,3.34
+2898,Gandra,6.02,14.43,5.11
+2899,Gondalaes,5.4,12.95,4.59
+2900,Lordelo,17.72,42.48,15.05
+2901,Louredo,5.57,13.37,4.73
+2902,Madalena,1.89,4.54,1.61
+2903,Mouriz,12.54,30.08,10.66
+2904,Parada De Todeia,7.89,18.91,6.7
+2905,Rebordosa,38.03,91.19,32.3
+2906,Recarei,18.88,45.28,16.04
+2907,Sobreira,18.13,43.47,15.4
+2908,Sobrosa,10.55,25.31,8.96
+2909,Vandoma,9.93,23.81,8.43
+2910,Vila Cova De Carros,2.62,6.27,2.22
+2911,Vilela,0.92,2.2,0.78
+2912,Abragao,8.08,19.37,6.86
+2913,Boelhe,5.98,14.33,5.08
+2914,Bustelo,1.8,4.32,1.53
+2915,Cabeca Santa,10.19,24.44,8.66
+2916,Canelas,3.03,7.26,2.57
+2917,Capela,4.17,10.01,3.55
+2918,Casteloes,0.97,2.32,0.82
+2919,Croca,7.82,18.74,6.64
+2920,Duas Igrejas,3.93,9.43,3.34
+2921,Eja,3.97,9.53,3.38
+2922,Figueira,1.47,3.52,1.25
+2923,Fonte Arcada,4.94,11.85,4.2
+2924,Galegos,1.86,4.46,1.58
+2925,Guilhufe,13.67,32.79,11.61
+2926,Irivo,9.15,21.95,7.78
+2927,Lagares,5.48,13.15,4.66
+2928,Luzim,2.99,7.16,2.54
+2929,Marecos,4.91,11.77,4.17
+2930,Milhundos,8.24,19.76,7
+2931,Novelas,7.75,18.58,6.58
+2932,Oldroes,7.99,19.15,6.78
+2933,Paco De Sousa,16.41,39.35,13.94
+2934,Paredes,5.08,12.18,4.32
+2935,Penafiel,39.25,94.13,33.34
+2936,Perozelo,5.69,13.65,4.84
+2937,Pinheiro,5.42,13,4.61
+2938,Portela,0.52,1.25,0.44
+2939,Rans,8.59,20.6,7.3
+2940,Recezinhos (Sao Mamede),5.52,13.24,4.69
+2941,Recezinhos (Sao Martinho),7.52,18.05,6.39
+2942,Rio De Moinhos,2.58,6.18,2.19
+2943,Rio Mau,2.21,5.31,1.88
+2944,Santa Marta,6.39,15.32,5.43
+2945,Santiago De Subarrifana,4.48,10.74,3.8
+2946,Sebolido,3.71,8.9,3.15
+2947,Urro,3.98,9.55,3.38
+2948,Valpedre,6.8,16.31,5.78
+2949,Vila Cova,8.79,21.08,7.47
+2950,Aldoar,48.38,116.02,41.09
+2951,Bonfim,88.52,212.27,75.19
+2952,Campanha,103.81,248.94,88.17
+2953,Cedofeita,87.06,208.77,73.95
+2954,Foz Do Douro,44.56,106.85,37.84
+2955,Lordelo Do Ouro,84.78,203.3,72.01
+2956,Massarelos,28.2,67.62,23.95
+2957,Miragaia,7.46,17.9,6.34
+2958,Nevogilde,1.24,2.97,1.05
+2959,Paranhos,0.32,0.77,0.27
+2960,Ramalde,153.73,368.65,130.57
+2961,Sao Nicolau,7.38,17.71,6.27
+2962,Se,4.21,10.08,3.57
+2963,Santo Ildefonso,32.31,77.49,27.45
+2964,Vitoria,5.7,13.68,4.84
+2965,agua Longa,9.52,22.82,8.08
+2966,Agrela,0.63,1.52,0.54
+2967,Areias,4.4,10.54,3.73
+2968,Aves,34.16,81.93,29.02
+2969,Burgaes,8.91,21.37,7.57
+2970,Campo (Sao Martinho),14.7,35.25,12.48
+2971,Carreira,6.7,16.07,5.69
+2972,Couto (Sao Miguel),5.34,12.81,4.54
+2973,Couto (Santa Cristina),16.7,40.05,14.18
+2974,Guimarei,3.29,7.89,2.79
+2975,Lama,5.35,12.83,4.55
+2976,Lamelas,3.9,9.36,3.32
+2977,Monte Cordova,17.43,41.81,14.81
+2978,Negrelos (Sao Mamede),9.07,21.76,7.71
+2979,Negrelos (Sao Tome),15.64,37.51,13.29
+2980,Palmeira,25.3,60.67,21.49
+2981,Rebordoes,12.92,30.98,10.97
+2982,Refojos De Riba De Ave,3.98,9.55,3.38
+2983,Reguenga,6.54,15.68,5.55
+2984,Roriz,9.04,21.69,7.68
+2985,Sao Salvador Do Campo,5.11,12.26,4.34
+2986,Santo Tirso,59.46,142.6,50.51
+2987,Sequeiro,5.51,13.22,4.68
+2988,Vilarinho,1.54,3.69,1.31
+2989,Alvarelhos,13.8,33.1,11.72
+2990,Bougado (Sao Martinho),66.8,160.19,56.74
+2991,Bougado (Santiago),27.51,65.98,23.37
+2992,Coronado (Sao Mamede),18.37,44.05,15.6
+2993,Coronado (Sao Romao),21.11,50.61,17.93
+2994,Covelas,1.97,4.73,1.67
+2995,Guidoes,7.22,17.32,6.14
+2996,Muro,8.36,20.05,7.1
+2997,Alfena,64.72,155.19,54.97
+2998,Campo,4.13,9.92,3.51
+2999,Ermesinde,161.95,388.36,137.55
+3000,Sobrado,11.38,27.28,9.66
+3001,Valongo,0.89,2.12,0.75
+3002,arvore,22.63,54.26,19.22
+3003,Arcos,25.7,61.64,21.83
+3004,Aveleda,9.55,22.89,8.11
+3005,Azurara,9.88,23.69,8.39
+3006,Bagunte,6.52,15.63,5.54
+3007,Canidelo,4.02,9.65,3.42
+3008,Fajozes,6.26,15.01,5.31
+3009,Ferreiro,2.88,6.9,2.44
+3010,Fornelo,5.72,13.73,4.86
+3011,Giao,7.6,18.21,6.45
+3012,Guilhabreu,10.56,25.33,8.97
+3013,Junqueira,3.7,8.88,3.14
+3014,Labruge,12.78,30.64,10.85
+3015,Macieira Da Maia,10.28,24.66,8.73
+3016,Malta,6.56,15.73,5.57
+3017,Mindelo,15.15,36.33,12.87
+3018,Modivas,7.7,18.46,6.54
+3019,Mosteiro,9.59,22.99,8.14
+3020,Outeiro Maior,1.84,4.41,1.56
+3021,Parada,0.33,0.8,0.28
+3022,Retorta,5.07,12.16,4.31
+3023,Rio Mau,2.21,5.31,1.88
+3024,Tougues,4.09,9.82,3.48
+3025,Touguinho,6.12,14.67,5.2
+3026,Touguinha,8.54,20.48,7.25
+3027,Vairao,5.5,13.2,4.67
+3028,Vila Cha,18.69,44.82,15.88
+3029,Vila Do Conde,121.78,292.03,103.43
+3030,Vilar De Pinheiro,10.88,26.1,9.25
+3031,Vilar,0.34,0.82,0.29
+3032,Arcozelo,57.55,138.02,48.88
+3033,Avintes,44.73,107.26,37.99
+3034,Canelas,3.03,7.26,2.57
+3035,Canidelo,4.02,9.65,3.42
+3036,Crestuma,10.52,25.23,8.94
+3037,Grijo,1.16,2.77,0.98
+3038,Gulpilhares,50.34,120.72,42.76
+3039,Lever,11.41,27.36,9.69
+3040,Madalena,1.89,4.54,1.61
+3041,Mafamude,162.48,389.64,138.01
+3042,Olival,22.8,54.67,19.36
+3043,Oliveira Do Douro,90.47,216.95,76.84
+3044,Pedroso,76.81,184.19,65.24
+3045,Perosinho,25.77,61.81,21.89
+3046,Sao Felix Da Marinha,53.6,128.54,45.53
+3047,Sao Pedro Da Afurada,15.59,37.39,13.24
+3048,Sandim,22.55,54.09,19.16
+3049,Seixezelo,6.97,16.72,5.92
+3050,Sermonde,4.89,11.72,4.15
+3051,Serzedo,5.64,13.53,4.79
+3052,Valadares,2.53,6.06,2.14
+3053,Vila Nova De Gaia (Santa Marinha),126.32,302.93,107.3
+3054,Vilar De Andorinho,71.35,171.09,60.6
+3055,Vilar Do Paraiso,60.69,145.54,51.55
+3056,Abrantes (Sao Joao),6.3,15.1,5.35
+3057,Abrantes (Sao Vicente),52.45,125.79,44.55
+3058,Aldeia Do Mato,0.91,2.17,0.77
+3059,Alferrarede,15.28,36.65,12.98
+3060,Alvega,4.06,9.75,3.45
+3061,Bemposta,1.89,4.54,1.61
+3062,Carvalhal,6.04,14.47,5.13
+3063,Concavada,2.08,4.99,1.77
+3064,Fontes,1.24,2.97,1.05
+3065,Martinchel,1.67,4,1.42
+3066,Mouriscas,4.97,11.92,4.22
+3067,Pego,9.02,21.64,7.66
+3068,Rio De Moinhos,2.58,6.18,2.19
+3069,Rossio Ao Sul Do Tejo,7.65,18.33,6.49
+3070,Sao Facundo,2.92,7,2.48
+3071,Sao Miguel Do Rio Torto,9.32,22.34,7.91
+3072,Souto,19.28,46.22,16.37
+3073,Tramagal,11.7,28.06,9.94
+3074,Vale De Mos,1.93,4.63,1.64
+3075,Alcanena,18.62,44.65,15.82
+3076,Bugalhos,4.42,10.59,3.75
+3077,Espinheiro,1.91,4.58,1.62
+3078,Louriceira,2.18,5.24,1.85
+3079,Malhou,3.1,7.43,2.63
+3080,Minde,13.96,33.48,11.86
+3081,Moitas Venda,3.48,8.35,2.96
+3082,Monsanto,1.36,3.26,1.15
+3083,Serra De Santo Antonio,3.1,7.43,2.63
+3084,Vila Moreira,4.08,9.79,3.47
+3085,Almeirim,53.48,128.25,45.42
+3086,Benfica Do Ribatejo,11.62,27.86,9.87
+3087,Fazendas De Almeirim,27.37,65.64,23.25
+3088,Raposa,2.11,5.07,1.79
+3089,Alpiarca,29.8,71.46,25.31
+3090,Barrosa,3.07,7.36,2.61
+3091,Benavente,39.24,94.11,33.33
+3092,Samora Correia,77.66,186.24,65.97
+3093,Santo Estevao,0.25,0.6,0.21
+3094,Cartaxo,51.4,123.25,43.66
+3095,Ereira,2.61,6.25,2.21
+3096,Lapa,33.27,79.78,28.26
+3097,Pontevel,18.07,43.33,15.35
+3098,Valada,2.92,7,2.48
+3099,Vale Da Pedra,6.88,16.5,5.84
+3100,Vale Da Pinta,5.28,12.67,4.49
+3101,Vila Cha De Ourique,11.84,28.39,10.06
+3102,Carregueira,7.56,18.12,6.42
+3103,Chamusca,13.78,33.05,11.71
+3104,Chouto,2.16,5.19,1.84
+3105,Parreira,4.06,9.75,3.45
+3106,Pinheiro Grande,3.68,8.83,3.13
+3107,Ulme,5.05,12.11,4.29
+3108,Vale De Cavalos,3.48,8.35,2.96
+3109,Constancia,4.18,10.04,3.55
+3110,Montalvo,5.47,13.12,4.65
+3111,Santa Margarida Da Coutada,6.89,16.53,5.85
+3112,Biscainho,4.42,10.59,3.75
+3113,Branca,24.63,59.06,20.92
+3114,Coruche,0.4,0.96,0.34
+3115,Couco,8.6,20.63,7.31
+3116,Erra,3.81,9.14,3.24
+3117,Fajarda,6.98,16.74,5.93
+3118,Sao Jose Da Lamarosa,6.61,15.85,5.61
+3119,Santana Do Mato,4.58,10.98,3.89
+3120,Nossa Senhora De Fatima,8.39,20.12,7.13
+3121,Sao Joao Baptista,15.47,37.1,13.14
+3122,Aguas Belas,0.5,1.21,0.43
+3123,Areias,4.4,10.54,3.73
+3124,Beco,3.1,7.43,2.63
+3125,Chaos,1.56,3.74,1.32
+3126,Dornes,1.93,4.63,1.64
+3127,Ferreira Do Zezere,10.45,25.07,8.88
+3128,Igreja Nova Do Sobral,1.88,4.51,1.6
+3129,Paio Mendes,1.97,4.73,1.67
+3130,Pias,8.95,21.47,7.6
+3131,Azinhaga,5.84,14.02,4.96
+3132,Golega,15.74,37.75,13.37
+3133,Aboboreira,1.5,3.59,1.27
+3134,Amendoa,1.56,3.74,1.32
+3135,Cardigos,2.72,6.51,2.31
+3136,Carvoeiro,10.27,24.63,8.72
+3137,Envendos,2.65,6.34,2.25
+3138,Macao,8.38,20.1,7.12
+3139,Ortiga,1.65,3.96,1.4
+3140,Penhascoso,2.4,5.77,2.04
+3141,Alburitel,4.75,11.39,4.03
+3142,Atouguia,10.19,24.44,8.66
+3143,Casal Dos Bernardos,3.01,7.21,2.55
+3144,Caxarias,8.96,21.49,7.61
+3145,Cercal,1.88,4.51,1.6
+3146,Espite,3.44,8.25,2.92
+3147,Fatima,51.89,124.43,44.07
+3148,Formigais,1.27,3.04,1.08
+3149,Freixianda,8.65,20.75,7.35
+3150,Gondemaria,4.86,11.65,4.13
+3151,Matas,3.86,9.26,3.28
+3152,Nossa Senhora Da Piedade,33.53,80.41,28.48
+3153,Nossa Senhora Das Misericordias,21.25,50.95,18.05
+3154,Olival,22.8,54.67,19.36
+3155,Ribeira Do Farrio,2.93,7.02,2.49
+3156,Rio De Couros,7.15,17.15,6.08
+3157,Seica,7.97,19.11,6.77
+3158,Urqueira,6.91,16.57,5.87
+3159,Alcobertas,8.23,19.73,6.99
+3160,Arrouquelas,1.98,4.75,1.68
+3161,Arruda Dos Pisoes,1.45,3.47,1.23
+3162,Asseiceira,4.41,10.57,3.74
+3163,Assentiz,1.66,3.98,1.41
+3164,Azambujeira,1.86,4.46,1.58
+3165,Fraguas,3.3,7.91,2.8
+3166,Malaqueijo,1.68,4.03,1.43
+3167,Marmeleira,1.55,3.72,1.32
+3168,Outeiro Da Corticada,2.5,6.01,2.13
+3169,Ribeira De Sao Joao,1.88,4.51,1.6
+3170,Rio Maior,52.99,127.06,45.01
+3171,Sao Joao Da Ribeira,3.64,8.73,3.09
+3172,Sao Sebastiao,2.03,4.87,1.73
+3173,Foros De Salvaterra,18.67,44.78,15.86
+3174,Gloria Do Ribatejo,11.28,27.04,9.58
+3175,Granho,3.57,8.56,3.03
+3176,Marinhais,24.02,57.61,20.4
+3177,Muge,5.02,12.04,4.26
+3178,Salvaterra De Magos,21.25,50.95,18.05
+3179,Abitureiras,3.8,9.12,3.23
+3180,Abra,4.88,11.7,4.14
+3181,Achete,7.32,17.56,6.22
+3182,Alcanede,18.59,44.58,15.79
+3183,Alcanhoes,5.33,12.79,4.53
+3184,Almoster,1.75,4.2,1.49
+3185,Amiais De Baixo,7.78,18.65,6.61
+3186,Arneiro Das Milharicas,3.04,7.29,2.58
+3187,Azoia De Baixo,0.9,2.15,0.76
+3188,Azoia De Cima,1.92,4.61,1.63
+3189,Casevel,1.35,3.23,1.14
+3190,Gancaria,2.23,5.36,1.9
+3191,Mocarria,4.81,11.53,4.08
+3192,Povoa Da Isenta,4.18,10.04,3.55
+3193,Povoa De Santarem,2.55,6.1,2.16
+3194,Pernes,5.57,13.37,4.73
+3195,Pombalinho,2.29,5.5,1.95
+3196,Romeira,3.04,7.29,2.58
+3197,Sao Vicente Do Paul,6.9,16.55,5.86
+3198,Santa Iria Da Ribeira De Santarem,2.3,5.52,1.96
+3199,Santarem (Marvila),34.6,82.96,29.39
+3200,Santarem (Sao Nicolau),43.86,105.18,37.26
+3201,Santarem (Sao Salvador),49.82,119.46,42.31
+3202,Tremes,7.5,18,6.37
+3203,Varzea,2.5,6.01,2.13
+3204,Vale De Figueira,3.79,9.09,3.22
+3205,Vale De Santarem,11.54,27.67,9.8
+3206,Vaqueiros,1.36,3.26,1.15
+3207,Alcaravela,3.33,7.99,2.83
+3208,Santiago De Montalegre,0.53,1.28,0.45
+3209,Sardoal,8.97,21.52,7.62
+3210,Valhascos,1.35,3.23,1.14
+3211,Alem Da Ribeira,2.67,6.39,2.26
+3212,Alviobeira,2.19,5.26,1.86
+3213,Asseiceira,4.41,10.57,3.74
+3214,Beselga,2.52,6.03,2.14
+3215,Carregueiros,4.3,10.3,3.65
+3216,Casais,6.59,15.8,5.6
+3217,Junceira,2.86,6.85,2.43
+3218,Madalena,1.89,4.54,1.61
+3219,Olalhas,4.05,9.72,3.44
+3220,Paialvo,8.49,20.36,7.21
+3221,Pedreira,7.55,18.09,6.41
+3222,Sao Pedro De Tomar,10.23,24.53,8.69
+3223,Sabacheira,2.91,6.97,2.47
+3224,Santa Maria Dos Olivais,209.16,501.57,177.65
+3225,Serra,3.29,7.89,2.79
+3226,Tomar (Sao Joao Baptista),21.1,50.59,17.92
+3227,Alcorochel,3.09,7.41,2.62
+3228,Assentiz,1.66,3.98,1.41
+3229,Brogueira,4.63,11.1,3.93
+3230,Chancelaria,1.4,3.35,1.19
+3231,Lapas,11.79,28.27,10.01
+3232,Meia Via,6.88,16.5,5.84
+3233,Olaia,6.13,14.69,5.2
+3234,Paco,2.72,6.51,2.31
+3235,Parceiros De Igreja,3.44,8.25,2.92
+3236,Pedrogao,3.62,8.68,3.08
+3237,Riachos,21.97,52.69,18.66
+3238,Ribeira Branca,2.57,6.15,2.18
+3239,Torres Novas (Sao Pedro),22.47,53.89,19.09
+3240,Torres Novas (Salvador),8.55,20.51,7.26
+3241,Torres Novas (Santa Maria),23.33,55.94,19.82
+3242,Torres Novas (Santiago),3.88,9.31,3.3
+3243,Zibreira,4.46,10.69,3.79
+3244,Atalaia,0.15,0.36,0.13
+3245,Moita Do Norte,8.01,19.2,6.8
+3246,Praia Do Ribatejo,5.5,13.2,4.67
+3247,Tancos,0.77,1.86,0.66
+3248,Vila Nova Da Barquinha,6.73,16.14,5.72
+3249,Alcacer Do Sal (Santa Maria Do Castelo),17.54,42.07,14.9
+3250,Alcacer Do Sal (Santiago),19.23,46.13,16.34
+3251,Comporta,5.56,13.34,4.73
+3252,Sao Martinho,2.23,5.36,1.9
+3253,Santa Susana,1.06,2.53,0.9
+3254,Torrao,2.82,6.75,2.39
+3255,Alcochete,56.3,135,47.82
+3256,Sao Francisco,10.09,24.2,8.57
+3257,Samouco,14.19,34.04,12.06
+3258,Almada,60.01,143.9,50.97
+3259,Cacilhas,22.02,52.81,18.7
+3260,Caparica,82.3,197.36,69.9
+3261,Charneca De Caparica,133.45,320.01,113.35
+3262,Costa Da Caparica,57.98,139.03,49.24
+3263,Cova Da Piedade,77.43,185.69,65.77
+3264,Feijo,83.39,199.97,70.83
+3265,Laranjeiro,80.56,193.19,68.43
+3266,Pragal,29.55,70.85,25.1
+3267,Sobreda,67.05,160.79,56.95
+3268,Trafaria,18.91,45.35,16.06
+3269,Alto Do Seixalinho,74.53,178.74,63.31
+3270,Barreiro,27.55,66.08,23.4
+3271,Coina,6.59,15.8,5.6
+3272,Lavradio,60.07,144.05,51.02
+3273,Palhais,0.5,1.21,0.43
+3274,Santo Andre,47.57,114.09,40.41
+3275,Santo Antonio Da Charneca,47.27,113.36,40.15
+3276,Verderena,38.34,91.94,32.56
+3277,Azinheira Dos Barros E Sao Mamede Do Sadao,2.44,5.86,2.08
+3278,Carvalhal,6.04,14.47,5.13
+3279,Grandola,42.5,101.93,36.1
+3280,Melides,6.11,14.64,5.19
+3281,Santa Margarida Da Serra,0.51,1.23,0.44
+3282,Alhos Vedros,64.21,153.99,54.54
+3283,Baixa Da Banheira,79.4,190.42,67.44
+3284,Gaio-Rosario,5,11.99,4.25
+3285,Moita,10.41,24.97,8.84
+3286,Sarilhos Pequenos,4.63,11.1,3.93
+3287,Vale Da Amoreira,32.89,78.86,27.93
+3288,Afonsoeiro,35.85,85.98,30.45
+3289,Alto-Estanqueiro-Jardia,10.85,26.03,9.22
+3290,Atalaia,0.15,0.36,0.13
+3291,Canha,6.82,16.36,5.79
+3292,Montijo,134.57,322.71,114.3
+3293,Pegoes,10.13,24.29,8.6
+3294,Santo Isidro De Pegoes,6.76,16.21,5.74
+3295,Sarilhos Grandes,14.07,33.75,11.95
+3296,Marateca,14.48,34.72,12.3
+3297,Palmela,72.45,173.75,61.54
+3298,Pinhal Novo,111.49,267.35,94.69
+3299,Poceirao,18.87,45.26,16.03
+3300,Quinta Do Anjo,51.27,122.94,43.54
+3301,Abela,3.19,7.65,2.71
+3302,Alvalade,36.12,86.61,30.68
+3303,Cercal,1.88,4.51,1.6
+3304,Ermidas-Sado,8.29,19.88,7.04
+3305,Sao Bartolomeu Da Serra,1.5,3.59,1.27
+3306,Sao Domingos,3.03,7.26,2.57
+3307,Sao Francisco Da Serra,2.89,6.92,2.45
+3308,Santa Cruz,1.91,4.58,1.62
+3309,Santiago Do Cacem,34.89,83.66,29.63
+3310,Santo Andre,47.57,114.09,40.41
+3311,Vale De Agua,2.03,4.87,1.73
+3312,Aldeia De Paio Pires,61.82,148.25,52.51
+3313,Amora,204.27,489.85,173.5
+3314,Arrentela,125.32,300.52,106.44
+3315,Corroios,218.39,523.72,185.5
+3316,Fernao Ferro,70.05,167.98,59.5
+3317,Seixal,12.85,30.81,10.91
+3318,Quinta Do Conde,118.45,284.04,100.61
+3319,Sesimbra (Castelo),82.98,198.98,70.48
+3320,Sesimbra (Santiago),18.53,44.44,15.74
+3321,Gambia-Pontes-Alto Da Guerra,26.45,63.42,22.46
+3322,Sao Lourenco,18.49,44.34,15.71
+3323,Sao Simao,0.13,0.31,0.11
+3324,Sado,24.66,59.13,20.94
+3325,Setubal (Nossa Senhora Da Anunciada),49.85,119.54,42.34
+3326,Setubal (Sao Juliao),68.86,165.13,58.49
+3327,Setubal (Sao Sebastiao),214.54,514.48,182.23
+3328,Setubal (Santa Maria Da Graca),30.31,72.69,25.75
+3329,Porto Covo,4.33,10.37,3.67
+3330,Sines,61.54,147.57,52.27
+3331,azere,2.16,5.19,1.84
+3332,Aboim Das Chocas,1.2,2.87,1.02
+3333,Aguia,2.3,5.52,1.96
+3334,Alvora,0.55,1.33,0.47
+3335,Arcos De Valdevez (Sao Paio),5.22,12.52,4.43
+3336,Arcos De Valdevez (Sao Salvador),4.9,11.75,4.16
+3337,Cabana Maior,0.39,0.94,0.33
+3338,Cabreiro,0.98,2.34,0.83
+3339,Carralcova,0.5,1.21,0.43
+3340,Cendufe,1.36,3.26,1.15
+3341,Couto,1.52,3.64,1.29
+3342,Eiras,55.84,133.92,47.43
+3343,Ermelo,0.11,0.27,0.09
+3344,Extremo,0.43,1.04,0.37
+3345,Gavieira,0.75,1.81,0.64
+3346,Giela,1.9,4.56,1.61
+3347,Gondoriz,0.72,1.74,0.62
+3348,Grade,0.78,1.88,0.67
+3349,Guilhadeses,3.95,9.48,3.36
+3350,Jolda (Madalena),1.1,2.63,0.93
+3351,Jolda (Sao Paio),1.29,3.09,1.09
+3352,Loureda,0.44,1.06,0.38
+3353,Mei,0.31,0.75,0.26
+3354,Miranda,0.56,1.35,0.48
+3355,Monte Redondo,19.17,45.98,16.29
+3356,Oliveira,4.23,10.13,3.59
+3357,Paco,4.13,9.92,3.51
+3358,Padreiro (Salvador),0.96,2.29,0.81
+3359,Padreiro (Santa Cristina),0.11,0.27,0.09
+3360,Padroso,0.51,1.23,0.44
+3361,Parada,0.33,0.8,0.28
+3362,Portela,0.52,1.25,0.44
+3363,Prozelo,3.19,7.65,2.71
+3364,Rio Cabrao,0.34,0.82,0.29
+3365,Rio De Moinhos,2.58,6.18,2.19
+3366,Rio Frio,0.58,1.4,0.5
+3367,Sa,0.47,1.13,0.4
+3368,Sao Cosme E Sao Damiao,0.53,1.28,0.45
+3369,Sao Jorge,1.71,4.1,1.45
+3370,Sabadim,1.19,2.85,1.01
+3371,Santar,0.59,1.42,0.5
+3372,Senharei,0.47,1.13,0.4
+3373,Sistelo,0.44,1.06,0.38
+3374,Soajo,1.32,3.16,1.12
+3375,Souto,19.28,46.22,16.37
+3376,Tavora (Sao Vicente),0.55,1.33,0.47
+3377,Tavora (Santa Maria),2.44,5.86,2.08
+3378,Tabaco,1.41,3.38,1.2
+3379,Vale,7.71,18.48,6.55
+3380,Vila Fonche,4.73,11.34,4.02
+3381,Vilela,0.92,2.2,0.78
+3382,Ancora,4.78,11.46,4.06
+3383,Arga De Baixo,0.19,0.46,0.16
+3384,Arga De Cima,0.12,0.29,0.1
+3385,Arga De Sao Joao,0.19,0.46,0.16
+3386,Argela,1.3,3.11,1.1
+3387,Azevedo,0.66,1.59,0.56
+3388,Caminha (Matriz),4.73,11.34,4.02
+3389,Cristelo,8.53,20.46,7.25
+3390,Dem,1.03,2.46,0.87
+3391,Gondar,12.14,29.12,10.31
+3392,Lanhelas,3.72,8.93,3.16
+3393,Moledo,1.83,4.39,1.56
+3394,Orbacem,0.78,1.88,0.67
+3395,Riba De Ancora,2.6,6.22,2.2
+3396,Seixas,0.95,2.27,0.8
+3397,Venade,2.99,7.16,2.54
+3398,Vila Praia De Ancora,18.77,45.02,15.94
+3399,Vilar De Mouros,2.71,6.49,2.3
+3400,Vilarelho,4.77,11.44,4.05
+3401,Vile,1.15,2.75,0.97
+3402,Alvaredo,1.62,3.88,1.38
+3403,Castro Laboreiro,1.44,3.45,1.22
+3404,Chaviaes,1.17,2.8,0.99
+3405,Cousso,0.49,1.18,0.42
+3406,Cristoval,1.11,2.65,0.94
+3407,Cubalhao,0.2,0.48,0.17
+3408,Fiaes,31.83,76.33,27.04
+3409,Gave,0.37,0.89,0.32
+3410,Lamas De Mouro,0.29,0.7,0.25
+3411,Pacos,0.74,1.79,0.63
+3412,Paderne,12.9,30.93,10.95
+3413,Parada Do Monte,0.74,1.79,0.63
+3414,Penso,1.45,3.47,1.23
+3415,Prado,1.41,3.38,1.2
+3416,Remoaes,0.29,0.7,0.25
+3417,Roussas,3.52,8.44,2.99
+3418,Sao Paio,2.31,5.55,1.97
+3419,Vila,6.02,14.43,5.11
+3420,Abedim,0.71,1.71,0.61
+3421,Anhoes,0.21,0.51,0.18
+3422,Badim,0.38,0.92,0.32
+3423,Barbeita,3.62,8.68,3.08
+3424,Barrocas E Taias,1,2.39,0.85
+3425,Bela,2.02,4.85,1.72
+3426,Cambeses,5.38,12.91,4.57
+3427,Ceivaes,1.39,3.33,1.18
+3428,Cortes,13.52,32.42,11.48
+3429,Lapela,0.62,1.5,0.53
+3430,Lara,0.83,2,0.71
+3431,Longos Vales,3.14,7.53,2.67
+3432,Lordelo,17.72,42.48,15.05
+3433,Luzio,0.25,0.6,0.21
+3434,Mazedo,7.94,19.03,6.74
+3435,Merufe,3.09,7.41,2.62
+3436,Messegaes,0.73,1.76,0.62
+3437,Moncao,9.84,23.59,8.36
+3438,Moreira,60.72,145.62,51.58
+3439,Parada,0.33,0.8,0.28
+3440,Pias,8.95,21.47,7.6
+3441,Pinheiros,1.21,2.89,1.03
+3442,Podame,0.88,2.1,0.74
+3443,Portela,0.52,1.25,0.44
+3444,Riba De Mouro,2.11,5.07,1.79
+3445,Sa,0.47,1.13,0.4
+3446,Sago,0.52,1.25,0.44
+3447,Segude,1.16,2.77,0.98
+3448,Tangil,1.88,4.51,1.6
+3449,Troporiz,0.89,2.12,0.75
+3450,Troviscoso,3.68,8.83,3.13
+3451,Trute,0.96,2.29,0.81
+3452,Valadares,2.53,6.06,2.14
+3453,Agualonga,0.96,2.29,0.81
+3454,Bico,3.47,8.32,2.95
+3455,Castanheira,0.3,0.72,0.26
+3456,Cossourado,3.37,8.08,2.86
+3457,Coura,1.14,2.73,0.97
+3458,Cristelo,8.53,20.46,7.25
+3459,Cunha,2.92,7,2.48
+3460,Ferreira,0.3,0.72,0.26
+3461,Formariz,2.21,5.31,1.88
+3462,Infesta,0.98,2.34,0.83
+3463,Insalde,1.08,2.58,0.91
+3464,Linhares,0.83,2,0.71
+3465,Mozelos,33.35,79.97,28.33
+3466,Padornelo,1.64,3.93,1.39
+3467,Parada,0.33,0.8,0.28
+3468,Paredes De Coura,6.78,16.26,5.76
+3469,Porreiras,0.39,0.94,0.33
+3470,Resende,2.01,4.82,1.71
+3471,Romarigaes,0.75,1.81,0.64
+3472,Rubiaes,1.59,3.81,1.35
+3473,Vascoes,0.78,1.88,0.67
+3474,Azias,0.76,1.83,0.65
+3475,Boivaes,0.66,1.59,0.56
+3476,Bravaes,2.25,5.4,1.91
+3477,Britelo,10.02,24.03,8.51
+3478,Crasto,1.35,3.23,1.14
+3479,Cuide De Vila Verde,1.18,2.82,1
+3480,Entre Ambos-Os-Rios,1.31,3.14,1.11
+3481,Ermida,0.91,2.17,0.77
+3482,Germil,0.12,0.29,0.1
+3483,Grovelas,0.46,1.11,0.39
+3484,Lavradas,3.03,7.26,2.57
+3485,Lindoso,1.04,2.48,0.88
+3486,Nogueira,29.15,69.91,24.76
+3487,Oleiros,1.94,4.66,1.65
+3488,Paco Vedro De Magalhaes,3.92,9.41,3.33
+3489,Ponte Da Barca,9.74,23.35,8.27
+3490,Ruivos,0.53,1.28,0.45
+3491,Sampriz,0.66,1.59,0.56
+3492,Touvedo (Sao Lourenco),0.57,1.38,0.49
+3493,Touvedo (Salvador),0.44,1.06,0.38
+3494,Vade (Sao Pedro),1.11,2.65,0.94
+3495,Vade (Sao Tome),0.94,2.24,0.79
+3496,Vila Cha (Sao Joao Baptista),1.08,2.58,0.91
+3497,Vila Cha (Santiago),0.36,0.87,0.31
+3498,Vila Nova De Muia,3.62,8.68,3.08
+3499,Anais,3.9,9.36,3.32
+3500,Arca,3.94,9.46,3.35
+3501,Arcos,25.7,61.64,21.83
+3502,Arcozelo,57.55,138.02,48.88
+3503,Ardegao,1.03,2.46,0.87
+3504,Barrio,6.04,14.47,5.13
+3505,Beiral Do Lima,1.73,4.15,1.47
+3506,Bertiandos,1.65,3.96,1.4
+3507,Boalhosa,0.45,1.09,0.38
+3508,Brandara,1.8,4.32,1.53
+3509,Cabacos,2.31,5.55,1.97
+3510,Cabracao,0.2,0.48,0.17
+3511,Calheiros,3.77,9.05,3.2
+3512,Calvelo,2.49,5.98,2.12
+3513,Cepoes,2.33,5.6,1.98
+3514,Correlha,11.64,27.91,9.89
+3515,Estoraos,5.91,14.16,5.02
+3516,Facha,6.08,14.57,5.16
+3517,Feitosa,6.78,16.26,5.76
+3518,Fojo Lobal,0.87,2.07,0.73
+3519,Fontao,4.77,11.44,4.05
+3520,Fornelos,3.64,8.73,3.09
+3521,Freixo,0.58,1.4,0.5
+3522,Friastelas,1.47,3.52,1.25
+3523,Gaifar,0.82,1.98,0.7
+3524,Gandra,6.02,14.43,5.11
+3525,Gemieira,2.09,5.02,1.78
+3526,Gondufe,1.5,3.59,1.27
+3527,Labrujo,0.44,1.06,0.38
+3528,Labruja,1.68,4.03,1.43
+3529,Mato,1.13,2.7,0.96
+3530,Moreira Do Lima,3.09,7.41,2.62
+3531,Navio,0.8,1.93,0.68
+3532,Poiares,1.22,2.92,1.03
+3533,Ponte De Lima,11.91,28.56,10.12
+3534,Queijada,0.98,2.34,0.83
+3535,Rebordoes (Santa Maria),4.35,10.42,3.69
+3536,Rebordoes (Souto),4.27,10.23,3.62
+3537,Refoios Do Lima,7.2,17.27,6.12
+3538,Rendufe,4.67,11.19,3.96
+3539,Ribeira,0.74,1.79,0.63
+3540,Sa,0.47,1.13,0.4
+3541,Sandiaes,1.55,3.72,1.32
+3542,Santa Comba,3.02,7.24,2.56
+3543,Santa Cruz Do Lima,1.75,4.2,1.49
+3544,Seara,3.11,7.45,2.64
+3545,Serdedelo,1.23,2.94,1.04
+3546,Vilar Das Almas,0.96,2.29,0.81
+3547,Vilar Do Monte,3.35,8.03,2.85
+3548,Vitorino Das Donas,4.38,10.49,3.72
+3549,Vitorino Dos Piaes,5.46,13.1,4.64
+3550,Arao,2.68,6.42,2.27
+3551,Boivao,0.51,1.23,0.44
+3552,Cerdal,5.96,14.28,5.06
+3553,Cristelo Covo,3.68,8.83,3.13
+3554,Fontoura,2.54,6.08,2.15
+3555,Friestas,1.97,4.73,1.67
+3556,Gandra,6.02,14.43,5.11
+3557,Ganfei,5.08,12.18,4.32
+3558,Gondomil,0.88,2.1,0.74
+3559,Sao Juliao,0.79,1.91,0.68
+3560,Sao Pedro Da Torre,4.41,10.57,3.74
+3561,Sanfins,8.56,20.53,7.27
+3562,Silva,4.25,10.18,3.61
+3563,Taiao,0.48,1.16,0.41
+3564,Valenca,14.68,35.2,12.47
+3565,Verdoejo,2.39,5.74,2.03
+3566,Afife,6.5,15.58,5.52
+3567,Alvaraes,10.11,24.25,8.59
+3568,Amonde,1.03,2.46,0.87
+3569,Anha,9.45,22.65,8.02
+3570,Areosa,21.07,50.52,17.89
+3571,Barroselas,16.27,39.01,13.82
+3572,Cardielos,5.15,12.35,4.37
+3573,Carreco,6.95,16.67,5.9
+3574,Carvoeiro,10.27,24.63,8.72
+3575,Castelo Do Neiva,11.23,26.92,9.54
+3576,Chafe,12.59,30.18,10.69
+3577,Darque,31.6,75.78,26.84
+3578,Deao,3.82,9.17,3.25
+3579,Deocriste,3.14,7.53,2.67
+3580,Freixieiro De Soutelo,1.92,4.61,1.63
+3581,Geraz Do Lima (Santa Leocadia),3.31,7.94,2.81
+3582,Lanheses,6.23,14.93,5.29
+3583,Mazarefes,5.45,13.08,4.63
+3584,Meadela,44.92,107.72,38.15
+3585,Meixedo,0.53,1.28,0.45
+3586,Moreira De Geraz Do Lima,2.32,5.57,1.97
+3587,Mujaes,5.89,14.11,5
+3588,Neiva,5.03,12.06,4.27
+3589,Nogueira,29.15,69.91,24.76
+3590,Outeiro,4.17,10.01,3.55
+3591,Perre,12.81,30.71,10.88
+3592,Portela Susa,2.15,5.16,1.83
+3593,Santa Maria de Geraz Do Lima,3.37,8.08,2.86
+3594,Santa Marta De Portuzelo,16.25,38.96,13.8
+3595,Serreleis,4.25,10.18,3.61
+3596,Subportela,4.58,10.98,3.89
+3597,Torre,1.71,4.1,1.45
+3598,unknown-1,1.94,4.66,1.65
+3599,Viana Do Castelo (Monserrate),19.35,46.39,16.43
+3600,Viana Do Castelo (Santa Maria Maior),47.31,113.46,40.19
+3601,Vila De Punhe,8.47,20.31,7.19
+3602,Vila Franca,7.11,17.06,6.04
+3603,Vila Fria,2.92,7,2.48
+3604,Vila Mou,1.94,4.66,1.65
+3605,Vilar De Murteda,0.68,1.64,0.58
+3606,Campos,4.25,10.18,3.61
+3607,Candemil,2.16,5.19,1.84
+3608,Cornes,1.97,4.73,1.67
+3609,Covas,1.06,2.53,0.9
+3610,Gondarem,3.89,9.34,3.31
+3611,Gondar,12.14,29.12,10.31
+3612,Loivo,4.01,9.63,3.41
+3613,Lovelhe,1.81,4.34,1.54
+3614,Mentrestido,0.96,2.29,0.81
+3615,Nogueira,29.15,69.91,24.76
+3616,Reboreda,2.98,7.14,2.53
+3617,Sapardos,1.19,2.85,1.01
+3618,Sopo,2.31,5.55,1.97
+3619,Vila Mea,1.74,4.17,1.48
+3620,Vila Nova De Cerveira,5.91,14.16,5.02
+3621,Alijo,10.46,25.09,8.89
+3622,Amieiro,0.13,0.31,0.11
+3623,Carlao,1.92,4.61,1.63
+3624,Casal De Loivos,0.67,1.62,0.57
+3625,Castedo,0.63,1.52,0.54
+3626,Cotas,0.82,1.98,0.7
+3627,Favaios,4.2,10.06,3.56
+3628,Populo,0.58,1.4,0.5
+3629,Pegarinhos,1.28,3.06,1.09
+3630,Pinhao,2.82,6.75,2.39
+3631,Ribalonga,0.24,0.58,0.21
+3632,Sao Mamede De Ribatua,2.14,5.14,1.82
+3633,Sanfins Do Douro,4.84,11.6,4.11
+3634,Santa Eugenia,0.77,1.86,0.66
+3635,Vale De Mendiz,1,2.39,0.85
+3636,Vila Cha,18.69,44.82,15.88
+3637,Vila Verde,20.75,49.77,17.63
+3638,Vilar De Macada,2.66,6.37,2.26
+3639,Vilarinho De Cotas,0.57,1.38,0.49
+3640,Alturas Do Barroso,1.12,2.68,0.95
+3641,Ardaos,0.42,1.01,0.36
+3642,Beca,3.32,7.96,2.82
+3643,Bobadela,3.23,7.74,2.74
+3644,Boticas,5.29,12.69,4.49
+3645,Cerdedo,0.38,0.92,0.32
+3646,Codessoso,0.38,0.92,0.32
+3647,Covas Do Barroso,0.67,1.62,0.57
+3648,Curros,0.18,0.43,0.15
+3649,Dornelas,2.84,6.8,2.41
+3650,Fiaes Do Tamega,0.18,0.43,0.15
+3651,Granja,1.65,3.96,1.4
+3652,Pinho,1.01,2.41,0.85
+3653,Sao Salvador De Viveiro,0.68,1.64,0.58
+3654,Sapiaos,1.32,3.16,1.12
+3655,Vilar,0.34,0.82,0.29
+3656,Aguas Frias,1.91,4.58,1.62
+3657,Anelhe,1.15,2.75,0.97
+3658,Arcosso,0.99,2.36,0.84
+3659,Bobadela,3.23,7.74,2.74
+3660,Bustelo,1.8,4.32,1.53
+3661,Calvao,9.09,21.81,7.72
+3662,Cela,13.24,31.75,11.24
+3663,Cimo De Vila Da Castanheira,0.92,2.2,0.78
+3664,Curalha,1.43,3.43,1.21
+3665,Eiras,55.84,133.92,47.43
+3666,Ervededo,1.34,3.21,1.14
+3667,Faioes,2.95,7.07,2.5
+3668,Lama De Arcos,0.67,1.62,0.57
+3669,Loivos,1.58,3.79,1.34
+3670,Madalena,1.89,4.54,1.61
+3671,Mairos,0.89,2.12,0.75
+3672,Moreiras,0.61,1.47,0.52
+3673,Nogueira Da Montanha,1.33,3.18,1.13
+3674,Oucidres,0.43,1.04,0.37
+3675,Oura,1.64,3.93,1.39
+3676,Outeiro Seco,3.84,9.22,3.26
+3677,Povoa De Agracoes,0.11,0.27,0.09
+3678,Paradela,3.01,7.21,2.55
+3679,Redondelo,1.5,3.59,1.27
+3680,Roriz,9.04,21.69,7.68
+3681,Sao Juliao De Montenegro,0.75,1.81,0.64
+3682,Sao Pedro De Agostem,4.68,11.22,3.97
+3683,Sao Vicente,0.42,1.01,0.36
+3684,Samaioes,4.37,10.47,3.71
+3685,Sanfins,8.56,20.53,7.27
+3686,Sanjurge,1.07,2.56,0.91
+3687,Santa Cruz/Trindade,13.05,31.29,11.08
+3688,Santa Leocadia,0.61,1.47,0.52
+3689,Santa Maria Maior,48.34,115.92,41.06
+3690,Santo Antonio De Monforte,1.25,2.99,1.06
+3691,Santo Estevao,0.25,0.6,0.21
+3692,Seara Velha,0.53,1.28,0.45
+3693,Selhariz,0.62,1.5,0.53
+3694,Soutelinho Da Raia,0.42,1.01,0.36
+3695,Soutelo,0.65,1.57,0.56
+3696,Travancas,0.82,1.98,0.7
+3697,Tronco,0.42,1.01,0.36
+3698,Vale De Anta,6.34,15.2,5.38
+3699,Vidago,4.07,9.77,3.46
+3700,Vila Verde Da Raia,3.24,7.77,2.75
+3701,Vilar De Nantes,8.3,19.9,7.05
+3702,Vilarelho Da Raia,1.05,2.51,0.89
+3703,Vilarinho Das Paranheiras,0.53,1.28,0.45
+3704,Vilas Boas,1.49,3.57,1.26
+3705,Vilela Do Tamega,1.29,3.09,1.09
+3706,Vilela Seca,0.63,1.52,0.54
+3707,Barqueiros,8.24,19.76,7
+3708,Cidadelhe,0.07,0.17,0.06
+3709,Mesao Frio (Sao Nicolau),1.54,3.69,1.31
+3710,Mesao Frio (Santa Cristina),3.2,7.67,2.72
+3711,Oliveira,4.23,10.13,3.59
+3712,Vila Jusa,2.53,6.06,2.14
+3713,Vila Marim,3.8,9.12,3.23
+3714,Atei,4.43,10.61,3.76
+3715,Bilho,1.35,3.23,1.14
+3716,Campanho,0.49,1.18,0.42
+3717,Ermelo,0.11,0.27,0.09
+3718,Mondim De Basto,11.69,28.03,9.93
+3719,Paradanca,1.1,2.63,0.93
+3720,Pardelhas,0.13,0.31,0.11
+3721,Vilar De Ferreiros,3.54,8.49,3.01
+3722,Cabril,0.49,1.18,0.42
+3723,Cambeses Do Rio,0.34,0.82,0.29
+3724,Cervos,0.92,2.2,0.78
+3725,Cha,2.41,5.79,2.05
+3726,Contim,0.22,0.53,0.19
+3727,Covelaes,0.43,1.04,0.37
+3728,Covelo Do Geres,0.47,1.13,0.4
+3729,Donoes,0.16,0.39,0.14
+3730,Ferral,0.89,2.12,0.75
+3731,Fervidelas,0.24,0.58,0.21
+3732,Fiaes Do Rio,0.09,0.22,0.08
+3733,Gralhas,0.41,0.99,0.35
+3734,Meixedo,0.53,1.28,0.45
+3735,Meixide,0.16,0.39,0.14
+3736,Montalegre,7.66,18.36,6.5
+3737,Morgade,0.68,1.64,0.58
+3738,Mourilhe,0.34,0.82,0.29
+3739,Negroes,0.39,0.94,0.33
+3740,Outeiro,4.17,10.01,3.55
+3741,Padornelos,0.25,0.6,0.21
+3742,Padroso,0.51,1.23,0.44
+3743,Paradela,3.01,7.21,2.55
+3744,Pitoes Das Junias,0.67,1.62,0.57
+3745,Pondras,0.36,0.87,0.31
+3746,Reigoso,0.29,0.7,0.25
+3747,Salto,4,9.6,3.4
+3748,Santo Andre,47.57,114.09,40.41
+3749,Sarraquinhos,0.9,2.15,0.76
+3750,Sezelhe,0.41,0.99,0.35
+3751,Solveira,0.34,0.82,0.29
+3752,Tourem,0.51,1.23,0.44
+3753,Venda Nova,31.18,74.76,26.48
+3754,Viade De Baixo,1.7,4.08,1.44
+3755,Vila Da Ponte,0.46,1.11,0.39
+3756,Vilar De Perdizes (Sao Miguel),1.09,2.61,0.92
+3757,Candedo,0.71,1.71,0.61
+3758,Carva,0.6,1.45,0.51
+3759,Fiolhoso,0.96,2.29,0.81
+3760,Jou,1.5,3.59,1.27
+3761,Murca,0.2,0.48,0.17
+3762,Noura,2.09,5.02,1.78
+3763,Palheiros,1.01,2.41,0.85
+3764,Valongo De Milhais,0.89,2.12,0.75
+3765,Vilares,0.56,1.35,0.48
+3766,Canelas,3.03,7.26,2.57
+3767,Covelinhas,0.79,1.91,0.68
+3768,Fontelas,2.85,6.83,2.42
+3769,Galafura,2.55,6.1,2.16
+3770,Godim,18.31,43.91,15.55
+3771,Loureiro,15.63,37.49,13.28
+3772,Moura Morta,1.67,4,1.42
+3773,Peso Da Regua,21.59,51.77,18.34
+3774,Poiares,1.22,2.92,1.03
+3775,Sedielos,2.62,6.27,2.22
+3776,Vilarinho Dos Freires,3.22,7.72,2.73
+3777,Vinhos,2.66,6.37,2.26
+3778,Alvadia,0.87,2.07,0.73
+3779,Canedo,23.98,57.51,20.37
+3780,Cerva,7.63,18.29,6.48
+3781,Limoes,0.93,2.22,0.79
+3782,Ribeira De Pena (Salvador),8.26,19.81,7.02
+3783,Santa Marinha,3.03,7.26,2.57
+3784,Santo Aleixo De Alem-Tamega,0.91,2.17,0.77
+3785,Celeiros,15.69,37.63,13.33
+3786,Covas Do Douro,1.67,4,1.42
+3787,Gouvaes Do Douro,0.42,1.01,0.36
+3788,Gouvinhas,1.04,2.48,0.88
+3789,Pacos,0.74,1.79,0.63
+3790,Parada De Pinhao,0.82,1.98,0.7
+3791,Paradela De Guiaes,0.25,0.6,0.21
+3792,Provesende,0.98,2.34,0.83
+3793,Sao Cristovao Do Douro,0.54,1.3,0.46
+3794,Sao Lourenco De Ribapinhao,1.2,2.87,1.02
+3795,Sao Martinho De Antas,2.83,6.78,2.4
+3796,Sabrosa,5.04,12.09,4.28
+3797,Souto Maior,0.46,1.11,0.39
+3798,Torre Do Pinhao,0.92,2.2,0.78
+3799,Vilarinho De Sao Romao,0.79,1.91,0.68
+3800,Alvacoes Do Corgo,1.71,4.1,1.45
+3801,Cumieira,4,9.6,3.4
+3802,Fontes,1.24,2.97,1.05
+3803,Fornelos,3.64,8.73,3.09
+3804,Lobrigos (Sao Joao Baptista),4.54,10.88,3.85
+3805,Lobrigos (Sao Miguel),5.46,13.1,4.64
+3806,Louredo,5.57,13.37,4.73
+3807,Medroes,1.61,3.86,1.37
+3808,Sanhoane,0.39,0.94,0.33
+3809,Sever,2.21,5.31,1.88
+3810,agua Reves E Crasto,0.67,1.62,0.57
+3811,Algeriz,1.49,3.57,1.26
+3812,Alvarelhos,13.8,33.1,11.72
+3813,Barreiros,2.89,6.92,2.45
+3814,Boucoaes,0.24,0.58,0.21
+3815,Canaveses,0.59,1.42,0.5
+3816,Carrazedo De Montenegro,4.8,11.51,4.08
+3817,Curros,0.18,0.43,0.15
+3818,Ervoes,1.74,4.17,1.48
+3819,Fiaes,31.83,76.33,27.04
+3820,Fornos Do Pinhal,0.58,1.4,0.5
+3821,Frioes,1.27,3.04,1.08
+3822,Lebucao,1.11,2.65,0.94
+3823,Nozelos,0.17,0.41,0.15
+3824,Padrela E Tazem,0.93,2.22,0.79
+3825,Possacos,1.27,3.04,1.08
+3826,Rio Torto,1.96,4.7,1.67
+3827,Sao Joao Da Corveira,1.33,3.18,1.13
+3828,Sao Pedro De Veiga De Lila,0.75,1.81,0.64
+3829,Sanfins,8.56,20.53,7.27
+3830,Santa Maria De Emeres,0.8,1.93,0.68
+3831,Santa Valha,0.99,2.36,0.84
+3832,Santiago Da Ribeira De Alhariz,1.21,2.89,1.03
+3833,Serapicos,0.3,0.72,0.26
+3834,Sonim,0.51,1.23,0.44
+3835,Tinhela,0.57,1.38,0.49
+3836,Vales,0.2,0.48,0.17
+3837,Valpacos,17.2,41.25,14.61
+3838,Vassal,1.2,2.87,1.02
+3839,Veiga De Lila,0.68,1.64,0.58
+3840,Vilarandelo,3.19,7.65,2.71
+3841,Afonsim,0.66,1.59,0.56
+3842,Alfarela De Jales,1.09,2.61,0.92
+3843,Bornes De Aguiar,6.97,16.72,5.92
+3844,Bragado,1.24,2.97,1.05
+3845,Capeludos,0.88,2.1,0.74
+3846,Gouvaes Da Serra,0.32,0.77,0.27
+3847,Lixa Do Alvao,1.53,3.67,1.3
+3848,Parada De Monteiros,0.04,0.1,0.03
+3849,Pensalvos,0.56,1.35,0.48
+3850,Sabroso De Aguiar,2.16,5.19,1.84
+3851,Santa Marta Da Montanha,0.45,1.09,0.38
+3852,Soutelo De Aguiar,1.86,4.46,1.58
+3853,Teloes,16.52,39.61,14.03
+3854,Tresminas,1.45,3.47,1.23
+3855,Valoura,0.86,2.05,0.73
+3856,Vila Pouca De Aguiar,13.57,32.54,11.53
+3857,Vreia De Bornes,1.64,3.93,1.39
+3858,Vreia De Jales,2.18,5.24,1.85
+3859,Abacas,3,7.19,2.55
+3860,Adoufe,8.62,20.67,7.32
+3861,Andraes,4.6,11.02,3.9
+3862,Arroios,4.86,11.65,4.13
+3863,Borbela,11.59,27.79,9.84
+3864,Campea,4.62,11.07,3.92
+3865,Constantim,0.17,0.41,0.15
+3866,Ermida,0.91,2.17,0.77
+3867,Folhadela,8.78,21.06,7.46
+3868,Guiaes,1.6,3.84,1.36
+3869,Justes,0.88,2.1,0.74
+3870,Lamares,1.21,2.89,1.03
+3871,Lamas De Olo,0.39,0.94,0.33
+3872,Lordelo,17.72,42.48,15.05
+3873,Mateus,16.76,40.19,14.24
+3874,Mondroes,3.83,9.19,3.26
+3875,Moucos,11.55,27.7,9.81
+3876,Nogueira,29.15,69.91,24.76
+3877,Parada De Cunhos,8.29,19.88,7.04
+3878,Pena,19.55,46.87,16.6
+3879,Quinta,0.65,1.57,0.56
+3880,Sao Tome Do Castelo,3.05,7.31,2.59
+3881,Torgueda,4.73,11.34,4.02
+3882,Vale De Nogueiras,2.64,6.32,2.24
+3883,Vila Cova,8.79,21.08,7.47
+3884,Vila Marim,3.8,9.12,3.23
+3885,Vila Real (Nossa Senhora Da Conceicao),42.03,100.79,35.7
+3886,Vila Real (Sao Dinis),17.64,42.29,14.98
+3887,Vila Real (Sao Pedro),21,50.35,17.83
+3888,Vilarinho De Samarda,2.53,6.06,2.14
+3889,Aldeias,0.97,2.32,0.82
+3890,Aricera,0.42,1.01,0.36
+3891,Armamar,5,11.99,4.25
+3892,Cimbres,0.81,1.95,0.69
+3893,Coura,1.14,2.73,0.97
+3894,Folgosa,15.67,37.59,13.31
+3895,Fontelo,2.09,5.02,1.78
+3896,Goujoim,0.1,0.24,0.09
+3897,Queimada,0.73,1.76,0.62
+3898,Queimadela,1.19,2.85,1.01
+3899,Sao Cosmado,2.28,5.48,1.94
+3900,Sao Martinho Das Chas,1.88,4.51,1.6
+3901,Sao Romao,10.7,25.67,9.09
+3902,Santa Cruz,1.91,4.58,1.62
+3903,Santiago,5,11.99,4.25
+3904,Santo Adriao,0.28,0.68,0.24
+3905,Toes,0.47,1.13,0.4
+3906,Vacalar,0.7,1.69,0.6
+3907,Vila Seca,5.27,12.64,4.48
+3908,Beijos,3.37,8.08,2.86
+3909,Cabanas De Viriato,5.02,12.04,4.26
+3910,Currelos,9.48,22.73,8.05
+3911,Oliveira Do Conde,11.3,27.09,9.6
+3912,Papizios,2.29,5.5,1.95
+3913,Parada,0.33,0.8,0.28
+3914,Sobral De Papizios,2.29,5.5,1.95
+3915,Almofala,0.42,1.01,0.36
+3916,Alva,1.31,3.14,1.11
+3917,Cabril,0.49,1.18,0.42
+3918,Castro Daire,17.72,42.48,15.05
+3919,Cujo,0.74,1.79,0.63
+3920,Ermida,0.91,2.17,0.77
+3921,Ester,0.4,0.96,0.34
+3922,Gafanhao,0.27,0.65,0.23
+3923,Gosende,0.93,2.22,0.79
+3924,Moes,5.61,13.46,4.77
+3925,Mamouros,2.35,5.65,2
+3926,Mezio,1.66,3.98,1.41
+3927,Moledo,1.83,4.39,1.56
+3928,Monteiras,1.46,3.5,1.24
+3929,Moura Morta,1.67,4,1.42
+3930,Parada De Ester,1.57,3.76,1.33
+3931,Pepim,0.9,2.15,0.76
+3932,Picao,0.61,1.47,0.52
+3933,Pinheiro,5.42,13,4.61
+3934,Reriz,2.4,5.77,2.04
+3935,Ribolhos,0.89,2.12,0.75
+3936,Sao Joaninho,1.1,2.63,0.93
+3937,Alhoes,0.44,1.06,0.38
+3938,Bustelo,1.8,4.32,1.53
+3939,Cinfaes,11.99,28.76,10.19
+3940,Espadanedo,0.27,0.65,0.23
+3941,Ferreiros De Tendais,1.19,2.85,1.01
+3942,Fornelos,3.64,8.73,3.09
+3943,Gralheira,0.48,1.16,0.41
+3944,Moimenta,2.75,6.59,2.33
+3945,Nespereira,11.96,28.68,10.16
+3946,Oliveira Do Douro,90.47,216.95,76.84
+3947,Ramires,0.13,0.31,0.11
+3948,Sao Cristovao De Nogueira,5.75,13.8,4.89
+3949,Santiago De Piaes,5.11,12.26,4.34
+3950,Souselo,10.42,24.99,8.85
+3951,Tarouquela,3.44,8.25,2.92
+3952,Tendais,2.01,4.82,1.71
+3953,Travanca,9.09,21.81,7.72
+3954,Avoes,2.53,6.06,2.14
+3955,Bigorne,0.15,0.36,0.13
+3956,Britiande,3.43,8.23,2.91
+3957,Cambres,7.01,16.81,5.96
+3958,Cepoes,2.33,5.6,1.98
+3959,Ferreirim,3.21,7.7,2.73
+3960,Ferreiros De Avoes,1.96,4.7,1.67
+3961,Figueira,1.47,3.52,1.25
+3962,Lalim,2.39,5.74,2.03
+3963,Lamego (Almacave),37.81,90.66,32.11
+3964,Lamego (Se),14.25,34.16,12.1
+3965,Lazarim,1.59,3.81,1.35
+3966,Magueija,1.92,4.61,1.63
+3967,Meijinhos,0.13,0.31,0.11
+3968,Melcoes,0.33,0.8,0.28
+3969,Parada Do Bispo,0.55,1.33,0.47
+3970,Penajoia,3.5,8.4,2.97
+3971,Penude,6.35,15.22,5.39
+3972,Pretarouca,0.13,0.31,0.11
+3973,Samodaes,0.64,1.54,0.55
+3974,Sande,2.02,4.85,1.72
+3975,Varzea De Abrunhais,1.33,3.18,1.13
+3976,Valdigem,3.03,7.26,2.57
+3977,Vila Nova De Souto D' El-Rei,2.79,6.68,2.37
+3978,Abrunhosa-A-Velha,1.81,4.34,1.54
+3979,Alcafache,3.25,7.79,2.76
+3980,Chas De Tavares,3.4,8.15,2.89
+3981,Cunha Alta,0.42,1.01,0.36
+3982,Cunha Baixa,2.9,6.95,2.46
+3983,Espinho,37.73,90.47,32.04
+3984,Fornos De Maceira Dao,5.69,13.65,4.84
+3985,Freixiosa,0.52,1.25,0.44
+3986,Lobelhe Do Mato,0.79,1.91,0.68
+3987,Mangualde,38.68,92.76,32.85
+3988,Mesquitela,0.07,0.17,0.06
+3989,Moimenta De Maceira Dao,1.78,4.27,1.51
+3990,Povoa De Cervaes,0.52,1.25,0.44
+3991,Quintela De Azurara,2.31,5.55,1.97
+3992,Sao Joao Da Fresta,0.57,1.38,0.49
+3993,Santiago De Cassurraes,3.78,9.07,3.21
+3994,Travanca De Tavares,0.22,0.53,0.19
+3995,Varzea De Tavares,0.89,2.12,0.75
+3996,Aldeia De Nacomba,0.31,0.75,0.26
+3997,Alvite,3.85,9.24,3.27
+3998,Arcozelos,2.16,5.19,1.84
+3999,Ariz,6.39,15.32,5.43
+4000,Baldos,0.57,1.38,0.49
+4001,Cabacos,2.31,5.55,1.97
+4002,Caria,7.19,17.25,6.11
+4003,Castelo,3.35,8.03,2.85
+4004,Leomil,0.21,0.51,0.18
+4005,Moimenta Da Beira,12.13,29.09,10.3
+4006,Nagosa,0.12,0.29,0.1
+4007,Pera Velha,0.43,1.04,0.37
+4008,Paradinha,0.39,0.94,0.33
+4009,Passo,1.14,2.73,0.97
+4010,Peva,0.32,0.77,0.27
+4011,Rua,1.84,4.41,1.56
+4012,Sarzedo,0.19,0.46,0.16
+4013,Segoes,0.29,0.7,0.25
+4014,Sever,2.21,5.31,1.88
+4015,Vilar,0.34,0.82,0.29
+4016,Almaca,0.34,0.82,0.29
+4017,Cercosa,1.12,2.68,0.95
+4018,Cortegaca,16.47,39.49,13.99
+4019,Espinho,37.73,90.47,32.04
+4020,Marmeleira,1.55,3.72,1.32
+4021,Mortagua,11.22,26.9,9.53
+4022,Pala,1.61,3.86,1.37
+4023,Sobral,0.3,0.72,0.26
+4024,Trezoi,1.22,2.92,1.03
+4025,Vale De Remigio,2.39,5.74,2.03
+4026,Aguieira,1.68,4.03,1.43
+4027,Canas De Senhorim,13.58,32.57,11.54
+4028,Carvalhal Redondo,2.9,6.95,2.46
+4029,Lapa Do Lobo,2.47,5.93,2.1
+4030,Moreira,60.72,145.62,51.58
+4031,Nelas,19.18,46.01,16.29
+4032,Santar,0.59,1.42,0.5
+4033,Senhorim,3.66,8.78,3.11
+4034,Vilar Seco,0.75,1.81,0.64
+4035,Arca,3.94,9.46,3.35
+4036,Arcozelo Das Maias,5.57,13.37,4.73
+4037,Destriz,1.39,3.33,1.18
+4038,Oliveira De Frades,13.87,33.27,11.78
+4039,Pinheiro,5.42,13,4.61
+4040,Reigoso,0.29,0.7,0.25
+4041,Ribeiradio,3.92,9.41,3.33
+4042,Sao Joao Da Serra,1.66,3.98,1.41
+4043,Sao Vicente De Lafoes,3.16,7.58,2.68
+4044,Sejaes,1.03,2.46,0.87
+4045,Souto De Lafoes,3.91,9.38,3.32
+4046,Varzielas,1.34,3.21,1.14
+4047,Insua,8.01,19.2,6.8
+4048,Antas,9.73,23.33,8.26
+4049,Castelo De Penalva,2.38,5.72,2.03
+4050,Esmolfe,1.54,3.69,1.31
+4051,Germil,0.12,0.29,0.1
+4052,Lusinde,0.45,1.09,0.38
+4053,Mareco,0.22,0.53,0.19
+4054,Matela,0.34,0.82,0.29
+4055,Pindo,6.61,15.85,5.61
+4056,Real,4.6,11.02,3.9
+4057,Sezures,1.96,4.7,1.67
+4058,Trancozelos,0.88,2.1,0.74
+4059,Vila Cova Do Covelo,0.49,1.18,0.42
+4060,Antas,9.73,23.33,8.26
+4061,Beselga,2.52,6.03,2.14
+4062,Castainco,0.49,1.18,0.42
+4063,Granja,1.65,3.96,1.4
+4064,Ourozinho,0.3,0.72,0.26
+4065,Povoa De Penela,1.04,2.48,0.88
+4066,Penedono,3.97,9.53,3.38
+4067,Penela Da Beira,0.99,2.36,0.84
+4068,Souto,19.28,46.22,16.37
+4069,Anreade,3.56,8.54,3.02
+4070,Barro,8.13,19.49,6.9
+4071,Carquere,2.34,5.62,1.99
+4072,Feirao,0.34,0.82,0.29
+4073,Felgueiras,0.4,0.96,0.34
+4074,Freigil,1.1,2.63,0.93
+4075,Miomaes,1.08,2.58,0.91
+4076,Ovadas,0.5,1.21,0.43
+4077,Panchorra,0.34,0.82,0.29
+4078,Paus,1.22,2.92,1.03
+4079,Resende,2.01,4.82,1.71
+4080,Sao Cipriano,1.85,4.44,1.57
+4081,Sao Joao De Fontoura,1.91,4.58,1.62
+4082,Sao Martinho De Mouros,4.68,11.22,3.97
+4083,Sao Romao De Aregos,0.81,1.95,0.69
+4084,Aguas Boas,0.55,1.33,0.47
+4085,Avelal,1.43,3.43,1.21
+4086,Decermilo,0.46,1.11,0.39
+4087,Ferreira De Aves,7.55,18.09,6.41
+4088,Forles,0.12,0.29,0.1
+4089,Mioma,4.32,10.35,3.67
+4090,Rio De Moinhos,2.58,6.18,2.19
+4091,Romas,2.49,5.98,2.12
+4092,Satao,17.05,40.89,14.48
+4093,Sao Miguel De Vila Boa,4.87,11.68,4.14
+4094,Silva De Cima,1.23,2.94,1.04
+4095,Vila Longa,0.53,1.28,0.45
+4096,Castanheiro Do Sul,1.53,3.67,1.3
+4097,Ervedosa Do Douro,4.87,11.68,4.14
+4098,Espinhosa,0.36,0.87,0.31
+4099,Nagozelo Do Douro,1.51,3.62,1.28
+4100,Paredes Da Beira,2.39,5.74,2.03
+4101,Pereiros,0.42,1.01,0.36
+4102,Riodades,1.26,3.02,1.07
+4103,Sao Joao Da Pesqueira,9.48,22.73,8.05
+4104,Soutelo Do Douro,1.53,3.67,1.3
+4105,Trevoes,1.76,4.22,1.5
+4106,Varzea De Trevoes,0.57,1.38,0.49
+4107,Vale De Figueira,3.79,9.09,3.22
+4108,Valongo Dos Azeites,0.65,1.57,0.56
+4109,Vilarouco,0.95,2.27,0.8
+4110,Baioes,1.13,2.7,0.96
+4111,Bordonhos,2.15,5.16,1.83
+4112,Candal,0.21,0.51,0.18
+4113,Carvalhais,4.77,11.44,4.05
+4114,Covas Do Rio,0.24,0.58,0.21
+4115,Figueiredo De Alva,2.39,5.74,2.03
+4116,Manhouce,2.53,6.06,2.14
+4117,Pindelo Dos Milagres,1.58,3.79,1.34
+4118,Pinho,1.01,2.41,0.85
+4119,Sao Cristovao De Lafoes,0.68,1.64,0.58
+4120,Sao Felix,1.28,3.06,1.09
+4121,Sao Martinho Das Moitas,0.58,1.4,0.5
+4122,Sao Pedro Do Sul,14.82,35.54,12.59
+4123,Santa Cruz Da Trapa,5.32,12.76,4.52
+4124,Serrazes,3.51,8.42,2.98
+4125,Sul,2.6,6.22,2.2
+4126,Varzea,2.5,6.01,2.13
+4127,Valadares,2.53,6.06,2.14
+4128,Vilar Maior,0.21,0.51,0.18
+4129,Couto Do Mosteiro,4.48,10.74,3.8
+4130,Nagozela,1.38,3.31,1.17
+4131,Ovoa,3.01,7.21,2.55
+4132,Pinheiro De Azere,3.45,8.27,2.93
+4133,Sao Joao De Areias,5.9,14.14,5.01
+4134,Sao Joaninho,1.1,2.63,0.93
+4135,Santa Comba Dao,14.54,34.86,12.35
+4136,Treixedo,3.3,7.91,2.8
+4137,Vimieiro,5.99,14.35,5.08
+4138,Arnas,0.64,1.54,0.55
+4139,Carregal,0.83,2,0.71
+4140,Chosendo,0.5,1.21,0.43
+4141,Cunha,2.92,7,2.48
+4142,Escurquela,0.42,1.01,0.36
+4143,Faia,1.57,3.76,1.33
+4144,Ferreirim,3.21,7.7,2.73
+4145,Fonte Arcada,4.94,11.85,4.2
+4146,Freixinho,0.41,0.99,0.35
+4147,Granjal,0.7,1.69,0.6
+4148,Lamosa,0.46,1.11,0.39
+4149,Macieira,5.6,13.44,4.76
+4150,Penso,1.45,3.47,1.23
+4151,Quintela,1.14,2.73,0.97
+4152,Sarzeda,1.81,4.34,1.54
+4153,Sernancelhe,4.81,11.53,4.08
+4154,Vila Da Ponte,0.46,1.11,0.39
+4155,Adorigo,0.96,2.29,0.81
+4156,Arcos,25.7,61.64,21.83
+4157,Barcos,1.91,4.58,1.62
+4158,Chavaes,0.77,1.86,0.66
+4159,Desejosa,0.65,1.57,0.56
+4160,Granja Do Tedo,0.72,1.74,0.62
+4161,Granjinha,0.15,0.36,0.13
+4162,Longra,1.06,2.53,0.9
+4163,Paradela,3.01,7.21,2.55
+4164,Pereiro,0.57,1.38,0.49
+4165,Pinheiros,1.21,2.89,1.03
+4166,Santa Leocadia,0.61,1.47,0.52
+4167,Sendim,5.1,12.23,4.33
+4168,Tavora,1.19,2.85,1.01
+4169,Tabuaco,7.39,17.73,6.28
+4170,Vale De Figueira,3.79,9.09,3.22
+4171,Valenca Do Douro,1.34,3.21,1.14
+4172,Dalvares,2.64,6.32,2.24
+4173,Gouviaes,1.39,3.33,1.18
+4174,Granja Nova,1.51,3.62,1.28
+4175,Mondim Da Beira,3.2,7.67,2.72
+4176,Sao Joao De Tarouca,1.8,4.32,1.53
+4177,Salzedas,2.29,5.5,1.95
+4178,Tarouca,13.85,33.22,11.77
+4179,Ucanha,1.24,2.97,1.05
+4180,Varzea Da Serra,0.55,1.33,0.47
+4181,Vila Cha Da Beira,0.5,1.21,0.43
+4182,Barreiro De Besteiros,3.37,8.08,2.86
+4183,Campo De Besteiros,5.84,14.02,4.96
+4184,Canas De Santa Maria,6.72,16.12,5.71
+4185,Caparrosa,2.89,6.92,2.45
+4186,Casteloes,0.97,2.32,0.82
+4187,Dardavaz,2.97,7.12,2.52
+4188,Ferreiros Do Dao,1.28,3.06,1.09
+4189,Guardao,5.55,13.32,4.72
+4190,Lajeosa Do Dao,5.77,13.85,4.9
+4191,Lobao Da Beira,4.07,9.77,3.46
+4192,Molelos,8.92,21.4,7.58
+4193,Mosteirinho,0.81,1.95,0.69
+4194,Mosteiro De Fraguas,2.2,5.28,1.87
+4195,Mouraz,3.29,7.89,2.79
+4196,Nandufe,2.25,5.4,1.91
+4197,Parada De Gonta,2.55,6.1,2.16
+4198,Sao Joao Do Monte,3.52,8.44,2.99
+4199,Sao Miguel Do Outeiro,3.22,7.72,2.73
+4200,Sabugosa,1.7,4.08,1.44
+4201,Santiago De Besteiros,4.91,11.77,4.17
+4202,Silvares,9.84,23.59,8.36
+4203,Tonda,3.41,8.18,2.9
+4204,Tondela,20.19,48.42,17.15
+4205,Tourigo,1.72,4.13,1.46
+4206,Vila Nova Da Rainha,4.33,10.37,3.67
+4207,Vilar De Besteiros,3.43,8.23,2.91
+4208,Alhais,1.87,4.49,1.59
+4209,Fraguas,3.3,7.91,2.8
+4210,Pendilhe,1.41,3.38,1.2
+4211,Queiriga,1.57,3.76,1.33
+4212,Touro,2.57,6.15,2.18
+4213,Vila Cova √ã Coelheira,1.18,2.82,1
+4214,Vila Nova De Paiva,5.02,12.04,4.26
+4215,Abraveses,37.53,90.01,31.88
+4216,Barreiros,2.89,6.92,2.45
+4217,Boa Aldeia,1.59,3.81,1.35
+4218,Bodiosa,11.14,26.71,9.46
+4219,Calde,4.22,10.11,3.58
+4220,Campo,4.13,9.92,3.51
+4221,Cavernaes,5.07,12.16,4.31
+4222,Cepoes,2.33,5.6,1.98
+4223,Cota,2.02,4.85,1.72
+4224,Couto De Baixo,2.52,6.03,2.14
+4225,Couto De Cima,3.21,7.7,2.73
+4226,Fail,2.22,5.33,1.89
+4227,Farminhao,2.84,6.8,2.41
+4228,Fragosela,12,28.78,10.19
+4229,Lordosa,5.09,12.21,4.32
+4230,Mundao,11.24,26.95,9.54
+4231,Orgens,14.47,34.69,12.29
+4232,Povolide,6.41,15.37,5.44
+4233,Ranhados,0.74,1.79,0.63
+4234,Repeses,11.79,28.27,10.01
+4235,Ribafeita,4.04,9.7,3.43
+4236,Rio De Loba,42.6,102.17,36.19
+4237,Sao Cipriano,1.85,4.44,1.57
+4238,Sao Joao De Lourosa,19.71,47.26,16.74
+4239,Sao Pedro De France,4.51,10.81,3.83
+4240,Sao Salvador,0.58,1.4,0.5
+4241,Santos Evos,5.76,13.82,4.9
+4242,Silgueiros,11.27,27.02,9.57
+4243,Torredeita,5.04,12.09,4.28
+4244,Vil De Souto,2.61,6.25,2.21
+4245,Vila Cha De Sa,8.4,20.14,7.13
+4246,Viseu (Coracao De Jesus),54.11,129.77,45.96
+4247,Viseu (Sao Jose),23.09,55.37,19.61
+4248,Viseu (Santa Maria De Viseu),28.36,68.01,24.09
+4249,Alcofra,3.62,8.68,3.08
+4250,Cambra,4.61,11.05,3.91
+4251,Campia,6.86,16.45,5.83
+4252,Carvalhal De Vermilhas,0.52,1.25,0.44
+4253,Fatauncos,3.06,7.33,2.6
+4254,Figueiredo Das Donas,1.19,2.85,1.01
+4255,Fornelo Do Monte,0.69,1.66,0.59
+4256,Pacos De Vilharigues,2.74,6.56,2.32
+4257,Queira,4.91,11.77,4.17
+4258,Sao Miguel Do Mato,2.22,5.33,1.89
+4259,Ventosa,1.1,2.63,0.93
+4260,Vouzela,5.81,13.94,4.94

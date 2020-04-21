@@ -1,0 +1,162 @@
+﻿ID_2,NAME_2,Offices,Trade,Hotels
+1,Arandelovac,52,139.6,18.7
+2,Batocina,5.7,18.5,3.9
+3,Knic,6.8,19.8,4.2
+4,Kragujevac,172.6,637,78.6
+5,Lapovo,6,16.9,2.7
+6,Raca,2.6,8.5,3.3
+7,Topola,10,33.2,7
+8,Bor,68.2,184.4,13.8
+9,Kladovo,25.5,59,7.5
+10,Majdanpek,21.4,48.3,3.5
+11,Negotin,26.3,66.2,13.1
+12,Zabari,3.4,10,2.9
+13,Zagubica,6.8,16,2.9
+14,Golubac,5.3,11.3,2.4
+15,Kucevo,4.2,14.4,4.9
+16,Malo Crnice,4.2,10,3.5
+17,Petrovac na Mlavi,15.5,53.9,12.2
+18,Grad Pozarevac,125.5,299.8,31.5
+19,Veliko Gradiste,6.6,20.1,6
+20,Cukarica,398.6,1823.1,117.1
+21,Barajevo,61,158.7,14.9
+22,Grocka,162.5,502.1,53.3
+23,Lazarevac,282,516.5,17
+24,Mladenovac,94.9,245.9,21.8
+25,Novi Beograd,420.5,2546.6,141.7
+26,Obrenovac,105.1,297.9,31.1
+27,Palilula,396,1779.8,110
+28,Rakovica,225.9,1082.6,70.7
+29,Savski venac,87.5,465.7,19.9
+30,Sopot,47.8,113.2,7.3
+31,Stari Grad,93.2,666.8,23.7
+32,Surcin,127.4,312.1,34
+33,Vozdovac,354.8,1681,95.4
+34,Vracar,107.7,730.7,29.3
+35,Zemun,374.4,1429.2,120.9
+36,Zvezdara,306.2,1611.1,98.9
+37,Bojnik,3.6,8.2,1.6
+38,Crna Trava,0.9,1.9,0.2
+39,Lebane,9.3,22.3,5.1
+40,Leskovac,83.2,256.9,48.1
+41,Medveda,3,10,1.3
+42,Vlasotince,9.6,28.2,8.4
+43,Zabalj,15.7,43.9,10.6
+44,Backa Palanka,48.6,134.9,22.3
+45,Backi Petrovac,8.1,48,5.5
+46,Bac,6.6,15.7,4.3
+47,Becej,31.6,84.4,12.5
+48,Beocin,23.1,52.7,8.2
+49,Grad Novi Sad,650.7,3018.9,212.1
+50,Srbobran,14.4,32.6,5.7
+51,Sremski Karlovci,14.2,49.6,4.7
+52,Temerin,26.5,106.3,15.6
+53,Titel,12.7,31.7,5.1
+54,Vrbas,51.6,133.3,17.4
+55,Alibunar,14.4,35.1,5.1
+56,Bela Crkva,15.1,36.7,4.8
+57,Kovacica,29.7,69.6,7.4
+58,Kovin,19.8,56.5,10.8
+59,Opovo,17.6,41.4,4.8
+60,Pancevo,216.4,618.5,66.7
+61,Plandiste,4.2,16.6,2.6
+62,Vrsac,45.4,141.1,19.3
+63,Lajkovac,66.7,123.6,3.4
+64,Ljig,18.1,40.5,3.3
+65,Mionica,16.8,36.7,4.1
+66,Osecina,5.9,15.7,1.9
+67,Ub,41.2,83.4,8.5
+68,Valjevo,83.2,278.8,34.7
+69,Sabac,81.5,283.2,56.1
+70,Bogatic,10.8,31,9.2
+71,Koceljeva,4,11.3,4.3
+72,Krupanj,4,11.6,4.2
+73,Ljubovija,4.9,14.1,4
+74,Loznica,36.1,129.2,30.4
+75,Mali Zvornik,5.3,15.1,4.2
+76,Vladimirci,4.5,13.5,4.6
+77,Cacak,105.5,361.3,63
+78,Gornji Milanovac,26.5,92.8,15.3
+79,Ivanjica,18.1,57.1,8.9
+80,Lucani,6,16.3,4.7
+81,Aleksinac,27,80.9,12.8
+82,Doljevac,30.8,58,5.2
+83,Gadzin Han,3.6,8.2,1.5
+84,Merosina,10.6,21,2.8
+85,Grad Nis,341.1,1291.5,124.7
+86,Razanj,2.8,7.2,2
+87,Svrljig,5.9,15.1,3.7
+88,Bosilegrad,2.8,10.3,1.8
+89,Bujanovac,7.9,23.2,4.3
+90,Presevo,2.8,7.2,0.5
+91,Surdulica,14.4,34.8,5
+92,Trgoviste,2.1,3.8,0.8
+93,Vladicin Han,8.9,27,4.9
+94,Grad Vranje,56.5,182.5,26.7
+95,Babusnica,6,13.2,2.6
+96,Bela Palanka,8.1,24.5,2.8
+97,Dimitrovgrad,14.9,37,3
+98,Pirot,55.2,145.2,17.5
+99,Smederevo,68.2,236.2,38.5
+100,Smederevska Palanka,45.2,123.6,15.5
+101,Velika Plana,21,65.5,17.2
+102,Cuprija,13.4,57.1,9.8
+103,Despotovac,7.9,26.7,5.9
+104,Jagodina,48.4,203.5,28.3
+105,Paracin,35.9,104.7,23.6
+106,Rekovac,2.3,8.2,1.8
+107,Svilajnac,10.6,36.7,10.4
+108,Kraljevo,88.1,347.5,50.4
+109,Novi Pazar,34.8,129.2,31
+110,Raska,11.5,52.7,8
+111,Tutin,3.4,12.5,3.6
+112,Vrnjacka Banja,16.8,62.7,9.6
+113,Cicevac,4.2,16.3,3.4
+114,Aleksandrovac,7.6,29.8,7.3
+115,Brus,5.5,29.5,3.6
+116,Krusevac,85,303.6,46
+117,Trstenik,18,61.5,14.1
+118,Varvarin,4.9,17.2,5.2
+119,Backa Topola,23.6,73.1,11.9
+120,Mali Idos,5.9,21,4
+121,Subotica,154.4,550.4,71.2
+122,Ada,15.5,45.2,5.3
+123,Coka,14.7,29.8,3.4
+124,Kanjiza,21.7,56.8,9.4
+125,Kikinda,86,216.4,18.9
+126,Novi Knezevac,15.9,35.1,2.7
+127,Senta,24.8,77.8,9.5
+128,Zitiste,22.5,45.8,3.9
+129,Novi Becej,13.6,32,7.2
+130,Nova Crnja,4.5,12.2,2.7
+131,Secanj,3.8,13.2,2.5
+132,Zrenjanin,143.1,443.5,50.1
+133,Sid,15.1,67.7,12.2
+134,Indija,54.2,160.6,19.9
+135,Irig,12.7,29.5,3.5
+136,Pecinci,39.5,99.1,10.5
+137,Ruma,28.9,105.7,23
+138,Sremska Mitrovica,56.1,185.3,30
+139,Stara Pazova,94.1,268.5,35.8
+140,Zitorada,6.8,15.1,2.7
+141,Blace,3.6,15.4,3
+142,Kursumlija,5.1,21,4.6
+143,Prokuplje,26.5,82.2,13.4
+144,Boljevac,5.5,14.7,2.6
+145,Knjazevac,16.3,53.3,7.4
+146,Sokobanja,9.1,28.9,4.7
+147,Zajecar,62.9,185.3,20.3
+148,Apatin,25.1,62.7,9.5
+149,Kula,28.5,79.3,18
+150,Odzaci,14,59,9.3
+151,Sombor,74.1,229.9,34.6
+152,Cajetina,15.1,39.5,5.3
+153,Arilje,7.4,22.9,5.8
+154,Bajina Basta,8.3,26.7,7.7
+155,Kosjeric,3.8,13.8,3.7
+156,Nova Varos,8.9,23.8,3.8
+157,Pozega,13.8,59.6,12
+158,Priboj,10.4,33.9,7.6
+159,Prijepolje,23.4,69.9,11.7
+160,Sjenica,4.7,19.8,4.2
+161,Uzice,55.2,215.8,32.9
