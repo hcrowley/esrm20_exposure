@@ -21,6 +21,12 @@ provided in v0.2 have also been made:
  - Removed Ukraine from the list of countries (as it will not be covered by the European seismic hazard model)
  - Corrected various typos 
 
+Please cite this body of work as:
+
+H. Crowley, V. Despotaki, D. Rodrigues, V. Silva and Exposure Contributors (2020) 
+European Exposure Model - Mapping Schemes (v0.3). Available from URL: 
+https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.3
+
 
 2020-01-31: European Exposure Model v0.2 released
 
