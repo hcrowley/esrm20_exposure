@@ -3,6 +3,14 @@ What's New
 Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
 
 
+2020-04-23: European Exposure Model v0.4 released
+
+Folders with the following data for 45 European countries are made available:
+- residential, commercial and industrial building/dwelling count source data
+- residential dwelling area, industrial building area and commercial building area assumptions (per building class)
+- residential dwelling per building assumptions (per building class)
+
+
 2020-04-14: European Exposure Model v0.3 released
 
 Folders with the mapping schemes providing the distribution of commercial and industrial buildings for the
