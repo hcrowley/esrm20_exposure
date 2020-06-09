@@ -14,4 +14,4 @@ SERA Deliverable D26.3 (Methods for developing European commercial and industria
 Available from URL: http://eu-risk.eucentre.it/wp-content/uploads/2019/08/SERA_D26.3_Exposure_Models_Non-res_Res.pdf
 
 Crowley H, Despotaki V, Rodrigues D, Silva V, Toma-Danila D, Riga E, Karatzetsou A, Sousa L, Ozcebe S, Zugic Z, Gamba P (2020) 
-“Exposure model for European Seismic Risk Assessment,” Earthquake Spectra, in press
+“Exposure model for European Seismic Risk Assessment,” Earthquake Spectra, doi: https://doi.org/10.1177/8755293020919429
