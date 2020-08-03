@@ -1,21 +1,21 @@
-The processed census data for Italy was provided by Barbara Borzi (barbara.borzi@eucentre.it) and Marta Faravelli (marta.faravelli@eucentre.it) based on the 2001 ISTAT census data (see data_Italy_RES_census.txt). The variables in the processed census have been mapped to the ESRM20 taxonomy as follows:
+The processed 2011 census data for Italy was provided by the Department of Civil Protection. This data cannot yet be made publicly available. The variables in the census have been mapped to the ESRM20 taxonomy as follows:
 
 
-Mat		Piani		ESRM20 Taxonomy
+Material	Storeys		ESRM20 Taxonomy
 muratura	1-3		MUR+STRUB/LWAL+CDN/H1 to H3
-muratura 	4-8		MUR+STDRE/LWAL+CDN/H1 to H8
-ca		1-8		CR/LFINF+.../H1 to H8
-pilot		1-8		CR/LFINF+.../SOS/H1 to H8
-altro		1-8		MCF/LWAL+CDL/H1 to H8
+muratura 	4-		MUR+STDRE/LWAL+CDN/HBET:4-
+ca		1:4-		CR/LFINF+.../H1 to HBET:4-
+altro		1:4-		MCF/LWAL+CDL/H1 to HBET:4-
 
 
-Epoca		ESRM20 Taxonomy (for CR/LFINF)
+Year		ESRM20 Taxonomy (for CR/LFINF and MCF)
 pre 1919	CDN
-1919-1945	CDN or CDL (if seismic zone)
-1946-1961	CDN or CDL (if seismic zone)
-1962-1971	CDN or CDL (if seismic zone)
-1972-1981	CDN or CDL (if seismic zone)
-1982-1991	CDN or CDL (if seismic zone)
-dopo 1991	CDN or CDL (if seismic zone)
+1919-1945	CDL (if seismic zone for MCF)
+1946-1961	CDL (if seismic zone for MCF)
+1962-1971	CDL (if seismic zone for MCF)
+1972-1981	CDL (if seismic zone for MCF)
+1982-1991	CDL (if seismic zone for MCF)
+1991-2001	CDL (if seismic zone for MCF)
+After 2001	CDM (CDL if seismic zone for MCF)
 
 
