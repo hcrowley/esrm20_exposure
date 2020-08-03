@@ -3,6 +3,14 @@ What's New
 Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
 
 
+2020-08-03: European Exposure Model v0.5 released
+
+- various bug fixes (see commits for more details)
+- Italian residential exposure model data files adapted to refer to 2011 census data (currently not publicly available)
+- update of seismic design assumptions for CR typologies in GED4GEM countries (Andorra, Belarus, Czechia, Denmark, Estonia, 
+Finland, Gibraltar, Ireland, Isle of Man, Latvia,Liechtenstein, Lithuania, Luxembourg, Monaco, Poland, Sweden, United Kingdom) 
+
+
 2020-04-23: European Exposure Model v0.4 released
 
 Folders with the following data for 45 European countries are made available:
@@ -10,6 +18,13 @@ Folders with the following data for 45 European countries are made available:
 - residential dwelling area, industrial building area and commercial building area assumptions (per building class)
 - residential dwelling per building assumptions (per building class)
 
+Please cite this body of work as:
+
+H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
+S, Fotopoulou, B. Borzi, M. Faravelli, L. Sousa, S. Ozcebe, P. Gamba and Exposure Contributors (2020) 
+European Exposure Model - dwelling/building source data (count, areas and dwellings per building) 
+and mapping schemes(v0.4). Available from URL: 
+https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.4
 
 2020-04-14: European Exposure Model v0.3 released
 
