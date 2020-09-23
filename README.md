@@ -15,3 +15,5 @@ Available from URL: http://eu-risk.eucentre.it/wp-content/uploads/2019/08/SERA_D
 
 Crowley H, Despotaki V, Rodrigues D, Silva V, Toma-Danila D, Riga E, Karatzetsou A, Sousa L, Ozcebe S, Zugic Z, Gamba P (2020) 
 “Exposure model for European Seismic Risk Assessment,” Earthquake Spectra, doi: https://doi.org/10.1177/8755293020919429
+
+If you have any questions or feedback on the data included in this repository, please send it via email to 'feedback.eu-risk@eucentre.it'.
