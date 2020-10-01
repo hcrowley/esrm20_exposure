@@ -1,14 +1,15 @@
 European Exposure Model v0.5 
 
-See What's New for a description of the data that has been released with v0.5. 
+See What's New for a description of the data that has been released with v0.6. 
 
 Please cite this body of work as:
 
 H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
-S, Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba and Exposure Contributors (2020) 
-European Exposure Model - dwelling/building source data (count, areas and dwellings per building) 
-and mapping schemes(v0.5). Available from URL: 
-https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.5
+S, Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba, J. Dabbeek, X. Romão, N. Pereira, J. M. Castro, J. Daniell, 
+E. Veliu, H. Bilgin, C. Adam, M. Deyanova, N. Ademović, J. Atalic, B. Bessason, V. Shendova, A. Tiganescu, 
+D. Toma-Danila, Z. Zugic, S. Akkar, U. Hancilar and Exposure Contributors (2020) 
+European Exposure Model v0.6 (dwelling/building source data, mapping schemes and shapefiles with seismic design assumptions).
+Available from URL: https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.6
 
 For the full list of 'Exposure Contributors' see: https://eu-risk.eucentre.it/contributors/. 
 
