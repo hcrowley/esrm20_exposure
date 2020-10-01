@@ -17,3 +17,5 @@ Crowley H, Despotaki V, Rodrigues D, Silva V, Toma-Danila D, Riga E, Karatzetsou
 “Exposure model for European Seismic Risk Assessment,” Earthquake Spectra, doi: https://doi.org/10.1177/8755293020919429
 
 If you have any questions or feedback on the data included in this repository, please send it via email to 'feedback.eu-risk@eucentre.it'.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4062045.svg)](https://doi.org/10.5281/zenodo.4062045)
