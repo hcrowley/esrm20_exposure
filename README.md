@@ -22,4 +22,4 @@ Please cite this repository as: H. Crowley, V. Despotaki, D. Rodrigues, V. Silva
 
 For the full list of 'Exposure Contributors' see: https://eu-risk.eucentre.it/contributors/. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4062045.svg)](https://doi.org/10.5281/zenodo.4062045)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4062044.svg)](https://doi.org/10.5281/zenodo.4062044)
