@@ -18,8 +18,8 @@ Crowley H, Despotaki V, Rodrigues D, Silva V, Toma-Danila D, Riga E, Karatzetsou
 
 If you have any questions or feedback on the data included in this repository, please send it via email to 'feedback.eu-risk@eucentre.it'.
 
-Please cite this repository as: H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou, S. Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba, J. Dabbeek, X. Romão, N. Pereira, J. M. Castro, J. Daniell, E. Veliu, H. Bilgin, C. Adam, M. Deyanova, N. Ademović, J. Atalic, B. Bessason, V. Shendova, A. Tiganescu, D. Toma-Danila, Z. Zugic, S. Akkar, U. Hancilar and Exposure Contributors (2020). European Exposure Model Data Repository (Version 0.6) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4062045
+Please cite the current version of this repository as: H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou, S. Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba, J. Dabbeek, X. Romão, N. Pereira, J. M. Castro, J. Daniell, E. Veliu, H. Bilgin, C. Adam, M. Deyanova, N. Ademović, J. Atalic, B. Bessason, V. Shendova, A. Tiganescu, D. Toma-Danila, Z. Zugic, S. Akkar, U. Hancilar and Exposure Contributors (2020). European Exposure Model Data Repository (Version 0.6) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4062045
 
 For the full list of 'Exposure Contributors' see: https://eu-risk.eucentre.it/contributors/. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4062045.svg)](https://doi.org/10.5281/zenodo.4062045)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4062044.svg)](https://doi.org/10.5281/zenodo.4062044)
