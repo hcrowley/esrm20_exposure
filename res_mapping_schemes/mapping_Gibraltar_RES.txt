@@ -3,7 +3,7 @@ The exposure model for Gibraltar is taken from GED4GEM (see https://platform.ope
 The PAGER building classes were then mapped to the ESRM20 taxonomy as follows:
 
 PAGER	GEM TAXONOMY
-C1	50% CR/LFM+CDL/HBET:3-5 / 50% CR/LFM+CDN/HBET:3-5
+C1	50% CR/LFINF+CDL/HBET:3-5 / 50% CR/LFINF+CDN/HBET:3-5
 RM1	MR/LWAL+CDL/H:2
 RM2	MR/LWAL+CDL/H:2
 S3	S/LFM+CDL/H:1
