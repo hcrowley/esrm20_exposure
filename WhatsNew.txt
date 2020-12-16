@@ -2,10 +2,30 @@ What's New
 
 Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
 
+
+2020-12-16: European Exposure Model v0.7 released
+
+- added social indicator data for Europe (see "social_indicators" folder)
+- added population distribution model for day/night/transit (see "social_indicators" folder)
+- made a number of updates to mapping schemes following local expert feedback (see commits for more details)
+- updated the replacement cost data for many countries (see European_Exposure_Model_Data_Inputs_Sources.xlsx)
+- added CDH zonation shapefile for Austria
+- updated lateral forces in CDM shapefile for Portugal following local expert feedback
+
+
 2020-10-01: European Exposure Model v0.6 released
+
 - shapefiles with the seismic design assumptions (in terms of lateral force coefficient for mid-rise 
 RC building on medium soil) 
 - removal of islands and countries outside of the scope of the hazard model (ESHM20)
+
+Please cite this version as:
+
+H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
+S. Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba, J. Dabbeek, X. Romão, N. Pereira, J. M. Castro, J. Daniell, 
+E. Veliu, H. Bilgin, C. Adam, M. Deyanova, N. Ademović, J. Atalic, B. Bessason, V. Shendova, A. Tiganescu, 
+D. Toma-Danila, Z. Zugic, S. Akkar, U. Hancilar and Exposure Contributors (2020). 
+European Exposure Model Data Repository (Version 0.6) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4062044
 
 
 2020-08-03: European Exposure Model v0.5 released
@@ -15,13 +35,14 @@ RC building on medium soil)
 - update of seismic design assumptions for CR typologies in GED4GEM countries (Andorra, Belarus, Czechia, Denmark, Estonia, 
 Finland, Gibraltar, Ireland, Isle of Man, Latvia,Liechtenstein, Lithuania, Luxembourg, Monaco, Poland, Sweden, United Kingdom) 
 
-Please cite this body of work as:
+Please cite this version as:
 
 H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
 S, Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba and Exposure Contributors (2020) 
 European Exposure Model - dwelling/building source data (count, areas and dwellings per building) 
 and mapping schemes(v0.5). Available from URL: 
 https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.5
+
 
 2020-04-23: European Exposure Model v0.4 released
 
@@ -30,13 +51,14 @@ Folders with the following data for 45 European countries are made available:
 - residential dwelling area, industrial building area and commercial building area assumptions (per building class)
 - residential dwelling per building assumptions (per building class)
 
-Please cite this body of work as:
+Please cite this version as:
 
 H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
 S, Fotopoulou, B. Borzi, M. Faravelli, L. Sousa, S. Ozcebe, P. Gamba and Exposure Contributors (2020) 
 European Exposure Model - dwelling/building source data (count, areas and dwellings per building) 
 and mapping schemes(v0.4). Available from URL: 
 https://gitlab.seismo.ethz.ch/efehr/esrm20_exposure/tree/v0.4
+
 
 2020-04-14: European Exposure Model v0.3 released
 
@@ -48,7 +70,7 @@ provided in v0.2 have also been made:
  - Removed Ukraine from the list of countries (as it will not be covered by the European seismic hazard model)
  - Corrected various typos 
 
-Please cite this body of work as:
+Please cite this version as:
 
 H. Crowley, V. Despotaki, D. Rodrigues, V. Silva and Exposure Contributors (2020) 
 European Exposure Model - Mapping Schemes (v0.3). Available from URL: 
@@ -61,7 +83,7 @@ A list of sources and a folder with the mapping schemes used in the European exp
 are made available (together with the mapping schemes from the NERA Project - EC Grant agreement ID 262330 - which have
 been used for some of the European countries). 
 
-Please cite this body of work as:
+Please cite this version as:
 
 H. Crowley, V. Despotaki, D. Rodrigues, V. Silva and Exposure Contributors (2020) 
 European Exposure Model - Mapping Schemes (v0.2). Available from URL: 
