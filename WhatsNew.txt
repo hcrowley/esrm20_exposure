@@ -2,6 +2,11 @@ What's New
 
 Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
 
+2020-12-29: European Exposure Model v0.8 released
+
+- fixed various inconsistencies between data files (see commits for more details)
+- RME (roof type) removed from industrial steel building classes
+
 
 2020-12-16: European Exposure Model v0.7 released
 
