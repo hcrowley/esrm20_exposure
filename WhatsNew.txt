@@ -17,6 +17,14 @@ Below you may find an overview of the data and model improvements for each relea
 - added CDH zonation shapefile for Austria
 - updated lateral forces in CDM shapefile for Portugal following local expert feedback
 
+Please cite this version as:
+
+H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
+S. Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba, J. Dabbeek, X. Romão, N. Pereira, J. M. Castro, J. Daniell, 
+E. Veliu, H. Bilgin, C. Adam, M. Deyanova, N. Ademović, J. Atalic, B. Bessason, V. Shendova, A. Tiganescu, 
+D. Toma-Danila, Z. Zugic, S. Akkar, U. Hancilar and Exposure Contributors (2020). 
+European Exposure Model Data Repository (Version 0.7) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4062044
+
 
 2020-10-01: European Exposure Model v0.6 released
 
