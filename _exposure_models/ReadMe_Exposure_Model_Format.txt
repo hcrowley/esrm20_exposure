@@ -21,8 +21,5 @@ OCCUPANTS_PER_ASSET_DAY: The average number of day-time (10 am to 6pm) occupants
 OCCUPANTS_PER_ASSET_NIGHT: The average number of night-time (10pm to 6 am) occupants of all buildings comprising the asset
 OCCUPANTS_PER_ASSET_TRANSIT: The average number of transit-time (6am to 10am and 6pm to 10pm) occupants of all buildings comprising the asset
 OCCUPANTS_PER_ASSET_AVERAGE: The average number of occupants over a 24 hour period for all buildings comprising the asset
-NAME_1: Name of the first administrative level
-ID_2: ID for the second administrative level
-NAME_2: Name of the second administrative level
-⋮
+NAME_X: Name of the X administrative level
 
