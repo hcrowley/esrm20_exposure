@@ -32,6 +32,7 @@ The following explains in more detail the folders included in this repository. I
 
 **sources**: this folder contains an .xlsx file with detailed information on the sources and assumptions used to develop the exposure model.
 
+**spatial_disaggregation**: this folder contains a raster file of Global Human Settlement (GHS) and instructions on how to disaggregate the exposure model using this dataset.
 
 ### Versioning
 
