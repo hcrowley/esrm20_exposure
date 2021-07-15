@@ -6,31 +6,31 @@ This is a public repository that contains the data and resources being used to d
 
 The following explains in more detail the folders included in this repository. It is strongly recommended to consult first the "European_Exposure_Model_Data_Inputs_Sources.xlsx" file in the sources folder to better understand how the different files in this repository are combined to produce the exposure models.  
 
-_exposure_models: this folder contains exposure model data for residential (Res), commercial (Com) and industrial (Ind) buildings in 44 countries in Europe
+**_exposure_models**: this folder contains the exposure models for residential (Res), commercial (Com) and industrial (Ind) buildings in 44 countries in Europe
 
-com_building_area: this folder has .csv files, for each country, with the assumptions of the area per building for each commercial building class 
+**com_building_area**: this folder has .csv files, for each country, with the assumptions of the area per building for each commercial building class 
 
-com_exposure_source_data: this folder has .csv files, for each country, with the number of offices, trade (retail) and hotel buildings in each administrative unit obtained from the original source data
+**com_exposure_source_data++: this folder has .csv files, for each country, with the number of offices, trade (retail) and hotel buildings in each administrative unit obtained from the original source data
 
-com_mapping_schemes: this folder has .xlsx files with the modelled distribution of offices, trade (retail) and hotel buildings per building class
+**com_mapping_schemes++: this folder has .xlsx files with the modelled distribution of offices, trade (retail) and hotel buildings per building class
 
-ind_exposure_source_data: this folder has .csv files, for each country, with the number of industrial buildings in each administrative unit / 30 arc second grid cell obtained from the original source data
+**ind_exposure_source_data**: this folder has .csv files, for each country, with the number of industrial buildings in each administrative unit / 30 arc second grid cell obtained from the original source data
 
-ind_mapping_schemes: this folder has .xlsx files with the modelled distribution of industrial buildings per building class
+**ind_mapping_schemes**: this folder has .xlsx files with the modelled distribution of industrial buildings per building class
 
-res_dwelling_area: this folder has .csv files, for each country, with the assumptions of the area per dwelling for each residential building class 
+**res_dwelling_area**: this folder has .csv files, for each country, with the assumptions of the area per dwelling for each residential building class 
 
-res_dwelling_per_building: this folder has .csv files, for each country, with the assumptions of the number of dwellings per building for each residential building class 
+**res_dwelling_per_building**: this folder has .csv files, for each country, with the assumptions of the number of dwellings per building for each residential building class 
 
-res_exposure_source_data: this folder has .csv, .xlsx and zip files with the source residential dwelling/building and population data per administrative unit for each country
+**res_exposure_source_data**: this folder has .csv, .xlsx and zip files with the source residential dwelling/building and population data per administrative unit for each country
 
-res_mapping_schemes: this folder has .xlsx and.txt files that describe the distribution of residential buildings/dwellings between building classes.
+**res_mapping_schemes**: this folder has .xlsx and.txt files that describe the distribution of residential buildings/dwellings between building classes.
 
-seismic_design_shapefiles: this folder has shapefiles which map, for each country and design code, the distribution of lateral force coefficients assumed in the model. For more information refer to https://t.co/hQ8Q2tfpfx?amp=1
+**seismic_design_shapefiles**: this folder has shapefiles which map, for each country and design code, the distribution of lateral force coefficients assumed in the model. For more information refer to https://t.co/hQ8Q2tfpfx?amp=1
 
-social_indicators: this folder contains the most recent social indicator data for European countries, as well as the model used for the distribution of the total population between residential and non-residential buildings during the day, night and transit times.
+**social_indicators**: this folder contains the most recent social indicator data for European countries, as well as the model used for the distribution of the total population between residential and non-residential buildings during the day, night and transit times.
 
-sources: this folder contains an .xlsx file with detailed information on the sources and assumptions used to develop the exposure model.
+**sources**: this folder contains an .xlsx file with detailed information on the sources and assumptions used to develop the exposure model.
 
 
 ### Versioning
