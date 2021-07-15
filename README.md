@@ -10,9 +10,9 @@ The following explains in more detail the folders included in this repository. I
 
 **com_building_area**: this folder has .csv files, for each country, with the assumptions of the area per building for each commercial building class 
 
-**com_exposure_source_data++: this folder has .csv files, for each country, with the number of offices, trade (retail) and hotel buildings in each administrative unit obtained from the original source data
+**com_exposure_source_data**: this folder has .csv files, for each country, with the number of offices, trade (retail) and hotel buildings in each administrative unit obtained from the original source data
 
-**com_mapping_schemes++: this folder has .xlsx files with the modelled distribution of offices, trade (retail) and hotel buildings per building class
+**com_mapping_schemes**: this folder has .xlsx files with the modelled distribution of offices, trade (retail) and hotel buildings per building class
 
 **ind_exposure_source_data**: this folder has .csv files, for each country, with the number of industrial buildings in each administrative unit / 30 arc second grid cell obtained from the original source data
 
