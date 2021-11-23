@@ -3,11 +3,27 @@ What's New
 Below you may find an overview of the data and model improvements for each release of the European Exposure Model.
 
 
+2021-11-23: European Exposure Model v1.0 released
+
+- release of the exposure models used in the European Seismic Risk Model (ESRM20) 
+- updates to dwelling counts to match Eurostat 2011 in some countries (see commits for more details)
+- new spatial disaggregation folder with data and link to tools for disaggregation of exposure models
+- modifications to mapping schemes (see commits for more details)
+
+
 2020-12-30: European Exposure Model v0.9 released
 
 - first public release of the commercial, industrial and residential building exposure models for 44 European countries
 - this is a pre-release that will be subject to review and revision before v1.0 which will be used in the European 
 Seismic Risk Model (ESRM20)
+
+Please cite this version as:
+
+H. Crowley, V. Despotaki, D. Rodrigues, V. Silva, C. Costa, D. Toma-Danila, E. Riga, A. Karatzetzou,  
+S. Fotopoulou, L. Sousa, S. Ozcebe, P. Gamba, J. Dabbeek, X. Romão, N. Pereira, J. M. Castro, J. Daniell, 
+E. Veliu, H. Bilgin, C. Adam, M. Deyanova, N. Ademović, J. Atalic, B. Bessason, V. Shendova, A. Tiganescu, 
+Z. Zugic, S. Akkar, U. Hancilar and Exposure Contributors (2020). 
+European Exposure Model Data Repository (Version 0.9) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4062044
 
 
 2020-12-29: European Exposure Model v0.8 released
