@@ -1,4 +1,4 @@
-# European Exposure Model
+# European Exposure Model Data
 
 This is a public repository that contains the data and resources being used to develop the exposure models for the European Seismic Risk Model 2020 (ESRM20). 
 
